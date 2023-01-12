@@ -184,11 +184,10 @@ As it's name implies, it's structured around the **three roles** that are defini
 
 #### 1. Product - What?
 
-Product is here to **figure out what should be built**. They answer the question 'What?'.
+Product is here to **figure out what should be built**. They answer the question **'What?'**.
 
 There is a process-y way to go at this, but many companies (small and big, young and old) are being very successful with an organic approach, so it's not mandatory.
-The obsession for data to figure out what to do next can be a sign of a team that doesn't understand their customer/end users.
-It's fine to be there, but again, recognize the problem, so you can address it.
+Don't torture yourself if you don't or can't do all the things below.
 
 Here are some of the ways the Product role can find the answers to 'What?':
 
@@ -203,10 +202,10 @@ Regardless, successful outcome is a product line up, release structure, feature 
 
 #### 2. Engineering - How?
 
-Now that we know what we want, it's time to work on building it. The engineers will do that by answering the question 'How?'.
+Now that we know what we want, it's time to work on building it. The engineers will do that by answering the question **'How?'**. 
 
-It is this role's job to figure it out while retaining the most important elements from Product.
-This also means that the requirements from Product are sensible. To enforce this, the **Trifecta works with each other not for each other**.
+Engineering will do just that while retaining the most important elements from Product.
+This also means that the requirements from Product have to be sensible. To enforce this, the **Trifecta works _with_ each other not _for_ each other**.
 This is a critical differentiation of the trifecta vs what you've probably heard before from structure that resembles it.
 
 To figure out 'How?' Engineering will go and look at:
@@ -225,7 +224,7 @@ Ultimately, the success outcome is a multi-generational plan on how to balance n
 
 The Project role has often other names like delivery and program management. There are differences noticeable but at the role level they don't matter.
 
-Anyway, we finally know what we want to build and how we will build it. It's time to figure out 'When?'. 
+Anyway, we finally know what we want to build and how we will build it. It's time to figure out **'When?'**. 
 
 At this moment, Engineering is capable of giving time frames but these are notoriously unreliable.
 That's because to provide accurate timeframe, you need perspective.
