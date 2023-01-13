@@ -274,7 +274,50 @@ They all need to carry their own weight so they all can do their individual work
 @#$peoplefirstandlast$#@
 ### People First and Last
 
-Coming Soon...
+Tech companies are built by people. Smart and creative people. Usually relatively more people than you would need in other companies because most of the automation other industries enjoy comes out of tech companies.
+There is plenty of automation and improvements in tech companies, but it's a bottomless pit as all these tools either require more people to manage or simply provide a platform to the next round of problems.
+Software is like that - and yes, hardware companies runs tons of software too, so they are on the same boat. 
+Software is this infinite land that continuously expand past the point that anyone can mentally picture.
+So you're forced to bring more and more people as you grow, so you can continue developing and maintaining your products.
+
+Not only the surface is large, but the problems are very complex. Even if your product is simple, as it grows you'll inevitably need to segment it just to be able to maintain it.
+This requires creating an architecture that rely on smaller pieces that interact with each other. Just so you can focus on the individual context of each piece.
+
+You may be thinking that you can jsut keep your business small, but you take the chance of being swallowed by the competition.
+Either nicely through an acquisition or nastily through irrelevance. This reality makes the push to grow an omnipresent force.
+
+It's not the end of the world, but it's a dynamic you better get comfortable with. 
+Usually, people close to engineering are well aware with this, but there is a new generation of tech leaders whose background isn't necessarily rooted in engineering.
+These people tend to have a hard time to understand that every line of code you have is a liability you need to maintain.
+They also tend to have a hard time accepting that code kinda ages like milk.
+
+These two realities forces you to constantly rewrite what was written. 
+The efficient way to do it is to leverage the people who know the code base in the first place as they carry with them the knowledge of the lessons learned building and shipping the product.
+It's not a silver bullet though as some of them can stay stuck in the old ways.
+
+Regardless, your people dynamic is now a **qualitative**, **quantitative** and **generational** (at the company level) problem to handle.
+
+[pagebreak]
+
+So by now, you probably get that my point is that people in your teams are incredibly important. 
+This doesn't mean that you have to accept everything and anything, but it does mean that you **have to go above and beyond** to find resolutions, to stimulate the environment they work in. 
+You have to leave behind your ego, feelings and assumptions behind. You have to put yourself in their shoes.
+
+- In situation of under performance, you start asking why? You assume there is a legitimate problem. Read more from Simon Sinek if you want to deep dive this topic.
+- In cases of conflicts, you focus on getting all sides perspective first. You protect fairness, leave your 'favorite child' biases behind.
+- In any circumstances, you focus on providing perspective so everyone understand why they are here. You put yourself in their shoes.
+
+A practical example that's also been widely documented is founders/executives with heavy equity in their compensation not understanding/accepting low engagement from their staff.
+They don't have the same skin in the game as you have. Give it to them or just accept the dynamic you've established.
+
+[pagebreak]
+
+Finally (for now), tech talent has the upper hand. They are in high demand pretty much everywhere in the world. The good ones even more. 
+They get approached all the time with new opportunities and that's another dynamic you need to get comfortable with.
+Once again, it doesn't mean you have to accept everything and anything. It does mean you need to understand the true nature of your relationship.
+The large majority of them don't want to job hop every few months. They want to be paid fairly, work on interesting problems in an environment that is pleasant and compatible with their personal development.
+
+Just don't give them a reason to leave. Give them a reason to stay or join.
 
 @#$leadershipvsmanagement$#@
 ### Leadership vs Management
