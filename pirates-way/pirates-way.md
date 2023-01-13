@@ -322,9 +322,83 @@ Just don't give them a reason to leave. Give them a reason to stay or join.
 @#$leadershipvsmanagement$#@
 ### Leadership vs Management
 
-Coming Soon...
+The difference between leadership and management is a subject I particularly appreciate. 
+They are so often used as synonym and the term 'lead' is so commonly used as a blanket placeholder to rightful titles in insecure environments.
+Still, there are _very_ big differences that have to be understood to **build world-class teams** though.
 
-[//]: # (![Leadership & Management involvement over career]&#40;./images/leadership_management.jpg&#41;)
+[pagebreak]
+
+#### Management, the art of creating predictable results
+
+To achieve predictable results, the manager (at any level) leverages **different processes and tools** that have demonstrated - in their context - their ability to do so. 
+This includes scheduling, workflows or pipelines with checkpoints at given key frames. 
+
+Anyone can basically be a good manager providing that they can structure their work and be organized. You simply have to engage in a control loop:
+
+1. Start by identifying a **problem**. This is obviously easier if you've done the job below the manager, but it shouldn't be crazy hard either way.
+2. You start identifying a **solution**. This is a research project. You can get answer from the internet, your network, personal experiences or brainstorming.
+3. You deploy the solution and **observe** the results. This is simply organization and discipline. There are ways to get better at each of these steps, but I'll cover that later.
+
+After that last step, based on the observed results, you go back to step 1, moving to the residual problems. Rinse and repeat.
+
+Great managers get good and predictable results, but the tech industry being such a talent-driven one, if you are looking for excellence, a pure management approach tends to fall short. 
+This is where leadership comes in.
+
+[pagebreak]
+
+#### Leadership, the art to guide others to their excellence
+
+Everything else that is usually attributed to leadership is consequential to this. Now, there are countless leadership styles, but that's not exactly the angle I want to cover here.
+
+Leadership is about bringing **inspiration and direction** to a bright future while also providing **individually-tailored guidance and support** to get there.
+In other words, you set the north star, get people rallied behind your ability to take everyone there and take care of each individual along the way.
+
+It's more difficult than management because it requires strong **soft skills**. You have to be confident and capable to put yourself in your people's shoes. 
+You need to be able to genuinely connect with the people you interact with to effectively lead. You need to genuinely care about them.
+
+In practice, the rise of leadership skills is rarely structured and much more natural selection oriented. 
+Many strong leaders have a natural sense for their style and this tends to create a natural matching selection where you - as leader - attract people that are compatible with your style and reject those who aren't. 
+This is something you should be aware of as you will be missing on some incredible talent and ideas.
+This is also very relevant if you find yourself being the only genius in the room and there is a book about that I believe called "Everyone is an idiot" (but I haven't read it yet - was recommended for this topic)
+
+So great leadership requires:
+
+1. Strong **soft skill**, 
+2. The ability to **connect with people**, 
+3. A sense of **confidence** but also the ability to **question yourself** constantly.
+
+Leading by example is an obvious step you have to follow. If you live by "do what I say, not what I do", you will lose respect faster than you can blink. 
+
+Ultimately, if you are capable of providing the right level of guidance and support to your people, you will start seeing that the people you work with are giving you **a lot more** that what you'd have under a plain management structure. 
+I'm talking **better, fresher ideas; an always switch-on attitude; a stronger internal drive; positive/can-do attitude; loyalty and commitment; and so much more**. 
+Also, this energy is **contagious**. As you now lead a team of people who are inspired to take on the impossible, you attract better talent too.
+
+Leadership is not all natural, it can be learned. It is a longer and more difficult journey than management because it requires you to do a lot of work on yourself.
+That is, if you want to excel at the task, which is definitely not the majority of leaders out there.
+Even notoriously famous leaders that have achieved great goals tend to exhibit a version of 'walk or die to my style' attitude.
+It does work, but you should be better.
+
+Good leadership is the number one differentiator between teams who do excellent, pioneering level of work and those who just run a decent product/company. 
+I'd choose a poorly managed company with great leadership any day versus the opposite. 
+
+[pagebreak]
+
+#### Leadership and Management throughout your career
+
+As you climb the ladder on the people management style, the importance of leadership and management changes.
+Even at the individual contributor level, management and leadership skills matter, but they are a nice to have, so I'm not going to dive too deep into it now.
+
+At first, as a manager, you'll need much high 'great management skills' to 'great leadership skills' ratio. This is because your job is first and foremost to organize the work of the people underneath you.
+As you progress, the balance progressively shifts because you have more and more people underneath you that are handling the management and the expectations shifts towards autonomy and the ability to take on higher and higher level requirements.
+At the top, you are becoming 'one of the few'. You must be inspiring, you must convey the energy that is making the list of reasons as to why people join and stay.
+
+In a nutshell, it kinda follows this graph:
+![Leadership & Management involvement over career](./images/leadership_management.jpg)
+
+[pagebreak]
+
+As you can see, the difference matter, because it's two sets of skills that needs to be worked on independently. 
+If you believe there are the same, you are likely not to work on both but simply the one that you think represents both in your mind.
 
 @#$politics_culture$#@
 ### Politics & Culture
