@@ -177,7 +177,7 @@ You want to be able to push everything forward in a realistic way, never delusio
 ### Trifecta
 
 The trifecta is a work model - a core principle - that sets expectations, responsibilities and dynamics to build products effectively.
-As it's name implies, it's structured around the **three roles** that are defining the **product, builds it and delivers** it on time.
+As it's name implies, it's structured around the **three roles** that are defining the **product, build it and deliver** it on time.
 
 ![trifecta diagram](./images/trifecta.jpg)
 
