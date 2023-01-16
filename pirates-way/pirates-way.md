@@ -12,17 +12,19 @@
 ### [Trifecta](#trifecta)
 ### [People First and Last](#peoplefirstandlast)
 ### [Leadership vs Management](#leadershipvsmanagement)
-### [Politics & Culture](#politics_culture)
-### [Recruitment & Team Structure](#recruitment_team_structure)
+### [Time is everything](#timeiseverything)
 ### [Mindset beats Skills](#mindsetbeatsskills)
+### [Fear the Fear](#fearthefear)
 ### [Knowledge is everywhere](#knowledge)
 ### [Cui Bono](#cuibono)
 ### [Motivation & Inspiration](#motivationandinspiration)
+### [Politics & Culture](#politics_culture)
 ### [Owning the Zone](#owningthezone)
 ### [Product Sweet Spot](#productsweetspot)
 ### [Focus](#focus)
 ### [Product, Program, CX, CS and Delivery](#product_program_cx_cs_delivery)
 ### [UX vs UI](#uxvsui)
+### [Recruitment & Team Structure](#recruitment_team_structure)
 
 ## [The Product](#theproduct)
 ### [R&D](#randd)
@@ -400,20 +402,85 @@ In a nutshell, it kinda follows this graph:
 As you can see, the difference matter, because it's two sets of skills that needs to be worked on independently. 
 If you believe there are the same, you are likely not to work on both but simply the one that you think represents both in your mind.
 
-@#$politics_culture$#@
-### Politics & Culture
+@#$timeiseverything$#@
+### Time is everything
 
-Coming Soon...
+Time is the kind of topic that is so overly covered - especially with sound bites - that it easily looses its true meaning.
+Still time is the mother of all currencies, and it's important to understand it correctly, as so many decision are based on how time is appreciated and used.
 
-@#$recruitment_team_structure$#@
-### Recruitment & Team Structure
+#### Time is never spent
 
-Coming Soon...
+You don't spend time because time is **being spent at a steady rate continuously without you being able to control the flow**.
+You only get to control what you do as the time is being spent. 
+
+Understanding this fully, and accepting it, allows you to deal with many situations you would otherwise probably try to bargain with. 
+
+Ever heard "Time is money"? Well, that's another one of these sound bites that looses the true meaning.
+
+When you hire someone, you aren't really buying their time. You're buying their ability to use their time to create value. 
+You're hiring the skills. The unit of purchase just happens to be time because it's convenient, but some people aren't hired on a time unit. 
+They are hired on unmonitored time or better, on achieving a precise given result or state.
+
+When you measure the distance between two points in time rather than km or miles, same story, you don't think that time is distance, but it's convenient.
+
+We use time as the wrong unit of reference in countless other situations. 
+There would be nothing wrong with using it, if it wasn't for the fact that it commoditizes time out of the top of the list of your decision process.
+
+Time isn't money because money isn't time, just as distance isn't time. 
+The availability and the controls you have on money or distance are in a completely different league.
+
+When working on tech products, you see time poorly used often and everywhere.
+
+Money being a lot less valuable than time, "build or buy" questions (for instance) should never be approached without a bias.
+Don't build the things you can buy. Don't buy the things **only you** can build.
+Don't build your own computers if you can buy them. Don't buy your proprietary architecture from a contracting shop.
+
+Look into the process that you have rolled out and incorporate their time consumption in your cost analysis.
+
+Look into your meeting schedule and dive into it's primary (the meeting itself) and secondary (the derivative meetings that will come out of the primary layer) time consumption.
+
+The list goes on.
+
+#### Forward Escape
+
+There are some people that are time anxious and this is not what I want to promote. Anxiety and fear are sentiments that will always work against you.
+
+One of the worst behavior that can happen with time-anxious people (I've been there) is what I call the **forward escape**.
+
+The forward escape is what happens when someone is so concerned about using their time correctly, about always being productive, that they don't take the steps back to think about what to do next.
+
+On the outside, you look like you're focused, productive and everywhere.
+Underneath, you are basically a hamster on cocaine, running in its wheel, waiting for your heart to pop. 
+You aren't building things worth building and are in places you shouldn't be. Your focus is no longer train tracks that gets your to your destination, it has become tunnel vision that blinds you.
+You can spend **months, years in it** - convinced you're progressing - when in the end you're just running in your wheel.
+
+The opposite side is analysis paralysis - when you are stuck in assessing situations forever and taking no actions.
+The difference between analysis paralysis and the forward escape that makes the forward escape more worthy of a lengthier conversation is that, the **forward escape is really traitorous**.
+
+Building tech products is hard because you have to balance the two and keep yourself in the sweet spot. It's an involved mental and emotional battle you constantly struggle with.
+So you can imagine how important it is to avoid this time glutton.
+
+#### Make it count
+Beyond the philosophical point, and the few practical examples here, the take-away is that you have to accept the importance of time **at peace** and **make it count**.
+
+This isn't a plea for an unhinged hustler culture either. 
+Use the time for family, for resting, for eating, for enjoying life if that's what you need now.
+Just don't lose sight, at all times, what you're using your time on and why.
+
+**Preserve your time for what's unique to you**. Spend all other commodities on the rest.
 
 @#$mindsetbeatsskills$#@
 ### Mindset beats Skills
 
 Coming Soon...
+
+@#$fearthefear$#@
+### Fear the fear
+
+Coming Soon...
+[//]: # (Fear is never good at anything that requires logic and thinking.)
+
+[//]: # (> Will set you on the path to it.)
 
 @#$knowledge$#@
 ### Knowledge is everywhere
@@ -430,12 +497,24 @@ Coming Soon...
 @#$motivationandinspiration$#@
 ### Motivation & Inspiration
 
-Motivation is the force we all have within to do things. It differs from inspiration as it's about doing things we know we can do while inspiration is showing you the things you thought were unattainable are actually within reach.
+Coming Soon...
 
-You can't teach motivation. You can stimulate it and you can protect it. 
-You can easily destroy it. If through your actions - at any level - you convey that it (whatever 'it' is) is not worth pursuing, you will destroy the motivation people had to pursue things.
+[//]: # (Motivation is the force we all have within to do things. It differs from inspiration as it's about doing things we know we can do while inspiration is showing you the things you thought were unattainable are actually within reach.)
 
-![Motivation Range](./images/motivation.jpg)
+[//]: # ()
+[//]: # (You can't teach motivation. You can stimulate it and you can protect it. )
+
+[//]: # (You can easily destroy it. If through your actions - at any level - you convey that it &#40;whatever 'it' is&#41; is not worth pursuing, you will destroy the motivation people had to pursue things.)
+
+[//]: # ()
+[//]: # (![Motivation Range]&#40;./images/motivation.jpg&#41;)
+
+@#$politics_culture$#@
+### Politics & Culture
+
+>> See if I need to move this.
+> 
+Coming Soon...
 
 @#$owningthezone$#@
 ### Owning the Zone
@@ -462,6 +541,12 @@ Coming Soon...
 ### UX vs UI
 
 Coming Soon...
+
+@#$recruitment_team_structure$#@
+### Recruitment & Team Structure
+
+Coming Soon...
+
 
 @#$theproduct$#@
 ## The Product
