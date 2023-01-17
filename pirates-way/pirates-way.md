@@ -326,7 +326,7 @@ Just don't give them a reason to leave. Give them a reason to stay or join.
 
 The difference between leadership and management is a subject I particularly appreciate. 
 They are so often used as synonym and the term 'lead' is so commonly used as a blanket placeholder to rightful titles in insecure environments.
-Still, there are _very_ big differences that have to be understood to **build world-class teams** though.
+Still, there are _very_ big differences that have to be understood to **build world-class teams**.
 
 [pagebreak]
 
@@ -338,7 +338,7 @@ This includes scheduling, workflows or pipelines with checkpoints at given key f
 Anyone can basically be a good manager providing that they can structure their work and be organized. You simply have to engage in a control loop:
 
 1. Start by identifying a **problem**. This is obviously easier if you've done the job below the manager, but it shouldn't be crazy hard either way.
-2. You start identifying a **solution**. This is a research project. You can get answer from the internet, your network, personal experiences or brainstorming.
+2. You continue by figuring out a **solution**. This is a research project. You can get answers from the internet, your network, personal experiences or brainstorming.
 3. You deploy the solution and **observe** the results. This is simply organization and discipline. There are ways to get better at each of these steps, but I'll cover that later.
 
 After that last step, based on the observed results, you go back to step 1, moving to the residual problems. Rinse and repeat.
@@ -350,7 +350,7 @@ This is where leadership comes in.
 
 #### Leadership, the art to guide others to their excellence
 
-Everything else that is usually attributed to leadership is consequential to this. Now, there are countless leadership styles, but that's not exactly the angle I want to cover here.
+Everything else that is usually attributed to leadership is consequential to this. People follow their leaders when they convey their ability to guide followers to a better situation.
 
 Leadership is about bringing **inspiration and direction** to a bright future while also providing **individually-tailored guidance and support** to get there.
 In other words, you set the north star, get people rallied behind your ability to take everyone there and take care of each individual along the way.
@@ -358,41 +358,41 @@ In other words, you set the north star, get people rallied behind your ability t
 It's more difficult than management because it requires strong **soft skills**. You have to be confident and capable to put yourself in your people's shoes. 
 You need to be able to genuinely connect with the people you interact with to effectively lead. You need to genuinely care about them.
 
-In practice, the rise of leadership skills is rarely structured and much more natural selection oriented. 
-Many strong leaders have a natural sense for their style and this tends to create a natural matching selection where you - as leader - attract people that are compatible with your style and reject those who aren't. 
-This is something you should be aware of as you will be missing on some incredible talent and ideas.
-This is also very relevant if you find yourself being the only genius in the room and there is a book about that I believe called "Everyone is an idiot" (but I haven't read it yet - was recommended for this topic)
+In practice, the rise of leadership skills is rarely structured and much more often natural selection oriented. 
+Many strong leaders have a natural sense for their style and this tends to create a matching 'natural selection' where you - as leader - attract people that are compatible with your style and reject those who aren't. 
+This is something you should be aware of as you will be missing on some incredible talent and ideas if your style is aggressively discriminative.
+There are countless leadership style; each with its own discriminative nature as you will never be compatible with everyone.
 
-So great leadership requires:
+Leadership is not only natural though, it can be learned. It is a longer and more difficult journey than management because it requires you to do a lot of work on yourself.
+That is, if you want to excel at the task, which is definitely not the majority of leaders out there.
+Even notoriously famous leaders that have achieved great goals tend to exhibit a version of 'walk or die to my style' attitude.
+It does work, it's hyper discriminative, so you should aim higher and be better.
 
-1. Strong **soft skill**, 
+Great leadership requires:
+
+1. Strong **soft skill** - Social awareness, communication, listening -, 
 2. The ability to **connect with people**, 
 3. A sense of **confidence** but also the ability to **question yourself** constantly.
 
-Leading by example is an obvious step you have to follow. If you live by "do what I say, not what I do", you will lose respect faster than you can blink. 
+Leading by example is an obvious step you have to follow. If you live by "do what I say, not what I do", you will lose respect of everyone faster than you can blink. This doesn't mean you need to do everything yourself first either.
 
 Ultimately, if you are capable of providing the right level of guidance and support to your people, you will start seeing that the people you work with are giving you **a lot more** that what you'd have under a plain management structure. 
 I'm talking **better, fresher ideas; an always switch-on attitude; a stronger internal drive; positive/can-do attitude; loyalty and commitment; and so much more**. 
 Also, this energy is **contagious**. As you now lead a team of people who are inspired to take on the impossible, you attract better talent too.
 
-Leadership is not all natural, it can be learned. It is a longer and more difficult journey than management because it requires you to do a lot of work on yourself.
-That is, if you want to excel at the task, which is definitely not the majority of leaders out there.
-Even notoriously famous leaders that have achieved great goals tend to exhibit a version of 'walk or die to my style' attitude.
-It does work, but you should be better.
-
 Good leadership is the number one differentiator between teams who do excellent, pioneering level of work and those who just run a decent product/company. 
-I'd choose a poorly managed company with great leadership any day versus the opposite. 
+I'd choose a poorly managed company with great leadership against the opposite any day. 
 
 [pagebreak]
 
 #### Leadership and Management throughout your career
 
 As you climb the ladder on the people management style, the importance of leadership and management changes.
-Even at the individual contributor level, management and leadership skills matter, but they are a nice to have, so I'm not going to dive too deep into it now.
+Even at the individual contributor level, management and leadership skills matter, but they are a 'nice to have', so I'm not going to dive too deep into it now.
 
-At first, as a manager, you'll need much high 'great management skills' to 'great leadership skills' ratio. This is because your job is first and foremost to organize the work of the people underneath you.
+At first, as a manager, you'll need a quite high 'great management skills' to 'great leadership skills' ratio. This is because your job is first and foremost to organize the work of the people underneath you.
 As you progress, the balance progressively shifts because you have more and more people underneath you that are handling the management and the expectations shifts towards autonomy and the ability to take on higher and higher level requirements.
-At the top, you are becoming 'one of the few'. You must be inspiring, you must convey the energy that is making the list of reasons as to why people join and stay.
+At the top, you are becoming 'one of the few'. You must be inspiring, you must convey the energy that is making the top of the list of reasons as to why people join and stay.
 
 In a nutshell, it kinda follows this graph:
 ![Leadership & Management involvement over career](./images/leadership_management.jpg)
@@ -410,7 +410,7 @@ Still time is the mother of all currencies, and it's important to understand it 
 
 #### Time is never spent
 
-You don't spend time because time is **being spent at a steady rate continuously without you being able to control the flow**.
+You don't spend time because time is **being spent at a steady rate continuously, without you being able to control the flow**.
 You only get to control what you do as the time is being spent. 
 
 Understanding this fully, and accepting it, allows you to deal with many situations you would otherwise probably try to bargain with. 
@@ -418,36 +418,36 @@ Understanding this fully, and accepting it, allows you to deal with many situati
 Ever heard "Time is money"? Well, that's another one of these sound bites that looses the true meaning.
 
 When you hire someone, you aren't really buying their time. You're buying their ability to use their time to create value. 
-You're hiring the skills. The unit of purchase just happens to be time because it's convenient, but some people aren't hired on a time unit. 
-They are hired on unmonitored time or better, on achieving a precise given result or state.
+You're hiring the skills. The unit of purchase just happens to be time because it's convenient, but some people aren't hired on a time unit basis. 
+They are hired on unmonitored time (exempt status in the US) or better, on achieving a precise given result or state.
 
-When you measure the distance between two points in time rather than km or miles, same story, you don't think that time is distance, but it's convenient.
+When you measure the distance between two points in time rather than km or miles, it's the same principle: you don't think that time is distance, it's just more convenient and relatable.
 
 We use time as the wrong unit of reference in countless other situations. 
-There would be nothing wrong with using it, if it wasn't for the fact that it commoditizes time out of the top of the list of your decision process.
+There would be nothing wrong with it, if it wasn't for the fact that it commoditizes time out of the top of the list of your decision process.
 
-Time isn't money because money isn't time, just as distance isn't time. 
-The availability and the controls you have on money or distance are in a completely different league.
+When everything is time, nothing is time, but time isn't money because money isn't time, just as distance isn't time.
+The availability and the controls you have on money or distance are in a completely different universe.
 
 When working on tech products, you see time poorly used often and everywhere.
+Money being a lot less valuable than time, "build or buy" questions (for instance) should never be approached without a bias. You should have a preference to spend the money over the time.
 
-Money being a lot less valuable than time, "build or buy" questions (for instance) should never be approached without a bias.
 Don't build the things you can buy. Don't buy the things **only you** can build.
 Don't build your own computers if you can buy them. Don't buy your proprietary architecture from a contracting shop.
 
 Look into the process that you have rolled out and incorporate their time consumption in your cost analysis.
-
 Look into your meeting schedule and dive into it's primary (the meeting itself) and secondary (the derivative meetings that will come out of the primary layer) time consumption.
 
 The list goes on.
 
 #### Forward Escape
 
-There are some people that are time anxious and this is not what I want to promote. Anxiety and fear are sentiments that will always work against you.
+There are some time sensitive people that become time anxious and this is not what I want to promote. 
+Anxiety and fear are sentiments that will always work against you.
 
 One of the worst behavior that can happen with time-anxious people (I've been there) is what I call the **forward escape**.
 
-The forward escape is what happens when someone is so concerned about using their time correctly, about always being productive, that they don't take the steps back to think about what to do next.
+The forward escape is what happens when someone is so concerned about using their time correctly, about always being productive, that they don't take the steps back to think about what to do next. The result is an incredible wast of time.
 
 On the outside, you look like you're focused, productive and everywhere.
 Underneath, you are basically a hamster on cocaine, running in its wheel, waiting for your heart to pop. 
@@ -462,17 +462,88 @@ So you can imagine how important it is to avoid this time glutton.
 
 #### Make it count
 Beyond the philosophical point, and the few practical examples here, the take-away is that you have to accept the importance of time **at peace** and **make it count**.
+Appreciate time appropriately while avoiding falling into extremes.
 
 This isn't a plea for an unhinged hustler culture either. 
 Use the time for family, for resting, for eating, for enjoying life if that's what you need now.
-Just don't lose sight, at all times, what you're using your time on and why.
+Just don't lose sight, at any times, of what you're using your time on and why.
 
-**Preserve your time for what's unique to you**. Spend all other commodities on the rest.
+**Preserve your time for what's unique to you**. Spend other commodities on the rest.
 
 @#$mindsetbeatsskills$#@
 ### Mindset beats Skills
 
-Coming Soon...
+Skills are the abilities one has to create value out of time (ignore resources for now - they are basically a fractal structure of skills).
+
+Over simplified:
+```
+value = time + skills
+``` 
+
+Skills give you the power to transform things into other things, adding value in the process. 
+
+If I had to write it in an oversimplified reaction equation it would be:
+``` 
+thing_a + skills -> thing_b + value
+```
+
+Say you are a worker in a factory, you could be using your skill to transform a sheet of metal into a part. This sheet of metal was transformed from stock by another worker using his/her skills. Etc.
+
+Skills are **incredibly important** and I can't emphasize enough how **valuable it is for yourself to continuously develop your skills**. This applies for your personal and professional life.
+In practice, I often recommend engineers to work at home on something else than what they do at the office. A pet project or something alike. That's because it will give them the best opportunity to build up their skills.
+Some decide to follow online courses. Regardless, all paths that lead to improved skills are worth exploring.
+
+It's not enough to have a lot of skills though. It's also important to know how far each go.
+
+I live what I preach when I highlight the importance of understanding the depth of our own skills as much as its nuances.
+I've spent an insane amount of money and time on building my skills. 
+There is a lot I can do, but even better, I also know really well what I can't do, and what it takes to revive certain skills to match certain challenges. 
+I encourage you to reevaluate the state of your skills and your understanding of their nuances.
+
+By now, I've probably got you confused because this part is called _mindset beats skills_, and I'm defending how incredibly important skills are.
+
+That is to prepare a stage for how critical mindset is.
+
+#### Mindset builds skills
+
+I'll dive deeper into the motivation segment later - as it relates to mindset heavily. So make sure to catch this section as well.
+
+Mindset is a state of mind at rest. It effortlessly expresses itself in your attitude and impacts everything you do.
+What I mean by rest and effortlessly is that, a mindset isn't your own if it requires a conscious effort to express.
+
+There is this saying in French that translates to "The eagle doesn't have the urge to show its talons". This is to say, that when you are - truly are - as fierce, strong and powerful as an eagle, you don't have the urge to flash your strength around.
+A mindset is just that. It is yours when it has become a second nature. This takes time, practice and deep mental exercise to appreciate why you adopt said mindset.
+Accept this going in because it's unlikely you will adopt the whole substance in the first try.
+
+Mindset is a complex and layered concept.
+
+If we start from a simple mindset: positive vs negative; we can easily extract a few attitudes that will come out of it. 
+There is of course the ultra famous glass half-full vs half-empty situation, but I prefer the barely-open door metaphor because it easily translates to opportunities. 
+So for those who don't know, there is a door that is barely open, just a few millimeters.
+The question is, is it open or closed? It's open for arguing (same as the glass), but factually it's open. 
+This is because a closed door is a static state.
+If you consider the door range of motion from 0 to 100% - 0 being closed - while 1 to 100% is open.
+
+Now onto opportunities. The work environment is full of opportunities, but they never manifest themselves in a 'door-barely-open' kind of way.
+It does present itself in the same state structure:
+
+If your mindset is to believe that there is no opportunity (negative) and act towards closing the metaphoric doors, you've created a static finite state: There is no opportunities coming, the door is closed.
+
+If your mindset is to believe that there could be opportunity (positive) and act towards keeping the metaphoric door open - even if it's just the slightest -, you've created a variable state: There could be an opportunity coming; There could be an incredible one too. 
+
+The funny thing is that opportunity are the same in any context. Learning a new skill is an opportunity, but just like the door, it requires a mindset to be open to it.
+
+Some people's mindset is to believe that they are too old to learn new things. Some, will end up in inspirational articles about how they went back to university at a senior age.
+The difference is the mindset, and the difference isn't so binary most of the time.
+
+You can get pushed to follow a track that will burn skills into your brain (maybe by your parents), but I guarantee you that you don't have the same skills as the person with the positive mindset.
+That's not to mention that sooner or later, the push fades away, and you're back onto your own energy to find in yourself to move forward. That's the motivation piece.
+
+Now if we extrapolate this simple example further, a good mindset opens doors everywhere, create opportunities, drives people to follow you in your endeavour, etc.
+
+Mindset beats skills because without mindset, you can't acquire new skills - or not at the same level of nuances, while with the right mindset, there is no limit.
+
+I'm obviously pushing for a mindset here but there are as many mindsets as there are people. Just make sure yours is pushing you forward and not anchoring you to the ground.
 
 @#$fearthefear$#@
 ### Fear the fear
@@ -512,8 +583,8 @@ Coming Soon...
 @#$politics_culture$#@
 ### Politics & Culture
 
->> See if I need to move this.
-> 
+[//]: # (>> See if I need to move this.)
+
 Coming Soon...
 
 @#$owningthezone$#@
