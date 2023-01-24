@@ -568,17 +568,62 @@ Coming Soon...
 @#$motivationandinspiration$#@
 ### Motivation & Inspiration
 
-Coming Soon...
+#### Motivation
+Motivation is the inner force that drive us to act on things.
 
-[//]: # (Motivation is the force we all have within to do things. It differs from inspiration as it's about doing things we know we can do while inspiration is showing you the things you thought were unattainable are actually within reach.)
+Motivation is not something you can give to anyone. You can't teach it. You can't generate it. You have it, or you don't.
 
-[//]: # ()
-[//]: # (You can't teach motivation. You can stimulate it and you can protect it. )
+What you can do is protect it and eventually regenerate it back to its original level.
 
-[//]: # (You can easily destroy it. If through your actions - at any level - you convey that it &#40;whatever 'it' is&#41; is not worth pursuing, you will destroy the motivation people had to pursue things.)
+Most people are motivated by default. Driven to explore, driven to experience, driven by curiosity. 
+There are obviously different levels, but generally, everyone is motivated by the pursuit of some kind of satisfaction.
 
-[//]: # ()
-[//]: # (![Motivation Range]&#40;./images/motivation.jpg&#41;)
+As a mental exercise, I keep in mind this "scale" to place one's motivation level, and I think you should recheck yourself on a regular basis to see where you are on it in your current circumstances.
+
+![Motivation Range](./images/motivation.jpg)
+
+Motivation is getting challenged throughout your life - personal and professional - by all sorts of events, and ultimately to the point of complete suffocation. That's what burn out will do to you.
+
+As a team leader/manager, you have to pay attention to the things you may say or do that will demotivate your people such as:
+
+1. Exhibiting a "Do what I say, not what I do" attitude - It's the diametrical opposite of leading by example and is a nuclear bomb on motivation.
+2. Unfair treatment of employees - This can be more tricky as expectations and entitlement can create the sense of unfairness; You'd still need to address it by explaining your decision process and over-communicate expectations and due process.
+3. Credit misappropriation - no credit, shifting credit, stealing credit, letting credit being stolen by a third party or anything that will remove the deserved recognition and rewards one deserves for their work.
+4. Impossible satisfaction metrics - If you create an impossible situation; and this can be out of a large leap in scope - yet realistic.
+5. Little to no leadership with little to no inspiration - Extends the point before - which covered more the ante-situation - on the post-situation. Basically, if you don't provide guidance/inspiration on a seemingly impossible situation, you incentivize the "what's the point" feeling.
+6. Mass layoff and other drastic ridiculous decisions - For instance, stock buy backs at the same time of raises freeze under pretext of financial difficulties. 
+
+These may come from above you and around you as well. You have to do whatever you can to protect your team. 
+This can mean creating a sub-culture where your team feel disconnected enough from the demotivation source. 
+It's tricky to handle correctly as you walk the fine line between this healthy separation and going against the rest of the company - which you never want to do.
+
+Beyond these defensive moves, what you can do is hire better.
+
+Approach your recruitment from a profiling perspective first, skills second. Make sure your interview steps cover motivations. 
+Make sure your final decision process has a higher emphasis on the motivation rather than skills. 
+
+On the regeneration side - which is about bringing a previously motivated employee to their former level - you're looking at a typical inspiration moment.
+Demotivation is often tied to a sense of impossibility to overcome the demotivation factors. Inspiration can wipe this out.
+
+#### Inspiration
+Inspiration is the feeling you have when a previous notion of impossibility is successfully challenged, usually by either someone doing something or saying something.
+
+Inspiring is a core leadership skill. You have to be able to convey the feeling that impossibilities are just another day in the park for you.
+Anyone can be inspirational and should try to be at any moment. 
+
+You can be inspirational through sheer demonstration of skills. This is actually a common case with very experienced engineers who tend to be put on a pedestal by the rest of the team because of their ability to just close problems.
+By their side, more junior engineers are inspired by their ability to just get things accomplished even if they don't fully understand why or how.
+
+Another way is through attitude using positivity, wisdom, confidence and experience. Demonstrating these, is often an exercise of accurately assessing situations, handling them on the wire and landing on predicted results. 
+All of it with a confidence level known only to the "cool guys" who "don't look at explosions".
+
+Regardless, inspiration is an essential element in a healthy team dynamic. Companies that are continuously inspirational (understand a constant cycle of inspirational leaders conveying it correctly) find themselves closer to the tip of the spear of what's possible.
+This in returns helps them become unchallenged market leaders.
+
+Inspiration is no silver bullet though. Inspiration without action is entertainment and motivation is the force of action.
+All the inspiration of the world won't get a demotivated team to go anywhere, and you may run out of steam with a motivated team that isn't inspired ever.
+
+The first scenario may force you to hit the reset button with your team structure - which is on the top of the worst things that could happen to your teams - but unfortunately, quite common
 
 @#$politics_culture$#@
 ### Politics & Culture
@@ -622,11 +667,46 @@ Coming Soon...
 @#$theproduct$#@
 ## The Product
 
-Coming Soon...
+We've gone through the 'theory', it's time to dive into the practice.
+
+For this next chapter, I'm going to use fictitious companies as case studies. Different industries, different markets, different sizes.
+
+1. **Robotics Inc** is a VC-backed, Series-C startup developing rovers for industrial and public safety users. 
+Their main product is remote controlled with advanced navigation and situation awareness capabilities. 
+They offer multiple payloads that allow to adjust for any circumstances.
+
+2. **Trading LLC** is a hedge fund style trading company that built a heavy tech stack to do most of their trading on stocks automatically. 
+They don't sell their tech to anyone as it's their edge against the competition
+
+3. **Crypto Inc** is a seed-stage startup that's building a social network on web3. Their main product allows people to find each other and exchange goods using fiat and crypto currencies.
+
+Throughout the next pages, I'm going to use these examples to illustrate how I would go out at the challenges they face using my methodology and mindset.
 
 @#$randd$#@
 ### R&D
 
+The role of engineers is to take science and create products.
+
+A product - in a tech company - is a value generating element one customer will want to buy for its low cost and its unique edge. 
+The technology is here to provide both the lower cost (often through unlimited scale not unlike printing) and the unique edge (through a different approach to the problem).
+
+The technology itself is basically applied science.
+
+Research and Development is the effort to bridge science to technology and eventually technology to products
+The steps tend to be broken into two different sets expectations, the second being 'engineering' to focus on building products out of established technologies.
+
+![Motivation Range](./images/rand.jpg)
+
+That being said, it's not impossible to have a seamless path from science to product with very little friction and little to no handover between R&D and engineering.
+If anything, that's a goal you should pursue as it will save a lot of time and time is everything.
+
+#### R&D at Robotics Inc
+Coming Soon...
+
+#### R&D at Trading LLC
+Coming Soon...
+
+#### R&D at Crypto Inc
 Coming Soon...
 
 @#$mvp$#@
