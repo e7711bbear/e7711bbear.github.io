@@ -727,7 +727,51 @@ Coming Soon...
 @#$theteam$#@
 ## The Team
 
-Coming Soon...
+I am going to approach this chapter just like the Product one. Structuring it using the three role I described in the trifecta:
+
+1. Product
+
+2. Engineering
+
+3. Project
+
+Make sure to check out the trifecta chapter in the principles, as I want to dive into practical details you won't be able to understand without the context.
+
+The other important distinction is that I am going to use terms for roles that often are used as job titles, but may not match all the time.
+
+Job titles are often given as a reward in smaller companies. In the lack of other kind of compensation, the ego boost does its trick.
+Unfortunately, this means that - for instance - a director in a startup is definitely not the same as in a more established company.
+
+As a side note, this has also led people into believing that working for a large company is more demanding that a small company, but that's just not true.
+Smaller companies are harder. Larger companies provide a ton of support because there is always resources to help you handle things.
+
+Regardless, It all boils down to what your day-to-day duties really are. You are what you do, not what you think you should do.
+
+So to describe the roles below, and make sure we are starting this on the same page, here are the duties that define each of these role names:
+
+1. **Individual contributor** is the individual that actually does the building work. The coding, the planning, the scoping.
+In engineering, that's everyone with 'engineer' or 'developer' in their title regardless of their seniority. 
+Many Product Managers and Project Managers are individual contributors despite the title. 
+That's because they are directly contributing to the product being built, and they don't have people management duties.
+
+2. **Manager** is the first people manager level. You are managing your product/project/stack and direct contributors. 
+Hopefully in the sweet spot zone of 5 to 10 people.
+
+3. **Director** is the first manager of managers level. You run a department/sub-division, and have managers reporting to you. 
+You may have a few individual contributors reporting as well.
+
+4. **VP** is the first strategic executive. You run one or multiple department focusing on execution at scale. 
+You're 80% on execution, 20% on strategy. You have mostly managers or directors reporting to you.
+
+5. **C-Suite** (CTO, CPO, CPTO, etc) is the final stage. You own everything underneath you. You're 20% execution, 80% strategy. 
+You represent the company publicly and internally. You mostly manage managers, director and or VPs. You're hardly hands-on. You're likely in board meetings.
+In some cases, you can be in this level without a Chief* title. If you look at Apple, the 'C-Suite' are all SVP for instance.
+
+6. **Founder** goes without explanation. It's a bit of an outlier in the structure, but worth covering nonetheless.
+
+Try to find yourself in this structure based on your duties rather than your title as it will be the way to find what's relevant to you.
+
+For instance, if you are a CTO in 10-ish people company, you're probably closer to the manager than the actual C-Suite role I'm discussing here - and there is nothing wrong with that.
 
 @#$individualcontributor$#@
 ### Individual contributor
