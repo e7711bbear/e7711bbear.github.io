@@ -669,6 +669,65 @@ Coming Soon...
 
 We've gone through the 'theory', it's time to dive into the practice.
 
+#### Definition
+
+Often, a question I faced was to define if something was 'productable'. In an established engineering environment, this comes up after a solution was built internally to address a problem that is believed to be shared by other people/companies.
+In a pre-inception setup, this question starts with a pet project or personal project that could become a solution to a common problem.
+
+The market - as in, placing your project out there for people to buy - is always the final judge of whether said project is a product, but you don't have to just through spaghetti at the wall.
+Also, people will pretty much buy anything so a sale doesn't define a product in itself.
+
+A product - at least in a tech company - is a value generating element (tangible object, software or solution) one customer will want to buy for its (relative) low cost, its unique edge and high quality finish. 
+
+The technology provides both the lower cost (often through unlimited scale) and the unique edge (through a different approach to the problem).
+
+The execution of the product development brings a finish level that the end-user can't achieve themselves. 
+This is build quality on the material sense, but also all the different experiences as you use the product.
+
+To figure out if you're on the path of building a proper product, you can use this diagram:
+
+![Product Venn Diagram](./images/product_definition.jpg)
+
+1. **Are you bringing a unique edge?** This isn't about your positioning relative to you competition - although it won't hurt. 
+This is about defining whether you are on track to create something people will not find (easily) elsewhere or that they can easily put together themselves. 
+This can be in a unique way you approach the problem, a unique or difficult way to put together the solution or clearing a significant amount of the problem in a comprehensive way.
+
+2. **Are you bringing a lower cost to existing ways of solving the problem?** This is often the biggest element in the thinking process. 
+A known way of working always starts the evaluation/comparison process with a leading edge over an unknown way. The cost is the main force that can open up the conversation.
+Is your product, its deployment and ultimately end-result benefits a cheaper journey (at equal returns) than the existing approach?  
+
+3. **Are you building something that feels finished above and beyond?** Is this a professional feeling solution or a DIY project? 
+Is your product clean and easily deployable? Is it finished, polished? Is it intuitive? Does it handle edge cases or crashes at every side step?
+No one wants to spend money to get more work before collecting the benefits.
+
+Every customer goes through a "build or buy" moment when they look for a new product. In reality, it's more "Build, buy or change nothing".
+You want your product to bring so much value on the buy side - because you've solved so much of the problem - that it's a no-brainer to buy.
+
+Let's take a few examples:
+
+- A drone or robot without smart batteries, may very well check 1/ and 2/ but won't check 3/. On the 2/ though, you are bringing a hidden operational cost to manage these batteries.
+
+- A product management tool that is hyper simplified, focused and beautiful may check 2/ and 3/ but won't check 1/ as people are most likely already familiar with either Excel or Google sheet.
+
+- A payment system that uses blockchain but requires to understand which chain to use, establish crypto wallet, store pass phrase may check 1/ and 3/ but may not check 2/ as it could bring a significant training and operational cost.
+
+
+#### The Nature of Disruption
+
+Disruption is in practice simpler than the myth the term tends to carry. To disrupt, your product needs to do either or both of these things:
+
+1. Achieving similar or better results as before but at a **radically** lower cost (time and money) and **larger** scale - Think about the printing press.
+2. Achieving **drastically** better results (more & faster) as before by leveraging a **brand-new** way of doing the work that has never been done before - Think about inspecting assets with a drone.
+
+When you over-achieve on both, your disruption becomes a revolution - think smartphones and digital photography.
+
+Digital photography is particularly interesting because the cost of a photo has basically dropped to zero as any digital camera can produce an infinite number of pictures. A complete revolution from the film era.
+
+Disruptable markets are simply markets that have been in an extended period of time of high cost and/or low productivity while a solution seems within reach with established technology.
+Your ability to disrupt here lies in your internal capacity to bring science and product.
+
+#### Approach
+
 For this next chapter, I'm going to use fictitious companies as case studies. Different industries, different markets, different sizes.
 
 1. **Robotics Inc** is a VC-backed, Series-C startup developing rovers for industrial and public safety users. 
@@ -682,54 +741,35 @@ They don't sell their tech to anyone as it's their edge against the competition
 
 Throughout the next pages, I'm going to use these examples to illustrate how I would go out at the challenges they face using my methodology and mindset.
 
-#### The Nature of Disruption
-
-Disruption is in practice simpler than the myth the term tends to carry. To disrupt, your product needs to do either or both of these things:
-
-1. Achieving similar or better results as before but at a radically lower cost (time and money) and larger scale - Think about the printing press.
-2. Achieving drastically better results (more & faster) as before by leveraging a brand-new way of doing the work that has never been done before - Think about inspecting assets with a drone.
-
-When you achieve both, that is lower cost, larger scale and faster, your disruption is a revolution - think smartphones and digital photography.
-
-Digital photography is particularly interesting because the cost of a photo has basically gone to 0 as any digital camera can produce an infinite number of pictures. Which is a complete revolution from the film era.
-
-Disruptable markets are simply markets that have been in an extended period of time of high cost and/or low productivity while a solution seems within reach with established technology. 
-Your ability to disrupt here lies in your internal capacity to bring science and product.
 
 @#$randd$#@
 ### R&D
 
-The role of engineers is to apply science to create products.
+The role of engineers is to apply science to create products, and technology is not much more than applied sciences.
 
-A product - at least in a tech company - is a value generating element one customer will want to buy for its (relative) low cost and its unique edge. 
-The technology is here to provide both the lower cost (often through unlimited scale not unlike printing) and the unique edge (through a different approach to the problem).
-
-The technology itself is basically applied science.
-
-Research and Development is the effort to bridge science to technology and eventually technology to products
-The steps tend to be broken into two different sets expectations, the second being 'engineering' to focus on building products out of established technologies.
+Research and Development is the effort to bridge science to technology and eventually evolve technology to their next generations (touching on products).
+The steps tend to be broken into two different sets of expectations, the second being 'engineering' to focus on building products out of established technologies.
 
 ![R&D Flow](./images/rand.jpg)
 
-That being said, it's not impossible to have a seamless path from science to product with very little friction and little to no handover between R&D and engineering.
-If anything, that's a goal you should pursue as it will save a lot of time and time is everything.
+That being said, it is very possible to have a seamless path from science to product with very little friction and little to no handover between R&D and engineering.
+If anything, that's a goal you should pursue as it will save a lot of time and energy.
 
-Usually R&D teams don't have product management branch, but there is value in looking at R&D from a product perspective to prepare for the next stage.
+It's not uncommon for R&D teams to not have explicit product management, but there is value in looking at R&D from a product perspective to prepare for the next stage.
 To keep in mind what's within the reach of engineering, it's important for Product to keep an eye on the R&D efforts and results.
 
 It is also useful, if Product is driving prioritization of R&D effort even if coming from the highest levels.
-Indeed, this is commonly done at the VP level and above as R&D tends to be company secrets and the rollout of R&D tech into product, strategic.
-
-Let's look at product direction for R&D through our three case-study companies.
+Actually, this is commonly done at the VP level and above as R&D tends to be company secrets and the rollout of R&D tech into product, strategic.
 
 #### R&D at Robotics Inc
 
 Practically, at Robotics Inc, there is an **imbalance in priorities**. Hardware and anything around control software is a higher priority than application and web technologies.
-That's a normal side effect of the need to focus when working on such a big project.
+That's a normal side effect of the need to focus when working on such a big project and company DNA.
 
-When it comes to R&D, this means there is probably little to no work on application and web technologies exploration. Quite the contrary, they are likely to stick to off-the-shelves and established technologies.
+When it comes to R&D, this means there is probably little to no work on application and web technologies exploration. 
+Quite the contrary, they are likely to stick to off-the-shelves and established technologies.
 
-On the other hand the hardware side is on top: battery systems, power systems as a whole, material science, manufacturing technics, sensors, onboard compute and designs, networking wired and wireless, etc.
+On the other hand the hardware side is on top: battery systems, power systems, material science, manufacturing technics, sensors, onboard compute and designs, networking wired and wireless, etc.
 Right next to hardware is the whole world of control software. Top of this part will be control algorithms and patterns, machine learning and AI as a whole.
 
 At their stage, they have passed market validation and are selling practical solution to customer. This means they focus on R&D work that can quickly become tangible - even if a few moonshot work is happening on the back burner.
@@ -750,33 +790,36 @@ Ahead and in parallel of a direction being given, the R&D team is most likely sp
 This is achieved by **building up your news network** (LinkedIn, YouTube channels, newsletters, reddit, etc), **establishing connections with heads of university** PhD programs (usually starting with their own) and **attending annual conferences** (ROSCON).
 Ultimately, what you are after is **papers, demos and/or GitHub repos**. Inspiration on what is possible out there that will **fuel your imagination on what you can extend and/or compose**.
 
-At the strategic level, this could also look like companies pitching their own work in the hope of a given acquisition and/or partnership. Said acquisition can fuel the company's ability to disrupt.
+At the strategic level, this could also look like companies pitching their own work in the hope of a given acquisition and/or partnership. Said acquisition can fuel the company's ability to disrupt as they create opportunities to leap tech generations.
 
 Everybody working in or with R&D should really do this to keep their mind on the bleeding edge of what's possible. Opportunities can be taken by the competition in a blink.
 
 Once the team has set their eyes on a capability specs (Product) and a path towards it (Engineering), they can start dedicated time and resources towards development.
 
 ##### Development
-The team will look at **bench testing** of components and sub assemblies to quantify their capabilities while the software work will spend countless cycles in **simulations and integration tests inside proof of concepts (POCs)** to build up confidence.
+The team will look at **"bench" testing** of components and sub assemblies to quantify their capabilities while the software work will spend countless cycles in **simulations and integration tests inside proof of concepts (POCs)** to build up confidence.
 
 The most daunting projects will be reserved for either the most secretive and experienced teams, or interns.
 
 The output will be likely presented to executives with a short expansion on potential product improvements to the current line up that is somewhat aligned to understood customer expectations.
+(This is one of the many reasons why it is important for Robotics Inc. to have solid executives with technical depth _and_ vision.)
 
 Regardless, what you want, is some kind of regular demo day. Even if in small committee because you are navigating a highly dynamic and movable target environment.
-You want to catch data points that may trigger changes of decisions as early as possible. This is particularly important for hardware companies as iterations are a lot more expensive (time and money).
+You want to catch data points that may trigger changes of decisions as early as possible. 
+This is particularly important for hardware companies as iterations are a lot more expensive (time and money).
 
-A less blunt way to go at this than a fixed schedule (demo day every friday) is to have a validation schedule. Basically a series of waterfall and/or parallel elements/specs that need to be validated.
+A less blunt way to go at this than a fixed schedule (demo day every friday) is to have a validation schedule. 
+Basically a series of waterfall and/or parallel elements/specs that need to be validated.
 
 Not only it gives you a better schedule, it also gives you a measure of success of the demo day. It becomes milestones to reach and pass.
 
 It is fine if the tone of demo day is visionary ("Imagine if X was to do Y") because we are here to develop dreams and new capabilities. 
-If you evolve on the tip of the spear of what the market does, you will even stay in there as you launch because you'll want to be the market defining actor.
+If you evolve on the tip of the spear of what the market does, you will even stay in there as you launch because you'll want to be the market defining actor by launching something never seen (and validated) before.
 
 #### R&D at Trading LLC
 At Trading Inc, the R&D is likely a minor part of the work. 
 It is focused on solving precise problem because everything is measured by data.
-Number of execution per seconds, latency between components, even if not clearly defined, there is a precise target first.
+Number of execution per seconds, latency between components, or other; there is a precise target first.
 
 That's because there is no external customer, little room for creativity and a very clearly defined measure of success: make more money.
 
@@ -786,23 +829,25 @@ Instead, it's a strong pull from the end product side (the clear specs). This is
 The voice of Product becomes a lot louder in the R&D stage.
 
 Practically, the most senior engineers are the only one working on testing new systems as the trading stack is very complex and very sensitive.
-They are looking at all sorts of different kind of optimisation problems from OS configuration to programing/compiling technics that can squeeze more cycles.
+They are looking at all sorts of different kind of optimisation problems from OS configuration to programing/compiling technics that can squeeze more cycles, run on lower resources or any other performance metric that has been directly connected to revenue.
 
-New technologies vetting is critical as a new framework/lib introduction can wreck the performance of the mega product they ultimately work on.
-Less research in the end, more fine testing and deep exploration of complex optimizations on established technologies.
+A large chunk of effort is on new technologies vetting as it is critical since a new framework/lib introduction can wreck the performance of the mega product they ultimately work on.
+Less research in the end, more fine testing and depth in exploration of complex optimizations on established technologies.
+
+Sometimes a new principle or paradigm will be discovered/developed but the secrecy of this industry means probably no patents.
 
 #### R&D at Crypto Inc
 Crypto Inc is a challenger at a small size. In this context, R&D is close to the end-product, limited but still crucial.
 
 Iterations are fast, decisions bold because it's important to differentiate ourselves from the rest of the market, and we are lean and mean, so we can handle fast changes better.
 
-Research here goes deeper into core technologies like blockchain if having a custom one benefits the business, and in everything going through the user.
+Research here goes deeper into core technologies like blockchain - if having a custom one benefits the business -, and in everything going through the user.
 For instance, this can go into user experience, customer experiences, user interfaces, latest and greatest app and web technologies, and security paradigms.
 
-These are more visual in nature, but they are still R&D. The reason why it matters to see it this way, is because it is quite common for UX as a broad topic, to be only between product and designers.
-This, unfortunately, completely misses out the implementation reality engineers will face.
+These are more visual in nature, but they are still R&D. The reason why it matters to see it this way, is because it is quite common for UX - as a broad topic - to be only handled between product and designers.
+This, unfortunately, completely misses out the implementation reality engineers will face. So, approaching it from an R&D perspective gives you a dramatic edge in execution.
 
-Similarly to this, when Square launched with the mag stripe reader working out of the microphone jack in, this R&D work allowed them to create a UX that opened the door to anyone taking credit card payments.
+Similarly to this, when Square launched with the mag stripe reader working out of the microphone jack in, this R&D work allowed them to create a UX that opened the door for anyone to take credit card payments.
 
 @#$mvp$#@
 ### MVP
