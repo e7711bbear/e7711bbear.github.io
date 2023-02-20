@@ -640,8 +640,54 @@ Coming Soon...
 @#$productsweetspot$#@
 ### Product Sweet Spot
 
-[//]: # (![Product Gauge]&#40;./images/product_gauge.jpg&#41;)
-Coming Soon...
+Whenever I use the word 'product', there is a context implied: 
+You're building something specific for a designated audience that is willing to pay (one way or the other) to have access to this product.
+This also means that it is important to build what this audience truly wants - not much more, not much less - or you won't pass the buy test.
+
+I talk more on that subject in the Product section below, but figuring out what to build is fundamentally what most people expect when they are looking for product management and/or leadership. 
+
+The process can quickly become murky. Feelings become facts when all sorts of persona come into the mix. 
+This infographic about the animals of product management summarizes it perfectly.
+
+![Dangerous Animals](./images/dangerousanimals.jpg)
+
+One of the tool I use to handle this situation is the gauge below. It simply explains the progress of any product from nothing to too much.
+
+Used properly, it allows you to take a minute and ask yourself where you are. Where this feature, this roadmap is taking you.
+
+![Product Gauge](./images/product_gauge.jpg)
+
+Every product development effort start with nothing, and for a giving time it's pretty useless as features are lacking and bugs are overwhelming.
+
+Eventually, things gets to a point where we're entering a state where the product delivers on what our customer is expecting. 
+You're about to enter the sweet spot, you've got an **MVP**.
+
+As you continue polishing your product, you enter deeper into the Sweet Spot. 
+You've got a great product that isn't going too far, didn't cost you too much to build and that satisfies your customer fully.
+
+Going further, you start adding additional features - things like extensions, integrations, nice-to-haves - and this can be beneficial to expand your market, handle edge cases better, defend yourself against the competition.
+Your product is **pioneering** new areas.
+
+If you take it too far though, you find yourself in the area I call the 'Artistic Performance'.
+In there, you spent a lot of time, money and energy to build the features - and they are cool, fun and impressive - but they aren't addressing what your customer really wants. 
+They wouldn't buy your product any less if it didn't have all these features, and this can easily be exploited by your competition.
+
+Artistic Performance land is hyper seductive to product owners and engineers as it's where things are the most fun to build, but we aren't building hobby projects, we are building products, and we can't lose sight of who we build it for.
+
+The tricky question is how can you pinpoint precisely the sweet spot and the two milestones that borders it - the MVP and the Pioneering product.
+
+I have another tool that add a dimension to help you:
+
+![Product Rings](./images/product_concentrics.jpg)
+
+Categorize the features, capabilities you have on these rings. Focus on the one in the center. Don't venture into the next one until 80% of the previous ring is polished.
+
+There is a lot more to product management than this, but these tools will provide you the perspective you need to keep you from slipping and stay in the sweet spot.
+
+On a weekly basis I mention the artistic performance. On countless occasions, I had to ground teams of engineers, managers and executives out of the artistic performance as they got carried away into building things our customers didn't actually want.
+So use these tools, take a minute and position yourself. 
+
+Be in the sweet spot, keep the artistic performances for your hobbies or side projects, and build excellent products.
 
 @#$focus$#@
 ### Focus
