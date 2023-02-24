@@ -548,10 +548,31 @@ I'm obviously pushing for a mindset here but there are as many mindsets as there
 @#$fearthefear$#@
 ### Fear the fear
 
-Coming Soon...
-[//]: # (Fear is never good at anything that requires logic and thinking.)
+We all are emotional beings. You can't change that. Even with the maximum amount of self-control.
 
-[//]: # (> Will set you on the path to it.)
+Some people accept this fully, some people reject this fully. What you'd want though, is to accept it while continuously working on controlling it as needed.
+This is so that it doesn't become a dogma/identity in your mind that would prevent you from improving (this is the way I am, and there is nothing I can do about it).
+
+We all have issues, and they range from deep childhood issues to the average daily one. 
+The thing with issues is that if you don't deal with them, they will deal with you.
+
+They'll start making you act in a way that will cost you.
+
+In general, all bias sentiments will work against your ability to make the right decision, to take the right action. 
+Typically, that's ego (being right, wrong, the best or the worst), inferiority/superiority complexes, insecurity and of course fear.
+
+Fear is the worst of them as it tends to set your mindset towards decisions and actions that will take you closer to what you fear.
+
+If you fear you're going to miss the deadline, your mindset will become clouded, and you will waste time on fear processing cycles, delaying your delivery.
+
+If you fear you will disappoint or under perform, you will start overthink what you're doing and likely disappoint and under perform.
+
+Fear takes you away from working in the zone, this mind space in which things just flow to you. 
+
+There is an excellent book about the zone, the impact of sentiments (including fear) called 'Trading in the Zone' by Mark Douglas. 
+Everything in this book applies just as well to engineering as it applies to trading and understanding the impact of negative sentiments like fear is crucial to be the best you can be.
+
+But if there is one thing you should remember is that there is only fear that's worth fearing.
 
 @#$knowledge$#@
 ### Knowledge is everywhere
