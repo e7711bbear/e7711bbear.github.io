@@ -649,9 +649,46 @@ The first scenario may force you to hit the reset button with your team structur
 @#$politics_culture$#@
 ### Politics & Culture
 
-[//]: # (>> See if I need to move this.)
+Company culture is a hyper-covered topic, so you would think that it is a solved problem and even a supporting solution to all companies out there.
+Yet if you ask employees honestly what their take of it is, most will tell you that it either has no impact on them or that it's one of these corporate propaganda that they've come to learn to live with.
 
-Coming Soon...
+Culture was never about brainwashing employees into the next level of obedience or compliance. 
+It was about creating a sense of engagement so people would give a shit about the common goal of the team/company.
+
+A common mistake is that culture is expected to be built out of values that often end up on motivational posters around the company. 
+Values are good to have, but if they read like they came out of a marvel comic book or that they only apply when convenient, you will destroy the whole idea and everything you built on top of it.
+
+You can't create a culture out of simple words and a few pep talks, but the recipe of success isn't much harder though.
+
+**You build a culture by walking the talk.** 
+
+The values you preach need to be reinforced on a daily basis through actions. You can even verbally, or write down the connection between a decision/action and the value behind it.
+You would say things like "Best answers wins, so let's hear it from everyone here.".
+
+You act and apply to everyone (including yourself) the same scrutiny that you expect to others. 
+You admit the wrong, you protect the moral high ground from anyone - including the founders.
+When you admit the wrong, you do it with sincerity and a sense of accountability. It's so easy to brush off this part when there is no one above you in the organization.
+
+The culture belong to the company, not the founders, not the execs. You act as an agent of the company. You create this third person barrier, so that you belong with the same group that has to live by the same rules.
+
+
+Unfortunately, so many leaders forget that actions speak louder than words, and they commonly destroy their culture with their behaviour or the behaviour they allow to happen.
+
+A behaviour that is commonly (and easily) driven by politics.
+
+Politics isn't mysterious, it's this mediocre social engineering practice that you just can't shake off after high school. 
+
+Yet, it's very important to appreciate its impact and who are those who thrive in a political environment as they are the most dangerous characters there is.
+They use actively and aggressively, any and all social ways to advance their profile at any and all costs to others.
+
+They will build fake relationships with key people, spin and twist appearances, set traps to sabotage others and make themselves shine. The list goes on.
+
+In the end, these people use politics to manipulate the environment to their benefits.
+They also destroy companies from the inside out and are rarely - if ever - caught for it. 
+If anything, they are praised for it, or it's all part of the randomness of life.
+
+I do understand the dynamic at play - it's not a hard one to grasps - I don't follow leaders and organizations that tolerate politics at any levels. 
+There is literally nothing in it for anyone.
 
 @#$owningthezone$#@
 ### Owning the Zone
