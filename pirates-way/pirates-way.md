@@ -577,14 +577,73 @@ But if there is one thing you should remember is that there is only fear that's 
 @#$knowledge$#@
 ### Knowledge is everywhere
 
-Coming Soon...
+Everybody talks about intelligence like it's this rare resource that's the silver bullet to everything. (There are countless situation you can't outsmart but that's not the subject here).
+
+The true state of intelligence in our society is that there are smart people everywhere.
+Many are hard to find because they aren't given equal opportunity to demonstrate, aren't helped in understanding how their intelligence expresses itself, and/or lack the guidance to improve.
+
+If you are to accept this as fact though, you can start being on the lookout for the next lesson these 'hidden' people can teach you.
+To over simplify, I often say 'Even the stupidest person has something to teach you.'
+
+Understanding this also helps demystifying the borderline dogmatic status of the source of the knowledge.
+Still to this day, there is a persisting hierarchy of where knowledge is acquired from. 
+For instance, books are regarded higher than videos and schools higher than self-taught.
+
+There is nothing wrong with institutionalized teaching, but if you are letting yourself believe it's the only way, you're missing out on a lot.
+That's usually one of the first lesson graduates learn when they start in their first job: they weren't really prepared for a lot of what's expected, and they'll have to get that knowledge somewhere else.
+
+
+As some of the smart people who aren't institutionalized or fitting in this structure move on with their lives, they find their way to acquire and express their knowledge.
+And there's never been more ways to do so. It's truly wonderful, and I hope you're appreciating as I do the many ways there is to learn today. 
+Games, videos (long and short; amateur and pro), blogs, social media, etc. All of these of common source of knowledge you should look into. 
+Most of which are built by smart people.
+
+I use countless movie quotes because of how relatable it is. There is one moment that's relevant for the next chapter, so let's use it.
+
+In the movie 'Revolver', there is a scene when Ray Liotta rant about the concept of "What's in it for me". 
+In that rant, he says - and by this, you should understand, the intelligent screenplay writer/team says - 
+"What's in it for me? The more the man invest in that question, the more powerful the man becomes".
+
+It is easy to brush this off because of the theatrics, but when you've come to appreciate there are smart people everywhere, you can look beyond the show, and see the knowledge.
+In the next chapter, I'll use this precise example in a way that should show you how much knowledge there is in this line.
+
+In another instance, while attending MakerFaire in the SF Bay Area, I walked by a panel of youtubers and listened to one I follow - Steve Ramsey. 
+He runs a woodworking channel for the average joe. At one point he said "Inspiration without action is entertainment". 
+I don't know Steve personally, but I would guess he's read most of the time as the epitome of the normal guy, and glanced over.
+Yet, here he was disseminating a key element of one of the most important lesson of my career. 
+Something that became a pillar of my leadership style. Something that has stumped most people I passed this piece of knowledge on.
+
+The list goes on and on and on, and I can't cover it all here, it would need a whole book.
+Actually, most of the chapters I wrote could easily be expanded into individual books as there is so much to talk about and so many examples to illustrate, so I tend to only cover the tip of the iceberg.
+Regardless, I hope that I did enough here to convince you that knowledge is everywhere, and you should be on the lookout for it.
+
+You just need to find your own balance between the confidence you need to execute and keeping an open mind about your own 'ignorance'. 
+Don't forget we usually don't know what we don't know.
+
 
 @#$cuibono$#@
 ### Cui Bono
 
-[//]: # (Here talk about what's in it for me. )
+As I said in the previous chapter, the inspiration for this one came from a rant from the movie Revolver.
 
-Coming Soon...
+I used to refer to this principle as "What's in it for me" because of this inspiration but Cui Bono is a much better way.
+
+The point is simple, in any situation, invest yourself into understanding the complete map of all actors' "what's in it for me". 
+Or in other words, cui bono - to whom is it a benefit.
+
+You have to accept with a kind mind that most situations are crafted in a way to control the balance to some advantage. 
+If you want to reject this principle, it's fine, move on to the next chapter. I know life has its way to teach this lesson on its own.
+
+Once you have accepted that, you can start to look at it with an open mind.
+
+Whether it is a salary negotiation, a promotion, a technical decision, a team restructure or the provider of the paper in the printer -> cui bono.
+
+The open mind is very important. You're not approaching this like a witch hunt (or a paranoid conspiracist mind). 
+People just doing things because it came to them is a valid and common answer. 
+As in, it benefits them because that's an easy choice. Don't default to find conspiracies at every corner.
+
+I was promoted in the past because it benefited my manager. I promoted people because it benefited me. In both cases, there was a lot more benefits to a lot more individuals direct and indirect.
+Understanding this empowers you to make better decisions. Just like Ray Liotta said in Revolver: "The more the man invest in that question, the more powerful the man becomes".
 
 @#$motivationandinspiration$#@
 ### Motivation & Inspiration
@@ -693,7 +752,89 @@ There is literally nothing in it for anyone.
 @#$owningthezone$#@
 ### Owning the Zone
 
-Coming Soon...
+Most people misunderstand engineering in a tech company. The most common preconception is that it can just be packed inside processes and create predictable results.
+
+To some extent this is true, but this obfuscates what truly defined what we call tech today.
+
+When we talk about tech companies, we think about the like of Apple & Google. Companies which redefined society. 
+Now if this was a matter of process to get there, why isn't it everyone doing it? 
+By now, said process would be widely known. Yet, we live in this constant redefinition and rediscovery about how to work.
+
+This is because, the people who build market defining companies aren't just following a process. They are working in the zone.
+
+I realized the importance of the zone years before I even had a name for it. 
+I adopted 'the zone' because it's a topic many others have covered, often in other contexts. (You should read 'trading in the zone' whatever your field is).
+
+The zone refers to that state of mind one can be in during which, everything you are trying to achieve comes to you effortlessly.
+You enter a phase of hyper focus, time passes incredibly fast, you become hyper productive. 
+You keep thinking about the problem you face, you're basically hyper working on it without the feeling of burden.
+The closest thing you can look at to appreciate it is the movie Limitless but in reality, there isn't a magic pill that gets you there (as far as I know).
+
+Instead, there are many things one can do to control getting in, staying in and getting out of the zone.
+
+#### Understand Yourself
+
+The first thing is to understand how you function. 
+
+There are countless dimensions to oneself. They can be on an emotional state, physical state or intellectual state.
+
+The most important you want to take away is the tendencies you can have and figuring out a way - the fastest way - to get out of the negative ones.
+
+For instance, you could be a hyper meticulous individual. The other side of that coin is that you could exhibit borderline OCD behavior that give you tunnel vision. 
+Maybe you get in such state when you're stressed and maybe exercising resets you for a day or two.
+
+Or maybe you're an anxious person, and you get stressed out when something avoidable goes wrong. Once in that state your judgement is clouded, your focus is limited.
+Maybe reading a book for 30min resets you and allows you to get back on your tracks.
+
+These things are what you must understand about yourself.
+
+This is personal work. No one else can do it but yourself, but some people can help you get a glimpse of how you function.
+This usually requires a few things:
+
+1/ An open mind. You can look at it all as binary state with a gradient of applications. This means that having an open mind is simply not rejecting all feedback. 
+It's normal to have a difficulty processing criticism, comments and contrary beliefs. Just keep that door open. Revisit these moments. 
+Remind yourself, you could be completely wrong.
+
+2/ Honesty on both sides. If you are going at this alone, chances are, you'll either take a long time to understand yourself or you'll simply fail. 
+So assuming you have someone that acts as a sounding board, you must have a completely honest relationship. This is usually harder for both sides. On your end, because of #1.
+On the end of the other person, because it is always easier to avoid honesty to preserve peace. 
+I've embraced honesty in a pretty brutal way, so I can tell you first hand that the cost of it is that many people think of me as either arrogant or being an asshole. 
+Those who get to know me, realize I'm all about this point and the positive impact it has outside this context.
+
+3/ Repetition and practice. Since we aren't talking about whether you are a chocolate type of person, you can imagine that understanding truly how you function requires trial and error.
+In the first year of my software engineering school, we were told people had different peak time to work during the day. I tend to be a night owl. I get a burst of energy after 10pm.
+To validate that though, I practiced working different schedules. This gave me the confidence on where is my sweet spot but also the skills on how to adapt to work with other people's prime time.
+This is just one dimensional example out of countless one.
+
+#### Be self-aware
+
+Being self-aware is an honest conversation with yourself. It's neither false modesty nor embracing everything and anything you may be under your identity.
+
+You really don't need to involve anyone else, but you need to be honest with yourself. 
+You can't fix or control something you don't understand and if you're consistently trying to tell yourself a story, it will only distract you from progressing.
+Again, not an easy thing to do, and you'd need to really want to improve to engage in this journey. 
+
+#### Make the difficult decision
+
+The zone wouldn't be the zone if it was the default state of any individual. It is precisely because it takes effort to be in it that you have to work on yourself to own it.
+Especially, you're fighting the default stance you are naturally poised to pursue. I'd love to call it the blerch in reference to a famous comic, but to make it more relatable I often talk about animal documentary.
+
+More precisely, how wild cats tend to spend most of their day relaxing and only hunting when hungry. 
+In my very personal, observed - but in no way scientifically proven way -, this is to me the default state.
+
+Our default state is to avoid effort. I think it stems from natural selection as effort is energy and loosing energy to no gain can be a dangerous endeavour.
+
+When it comes to the zone though, it's basically impossible to get into it without some initial effort. It's once inside that the effort almost disappears.
+
+So to get in the zone, it requires you to make the decision that isn't what you would normally do.
+
+Let's say you are mentally drained, and you know that running helps you. It's pouring outside, you want to cover yourself in bed. 
+Make the difficult decision, force yourself out, clear your mind, get yourself one step closer to the zone.
+
+Let's say you're a night owl, you have work you want to get done, but your friend are asking you to come for a drink. 
+Make the difficult decision, let it go, use your natural burst of energy to get closer to the zone.
+
+Of course these examples are simple. It's hard to draw big generality in a content that's consumable. This is an effort that's best mentored one to one.
 
 @#$productsweetspot$#@
 ### Product Sweet Spot
