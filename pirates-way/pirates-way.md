@@ -25,6 +25,7 @@
 ### [Product, Program, CX, CS and Delivery](#product_program_cx_cs_delivery)
 ### [UX vs UI](#uxvsui)
 ### [Recruitment & Team Structure](#recruitment_team_structure)
+### [The Loneliness of the Winner](#loneliness_winner)
 
 ## [The Product](#theproduct)
 ### [R&D](#randd)
@@ -891,7 +892,85 @@ Be in the sweet spot, keep the artistic performances for your hobbies or side pr
 @#$focus$#@
 ### Focus
 
-Coming Soon...
+If you've been around the tech world, you've probably been bashed enough with the concept of 'laser focus'. 
+The idea behind this metaphor is to convey the importance not to drift away from core objectives by having an almost binary approach to your selection process of what to work on next.
+
+There is a side effect to this simplified approach though that's brushed over and that makes it difficult for many to focus at all: the tunnel vision.
+
+That is, in order to focus this bluntly, you need to let go of everything else and this creates difficulties.
+
+Many engineers struggle with preparing for the future. They tend to want to over anticipate things, and they can easily (and at times rightfully) see a binary effort of 'laser focus' as basically tunnel vision or short sightedness.
+This is something that create often frictions - especially between non-tech senior leadership and engineers.
+"- We asked you to focus on X. - Yeah but all these things will drop, and it will bite us later."
+
+On one side, someone is promoting the 'laser focus' - almost caricaturally as seen on social media - to make sure resources aren't wasted while the other side is obsessed about anticipating future problems - with often a clouded read on risk (probability x consequences).
+
+The truth is that the perfect focus execution isn't so binary. The way to stay focused while retaining perspective is achieved by building a stiff framework on specific areas:
+
+#### Clear Product Direction
+Clear understanding of the current product direction.
+When you define a product to build, you start with an end user and a given purpose. 
+Out of this effort, you'll extract a number of similar individuals to size a market.
+Out of this market, you'll identify deviation and focus on the 80% commonality.
+This will educate the definition of an identity of the product which will simplify all future conversation: "this feature doesn't belong with our product".
+If you do this work, you will be able on the spot to decide whether an effort makes sense, and if so, when.
+
+You create a stable point in the intellectual storm, aka focus.
+
+On the opposite, teams that tend to explore everything and anything are basically telling you they don't know what they should build. 
+This often looks like feature packing. 
+They build as many capabilities as possible convinced that the swiss-army knife will open all markets. 
+This rarely works as the **tool that does it all easily does nothing well**.
+
+And worse, you actually loose the focus while feeling that you're progressing and iterating fast.
+
+#### Precise Scope
+Precisely scoping and size the effort/difficulty is the second dimension to product direction.
+
+**Product direction gives you a north start. This effort is your turn-by-turn journey. If one is focused and the other isn't, nothing is focused.**
+
+It's easier said than done because being able to anticipate how long an effort is going to take is one of the most common problem and recurring difficulties. 
+On top of it, you need to know how many resources you need and projecting the difficulties to overcome in order to prioritize the work towards the leanest path.
+
+This skill comes from walking the path, and like point #1, you'll have to dedicated some time and resources to build this knowledge in-house.
+****Bringing in people who have transferable expertise in this field will make a dramatic difference****. 
+
+There are processes to structure this work, but it never hurst to be conservative when doing this effort. 
+
+It's a lot easier to add to a scope than to remove.
+
+#### Modular Systems
+Designing modular systems that can quickly change should something happen bring a lot more than technical capabilities. 
+You bake into your tech **the guarantee that you aren't going to be stuck in a dead end** through internal APIs, isolated services and split purpose parts.
+
+Very practically speaking this can be passthrough APIs to create a well-defined interface that will abstract complexity later on. 
+This can be a multi PCB design as to have swap-able components. 
+This can be over sizing mechanical parts to facilitate new components in the future. The list goes on. 
+
+Knowing what to do and what not to do is only achieved while going through it in the first place. 
+This is also why it's important to create the opportunity in your current teams to develop such knowledge by deviating from the laser focus in effort with clear goals and resource constraints.
+
+But in the end, if the tech is flexible, it allows to contain the debate because the risk is contained. You achieve balanced focus.
+
+#### Take away
+In conclusion, you can apply the 'laser focus' verbatim, but you'll miss out a lot on execution and will deal with internal frictions as you figure out the details that matters. 
+You'll have to accept that focusing implies dropping other important things.
+If you seek nuance (as you should), you need to bring in skill and develop it internally. 
+Control the effort spent, take away the lessons and share the knowledge.
+Make sure there is no gap in the plan and maintain consistency.
+
+There are many 1-2-3 steps to go at it, but if I can leave you with one it'd be this:
+1/ Repeat your 'laser focus goal'. Put it on signs, repeat it at all hands. It should say "We're building X for Y by Z"
+
+2/ Kick off side efforts. Explain 'why' internally, control how much and how long.
+
+3/ Take away lessons, share the knowledge internally through demo days or engineering all hands. Always invite the whole company.
+Each of these demos should cover the problem, the journey, why steps were taken, what was learned, what was decided, summary conclusions and next steps (even if deep in the future).
+
+Ultimately, in this context, you're looking to promote a balanced approach to focus, not just an entertaining journey to a solution.
+
+Focus isn't supposed to be a religion (so many things in tech become one), it's a trail path for you to get to your final destination.
+Take control of it, don't let 'bumper stickers' preach control you.
 
 @#$product_program_cx_cs_delivery$#@
 ### Product, Program, CX, CS and Delivery 
@@ -908,6 +987,64 @@ Coming Soon...
 
 Coming Soon...
 
+@#$loneliness_winner$#@
+### The Loneliness of the Winner
+
+This principle is one I most often explain to founders and CEOs, but it applies to a much broader audience, just not as dramatically.
+
+I didn't come up with it and I really can't find where I got it from, but in essence, the loneliness of the winner describes the dynamic of any pyramidal structure where there is a winner on the top and where everyone else - even second and third place - are fundamentally losers.
+
+Now this isn't about judging people's achievements or character, it's about describing a natural order of cohorts built around commonality between individuals.
+
+The winner ends up alone all the time, because its cohort is always one.
+The losers end up in a group because their cohort is always everyone else.
+
+This creates a division that winners have to handle. 
+
+Winners and losers face similar ongoing difficulties, but winners in their loneliness, won't find the support of the cohort. 
+They won't get the compassion. They won't get the sounding board.
+Most losers will react to winners' problems along the line of "what do you have to complain about? You won.".
+
+The reason this applies to a broad audience, is given a focused context, this replicates like fractals. 
+The lead engineer is the winner of the team context.
+The manager of the individual contributor teams is the winner of said context.
+The director of the division is the winner of the management group.
+So on, and so forth.
+
+The higher you are in the pyramid, the less likely you are to find peers at your level, so the loneliness hits you harder.
+You also end up in a treacherous environment, because most people aren't being honest with you - from 'managing up' to straight up lying.
+
+It becomes difficult to keep a clear mind. You need to develop your stable points in the storm. 
+
+You want to cultivate relationships, a circle of people that will tell you the truth - even if they are wrong - above all else. 
+Your emotions are the biggest reasons why you wouldn't be receiving said truths and why most people would not try to tell them in the first place.
+
+No one who has nothing to gain - except maintaining their integrity - wants to deal with the fallback of emotional triggers.
+
+Even if you think you're the least emotionally driven decision maker, you are still making decisions on emotion. 
+These emotions are what upsets you, but also what pleases you. 
+Both are triggers that take you away from your stable points.
+
+Cultivate a sense of awareness and develop mechanism as to not be so emotional. I really can't do coaching by book but there are countless ways to look at this.
+
+Beyond relationships, what you can do is establish a process for you to maintain perspective. 
+
+First, even if you communicate assertively, never forget that you could be completely wrong.
+This allows you to remain open to vulnerabilities without having to air dry them in public.
+
+Second, develop and maintain a chain of feedback aka build trust with your "Losers". 
+Allow the information to come raw and work on taking it without expressing negative feedback.
+At the very least, you'll be able to use quantitative measure to find the signal in the noise.
+At the best, you'll build some of the relationships I mentioned before - mostly likely with people who are winners themselves in their contexts.
+
+Third, get outside perspective. A friend, family, peer, advisors, investors. Anyone that will give you a different angle and speak truths.
+
+Last, learn to handle it, but accept that it may not be for you. Don't feel that being a winner is better than being a loser. 
+The terminology isn't judgmental - I just continue using the one I learned since I couldn't find a better one.
+If this is an unbearable environment for you, don't force yourself into it under delusion. The outcome will be so much worse.
+
+Every case is different, so it's hard to give more precise advice without a more precise context, but keep in mind that this paradigm applies a lot further than you can see and also applies to entities.
+Companies can experience loneliness on the top of the pyramid.
 
 @#$theproduct$#@
 ## The Product

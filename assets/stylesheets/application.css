@@ -155,6 +155,15 @@ h3.baseline
 	color: #e7711b;
 }
 
+#centralcol .projectdetails
+{
+	padding-top: 8px;
+	font-size: 14px;
+	line-height: 18px;
+	color: #aaaaaa;
+}
+
+
 #centralcol .rowcontent
 {
 	font-size: 16px;
