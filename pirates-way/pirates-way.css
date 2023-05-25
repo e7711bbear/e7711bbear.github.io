@@ -21,6 +21,7 @@ body
 
 }
 
+
 /**//* Liens web a */
 
 a
@@ -109,7 +110,6 @@ img {
     line-height: 35px;
     font-weight: lighter;
     letter-spacing: 2px;
-    color: #eee;
     /*background-color: orange;*/
     /*background-color:  rgba(180, 180, 180, 1);*/
 }
@@ -241,3 +241,49 @@ img {
     float:right;
     margin-right: 20px;
 }
+
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #222222;
+        color: #eeeeee;
+    }
+    a {
+        color: #eeeeee;
+    }
+    #footer {
+        color: #cccccc;
+        background-color: #333333;
+    }
+
+}
+
+/* Mobile */
+@media screen and (max-width: 320px) {
+  /* comes into effect for screens less than or equal to 320 pixels */
+  #centralcol {
+    width: 120px ;
+  }
+    img {
+        width: 120px;
+    }
+}
+
+@media screen and (min-width: 321px) and (max-width: 480px) {
+  /* comes into effect for screens between 321 and 480 pixels (inclusive) */
+  #centralcol {
+    width: 320px ;
+  }
+    img {
+        width: 320px;
+    }
+}
+
+@media screen and (min-width: 481px) {
+  /* comes into effect for screens larger than or equal to 481 pixels */
+  #centralcol {
+    width: 480px ;
+  }
+}
+
+
