@@ -11,6 +11,7 @@
 ### [Company's DNA](#companydna)
 ### [Trifecta](#trifecta)
 ### [People First and Last](#peoplefirstandlast)
+### [The Bozo and the Golden Goose](#bozoandgoldengoose)
 ### [Leadership vs Management](#leadershipvsmanagement)
 ### [Time is everything](#timeiseverything)
 ### [Mindset beats Skills](#mindsetbeatsskills)
@@ -321,6 +322,154 @@ Once again, it doesn't mean you have to accept everything and anything. It does 
 The large majority of them don't want to job hop every few months. They want to be paid fairly, work on interesting problems in an environment that is pleasant and compatible with their personal development.
 
 Just don't give them a reason to leave. Give them a reason to stay or join.
+
+@#$bozoandgoldengoose$#@
+### The Bozo and the Golden Goose
+
+There are countless types of personas in a company and just as many ways to describe them with more or less colorful metaphors.
+
+Just like many people, I've attended team building workshops that had a component of personality analysis. 
+At this point in my career, I find these workshops to be useless group therapy sessions and the personality profiling output as useful as a horoscope.
+
+Profiling your teams is still useful as a way to build a **tailored support and development system**, but putting people in buckets is a horrible idea that creates for everyone a **sense of finality due to their newly discovered immutable identity**.
+
+I'll cover the whole concept of identity and its perverse effect in another chapter though.
+
+For now, there are two types of people that I think are worth identifying and handling correctly: The Bozos and the Golden Geese.
+
+When I use these terms, I am not describing the whole personality of these individuals. I'm describing a set of behaviors in a given context. 
+This is important to grasps because as you relate to this, find Bozos and Golden Geese in your surrounding, you'll likely come to think something like "but X is a great person when we do Y".
+
+The two aren't incompatible. I am not defining identity, I'm describing a behavior in a given context (worth repeating).
+
+These two types aren't representing any majority in any group. If anything, Bozos may account for 5-10% at most of the group. 
+Golden Geese are incredibly rare, that is also compounded by the fact that they tend to be hidden by Bozos. 
+
+Count yourself lucky if you have a Golden Goose in your company.
+
+
+#### The Bozos
+
+There is a very [famous article that covered Bozos](https://www.forbes.com/sites/ericjackson/2012/01/31/why-every-company-needs-a-no-bozo-policy/) and cemented the term, but the definition there and the explanation for me is lacking depth.
+
+The Bozo as defined in this article is someone who thinks they are smarter and more competent than they actually are.
+
+The article for me makes a critical mistake of adopting somewhat of a revenge tone that diminished two things: the skills of the Bozos and the impact of the Bozos.
+
+Bozos aren't dumb people that landed top jobs by chance. Most of them are master manipulator and master social engineers - even though there is a range of skills in Bozoland. 
+
+They are insanely good and fast at identifying the dynamic at play in any given group, developing a path of least resistance that will ultimately and unequivocally push them to a position that will profit them at any costs to the rest of the team/company.
+
+They use advanced level of intimidation, courting, gas lighting and control structure to channel the flow of information to their benefit.
+
+They don't just hire more Bozos, they push out top performers they can't control or put under a situation that will have these top player's work make them shine.
+
+They leverage the human need for blending the lines between work and friendship to their advantage. 
+You will catch them talk ill of their boss while at the same time spending every week with them at a bar, golfing or other activity.
+
+Very few organizations have a solid Bozo handling structure. Those who do tend to cut out wide, eliminating people trying their best while in denial, seen as Bozos even though they are not.
+
+But the Bozo is different in the sense that it has no desire to skill up in a hands-on way. The Bozo wants to continue a manipulating journey. 
+When discovered, the Bozo will leverage a shiny achievement in the current company to find a new host to infect. 
+
+Out of all the negative things that Bozos do, the worst is what they do with the Golden Geese.
+
+They focus a lot of their attention to keep these exceptionally performant people out of the spotlight as to harvest all these eggs and claim them as their own publicly.
+
+#### The Golden Goose
+
+The Golden Goose is the type of person who perform so insanely well that when you describe the effort and/or the output, 99% of people think you're lying or exaggerating.
+I'm not talking about that one person that saved the day when production went under. 
+
+I'm talking about the person that works 18h a day, 6 days a week for 6 weeks to close the shit show of collections. 
+I'm talking about the engineer that came in and delivered three times as much on its own than the previous team of 5 in half the time.
+I'm talking about the manager who unlocked the program that's been dead in the water for 3 months in one meeting.
+
+(These are all true stories)
+
+I've met and worked with a lot of Golden Geese. Many of my closest friends are Golden Geese. I married one. 
+I'd be really hard for me to convince you there is no biases when I say this, but my wife is in a league of her own in the Golden Geese olympics.
+
+These people aren't replaceable. When they are gone, you will definitely either accept a much lower output, a much bigger team or more likely both. 
+If that's your definition of replaceable though, then I guess a horse is a replacement for an aircraft.
+
+So protecting them is incredibly important.
+
+Most Golden Goose has no realisation of their performance. They have a deformed sense of what's acceptable and live by a strong sense of principles that is tightly connected to their identity.
+For them, it's just inconceivable not to do it right, to let the team down, not to deliver what's expected, etc.
+
+This is where the Bozos tend to come in. They sniff this out extremely fast, put the Golden Goose in a world of their own making, and make sure they are the one defining the rules of this world.
+For the Goose, it's like being plugged into the matrix, the Bozo is harvesting the energy and claiming it theirs.
+
+The end result is always the same, severe burn out, depression and life-changing decisions for the Geese. 
+I've been in these conversations countless times, it is devastating to see such top performers being sucked out of their life force for such selfish outcomes.
+
+#### Handling
+
+I despise mediocrity. It's a topic on its own, but in a nutshell, I tend to have a good idea of what could be achieved without the noise of selfish interests (mediocrity). 
+Golden Geese are bringing the cheat codes to the pursuit of achievements and seeing them exploited or dismissed pisses me off and has been the drive for me to stick my neck out and defend them.
+
+Few people know how terrible I was at writing and speaking growing up. I was copiously mocked by my teachers and my classmates. I had no desire to be in the spotlight.
+Still, I picked up public facing positions because the Golden Geese I was working with didn't have anyone representing their voice, and the other side's Bozos were bashing them as loud as they could.
+I was called a Bozo, threatened, and all sort of joyful things for doing this, because that's what Bozos do.
+
+In private organizations, I put my role in jeopardy for Golden Geese to have a chance to show their skills. 
+They delivered and my judgement was rewarded, but I always say "I did nothing, they did the work".
+
+With Geese directly, I've coached them to provide them perspective and data behind their capabilities (acknowledgement), while at the same time helped them develop self awareness about their effort to protect against burn out.
+I've crafted step by step plans and stayed in the shadow for them to reclaim the recognition of their effort.
+
+I think you can see where I am going. I'm not about to promote something I don't do.
+
+As a tech executive, you aren't here to shine for doing everything. You're here to bring the right people in and create the structure that makes them shine.
+
+I can tell you that you will suffer from executing this way though. Some of your superiors will not appreciate behind the scene work and will constantly have a biased recognition toward visible shiny things.
+Manage this as much as you see fit but never compromise the principle of your role because it is the right thing to do. It is this way that you will create incredible teams that deliver incredible products.
+
+Because I execute with my top player's interests at heart, I have a complete address book of top level players who regularly reach out to work again with me. 
+This is just another validation that this is the right way to build teams and to see your role as an executive. 
+
+Be in the spotlight or not is irrelevant, protecting and enabling the top players is your number one job.
+
+
+As for Bozos, they are two dimensions to it.
+
+1/ They report to you:
+
+- Develop back channel with everyone in your teams, so you can get a glimpse at what's truly going on. 
+  Keep in mind, most people won't take the chance to speak openly about their superior. 
+  It's a bad deal for them. So little to gain, so much to lose.
+
+- Challenge decision in a calm manner. 
+  Develop a habit of asking 'Why' until you go as deep as possible. 
+  Control the conversation towards a simple effort to understand the logic.
+
+- Call them out on what they are doing, not who they are. Tell them "Your job is to let X shine". Don't say "You're a Bozo". 
+  If they open up to vulnerability, you may not be facing a Bozo but a copy cat. 
+  A person that saw Bozos working and believe they need to do the same while not being a Bozo themselves. 
+  Otherwise, most Bozos will promptly find a new host when called out, else get rid of them promptly. Bozos are like bar of soap, they will find all sorts of nonsense to evade. 
+  The whole effort is pointless. When you get rid of them, to the measure of what you can say, explain where the line is to your organization.
+
+2/ They don't report to you (peer or superior):
+
+This is really, really hard. First of all, you have to ask yourself if the role you're in is worth it, because nothing coming is going to be easy.
+
+- Find a champion. Someone higher that will share the perspective, will be open to ear the perspective. They can take the fight you can't.
+- If you can't find a champion or If they have the ear of your superior, find another job. If you find yourself in a conflict with your superior Bozo, there is no limit to how far they will go. 
+  I've seen a lot, slender in back channel throughout your industry, lies in performance reviews, isolations, forcing shit work on your forever, etc. 
+- If you have superior support, a champion and/or neutrality towards the Bozo, continue doing excellent work, call out Bozo in key moments. 
+  Beware here, Bozos will always fight back behind the scene. You need to be proper and have a track record to support the rattling of the cages you do.
+  Brace yourself for the high school level drama (aka Politics).
+
+
+I oppose Bozos and Golden Geese because they are on the two opposite of the spectrum of those who make or break products/companies.
+
+Bozos tend to be loud, Geese are quiet.
+Bozos tend to do little to no actual work, Geese do it all.
+Bozos tend to influence toward their own self interests, Geese tend to self-sacrifice (too much).
+
+It's not a matter of policy to decide what to do, it's a matter of sanity.
+
 
 @#$leadershipvsmanagement$#@
 ### Leadership vs Management
