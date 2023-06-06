@@ -11,19 +11,20 @@
 ### [Company's DNA](#companydna)
 ### [Trifecta](#trifecta)
 ### [People First and Last](#peoplefirstandlast)
+### [Leadership vs Management](#leadershipvsmanagement) 
 ### [The Bozo and the Golden Goose](#bozoandgoldengoose)
-### [Leadership vs Management](#leadershipvsmanagement)
+### [Politics & Culture](#politics_culture)
+### [Motivation & Inspiration](#motivationandinspiration)
 ### [Time is everything](#timeiseverything)
 ### [Mindset beats Skills](#mindsetbeatsskills)
 ### [Fear the Fear](#fearthefear)
 ### [Knowledge is everywhere](#knowledge)
 ### [Cui Bono](#cuibono)
-### [Motivation & Inspiration](#motivationandinspiration)
-### [Politics & Culture](#politics_culture)
 ### [Owning the Zone](#owningthezone)
 ### [Product Sweet Spot](#productsweetspot)
 ### [Focus](#focus)
 ### [Product, Program, CX, CS and Delivery](#product_program_cx_cs_delivery)
+### [The Process Love Affair](#process_love_affair)
 ### [UX vs UI](#uxvsui)
 ### [Recruitment & Team Structure](#recruitment_team_structure)
 ### [The Loneliness of the Winner](#loneliness_winner)
@@ -323,6 +324,88 @@ The large majority of them don't want to job hop every few months. They want to 
 
 Just don't give them a reason to leave. Give them a reason to stay or join.
 
+
+@#$leadershipvsmanagement$#@
+### Leadership vs Management
+
+The difference between leadership and management is a subject I particularly appreciate. 
+They are so often used as synonym and the term 'lead' is so commonly used as a blanket placeholder to rightful titles in insecure environments.
+Still, there are _very_ big differences that have to be understood to **build world-class teams**.
+
+[pagebreak]
+
+#### Management, the art of creating predictable results
+
+To achieve predictable results, the manager (at any level) leverages **different processes and tools** that have demonstrated - in their context - their ability to do so. 
+This includes scheduling, workflows or pipelines with checkpoints at given key frames. 
+
+Anyone can basically be a good manager providing that they can structure their work and be organized. You simply have to engage in a control loop:
+
+1. Start by identifying a **problem**. This is obviously easier if you've done the job below the manager, but it shouldn't be crazy hard either way.
+2. You continue by figuring out a **solution**. This is a research project. You can get answers from the internet, your network, personal experiences or brainstorming.
+3. You deploy the solution and **observe** the results. This is simply organization and discipline. There are ways to get better at each of these steps, but I'll cover that later.
+
+After that last step, based on the observed results, you go back to step 1, moving to the residual problems. Rinse and repeat.
+
+Great managers get good and predictable results, but the tech industry being such a talent-driven one, if you are looking for excellence, a pure management approach tends to fall short. 
+This is where leadership comes in.
+
+[pagebreak]
+
+#### Leadership, the art to guide others to their excellence
+
+Everything else that is usually attributed to leadership is consequential to this. People follow their leaders when they convey their ability to guide followers to a better situation.
+
+Leadership is about bringing **inspiration and direction** to a bright future while also providing **individually-tailored guidance and support** to get there.
+In other words, you set the north star, get people rallied behind your ability to take everyone there and take care of each individual along the way.
+
+It's more difficult than management because it requires strong **soft skills**. You have to be confident and capable to put yourself in your people's shoes. 
+You need to be able to genuinely connect with the people you interact with to effectively lead. You need to genuinely care about them.
+
+In practice, the rise of leadership skills is rarely structured and much more often natural selection oriented. 
+Many strong leaders have a natural sense for their style and this tends to create a matching 'natural selection' where you - as leader - attract people that are compatible with your style and reject those who aren't. 
+This is something you should be aware of as you will be missing on some incredible talent and ideas if your style is aggressively discriminative.
+There are countless leadership style; each with its own discriminative nature as you will never be compatible with everyone.
+
+Leadership is not only natural though, it can be learned. It is a longer and more difficult journey than management because it requires you to do a lot of work on yourself.
+That is, if you want to excel at the task, which is definitely not the majority of leaders out there.
+Even notoriously famous leaders that have achieved great goals tend to exhibit a version of 'walk or die to my style' attitude.
+It does work, it's hyper discriminative, so you should aim higher and be better.
+
+Great leadership requires:
+
+1. Strong **soft skill** - Social awareness, communication, listening -, 
+2. The ability to **connect with people**, 
+3. A sense of **confidence** but also the ability to **question yourself** constantly.
+
+Leading by example is an obvious step you have to follow. If you live by "do what I say, not what I do", you will lose respect of everyone faster than you can blink. This doesn't mean you need to do everything yourself first either.
+
+Ultimately, if you are capable of providing the right level of guidance and support to your people, you will start seeing that the people you work with are giving you **a lot more** that what you'd have under a plain management structure. 
+I'm talking **better, fresher ideas; an always switch-on attitude; a stronger internal drive; positive/can-do attitude; loyalty and commitment; and so much more**. 
+Also, this energy is **contagious**. As you now lead a team of people who are inspired to take on the impossible, you attract better talent too.
+
+Good leadership is the number one differentiator between teams who do excellent, pioneering level of work and those who just run a decent product/company. 
+I'd choose a poorly managed company with great leadership against the opposite any day. 
+
+[pagebreak]
+
+#### Leadership and Management throughout your career
+
+As you climb the ladder on the people management style, the importance of leadership and management changes.
+Even at the individual contributor level, management and leadership skills matter, but they are a 'nice to have', so I'm not going to dive too deep into it now.
+
+At first, as a manager, you'll need a quite high 'great management skills' to 'great leadership skills' ratio. This is because your job is first and foremost to organize the work of the people underneath you.
+As you progress, the balance progressively shifts because you have more and more people underneath you that are handling the management and the expectations shifts towards autonomy and the ability to take on higher and higher level requirements.
+At the top, you are becoming 'one of the few'. You must be inspiring, you must convey the energy that is making the top of the list of reasons as to why people join and stay.
+
+In a nutshell, it kinda follows this graph:
+![Leadership & Management involvement over career](./images/leadership_management.jpg)
+
+[pagebreak]
+
+As you can see, the difference matter, because it's two sets of skills that needs to be worked on independently. 
+If you believe there are the same, you are likely not to work on both but simply the one that you think represents both in your mind.
+
 @#$bozoandgoldengoose$#@
 ### The Bozo and the Golden Goose
 
@@ -486,86 +569,111 @@ Bozos tend to influence toward their own self interests, Geese tend to self-sacr
 It's not a matter of policy to decide what to do, it's a matter of sanity.
 
 
-@#$leadershipvsmanagement$#@
-### Leadership vs Management
+@#$politics_culture$#@
+### Politics & Culture
 
-The difference between leadership and management is a subject I particularly appreciate. 
-They are so often used as synonym and the term 'lead' is so commonly used as a blanket placeholder to rightful titles in insecure environments.
-Still, there are _very_ big differences that have to be understood to **build world-class teams**.
+Company culture is a hyper-covered topic, so you would think that it is a solved problem and even a supporting solution to all companies out there.
+Yet if you ask employees honestly what their take of it is, most will tell you that it either has no impact on them or that it's one of these corporate propaganda that they've come to learn to live with.
 
-[pagebreak]
+Culture was never about brainwashing employees into the next level of obedience or compliance. 
+It was about creating a sense of engagement so people would give a shit about the common goal of the team/company.
 
-#### Management, the art of creating predictable results
+A common mistake is that culture is expected to be built out of values that often end up on motivational posters around the company. 
+Values are good to have, but if they read like they came out of a marvel comic book or that they only apply when convenient, you will destroy the whole idea and everything you built on top of it.
 
-To achieve predictable results, the manager (at any level) leverages **different processes and tools** that have demonstrated - in their context - their ability to do so. 
-This includes scheduling, workflows or pipelines with checkpoints at given key frames. 
+You can't create a culture out of simple words and a few pep talks, but the recipe of success isn't much harder though.
 
-Anyone can basically be a good manager providing that they can structure their work and be organized. You simply have to engage in a control loop:
+**You build a culture by walking the talk.** 
 
-1. Start by identifying a **problem**. This is obviously easier if you've done the job below the manager, but it shouldn't be crazy hard either way.
-2. You continue by figuring out a **solution**. This is a research project. You can get answers from the internet, your network, personal experiences or brainstorming.
-3. You deploy the solution and **observe** the results. This is simply organization and discipline. There are ways to get better at each of these steps, but I'll cover that later.
+The values you preach need to be reinforced on a daily basis through actions. You can even verbally, or write down the connection between a decision/action and the value behind it.
+You would say things like "Best answers wins, so let's hear it from everyone here.".
 
-After that last step, based on the observed results, you go back to step 1, moving to the residual problems. Rinse and repeat.
+You act and apply to everyone (including yourself) the same scrutiny that you expect to others. 
+You admit the wrong, you protect the moral high ground from anyone - including the founders.
+When you admit the wrong, you do it with sincerity and a sense of accountability. It's so easy to brush off this part when there is no one above you in the organization.
 
-Great managers get good and predictable results, but the tech industry being such a talent-driven one, if you are looking for excellence, a pure management approach tends to fall short. 
-This is where leadership comes in.
+The culture belong to the company, not the founders, not the execs. You act as an agent of the company. You create this third person barrier, so that you belong with the same group that has to live by the same rules.
 
-[pagebreak]
 
-#### Leadership, the art to guide others to their excellence
+Unfortunately, so many leaders forget that actions speak louder than words, and they commonly destroy their culture with their behaviour or the behaviour they allow to happen.
 
-Everything else that is usually attributed to leadership is consequential to this. People follow their leaders when they convey their ability to guide followers to a better situation.
+A behaviour that is commonly (and easily) driven by politics.
 
-Leadership is about bringing **inspiration and direction** to a bright future while also providing **individually-tailored guidance and support** to get there.
-In other words, you set the north star, get people rallied behind your ability to take everyone there and take care of each individual along the way.
+Politics isn't mysterious, it's this mediocre social engineering practice that you just can't shake off after high school. 
 
-It's more difficult than management because it requires strong **soft skills**. You have to be confident and capable to put yourself in your people's shoes. 
-You need to be able to genuinely connect with the people you interact with to effectively lead. You need to genuinely care about them.
+Yet, it's very important to appreciate its impact and who are those who thrive in a political environment as they are the most dangerous characters there is.
+They use actively and aggressively, any and all social ways to advance their profile at any and all costs to others.
 
-In practice, the rise of leadership skills is rarely structured and much more often natural selection oriented. 
-Many strong leaders have a natural sense for their style and this tends to create a matching 'natural selection' where you - as leader - attract people that are compatible with your style and reject those who aren't. 
-This is something you should be aware of as you will be missing on some incredible talent and ideas if your style is aggressively discriminative.
-There are countless leadership style; each with its own discriminative nature as you will never be compatible with everyone.
+They will build fake relationships with key people, spin and twist appearances, set traps to sabotage others and make themselves shine. The list goes on.
 
-Leadership is not only natural though, it can be learned. It is a longer and more difficult journey than management because it requires you to do a lot of work on yourself.
-That is, if you want to excel at the task, which is definitely not the majority of leaders out there.
-Even notoriously famous leaders that have achieved great goals tend to exhibit a version of 'walk or die to my style' attitude.
-It does work, it's hyper discriminative, so you should aim higher and be better.
+In the end, these people use politics to manipulate the environment to their benefits.
+They also destroy companies from the inside out and are rarely - if ever - caught for it. 
+If anything, they are praised for it, or it's all part of the randomness of life.
 
-Great leadership requires:
+I do understand the dynamic at play - it's not a hard one to grasps - I don't follow leaders and organizations that tolerate politics at any levels. 
+There is literally nothing in it for anyone.
 
-1. Strong **soft skill** - Social awareness, communication, listening -, 
-2. The ability to **connect with people**, 
-3. A sense of **confidence** but also the ability to **question yourself** constantly.
 
-Leading by example is an obvious step you have to follow. If you live by "do what I say, not what I do", you will lose respect of everyone faster than you can blink. This doesn't mean you need to do everything yourself first either.
+@#$motivationandinspiration$#@
+### Motivation & Inspiration
 
-Ultimately, if you are capable of providing the right level of guidance and support to your people, you will start seeing that the people you work with are giving you **a lot more** that what you'd have under a plain management structure. 
-I'm talking **better, fresher ideas; an always switch-on attitude; a stronger internal drive; positive/can-do attitude; loyalty and commitment; and so much more**. 
-Also, this energy is **contagious**. As you now lead a team of people who are inspired to take on the impossible, you attract better talent too.
+#### Motivation
+Motivation is the inner force that drive us to act on things.
 
-Good leadership is the number one differentiator between teams who do excellent, pioneering level of work and those who just run a decent product/company. 
-I'd choose a poorly managed company with great leadership against the opposite any day. 
+Motivation is not something you can give to anyone. You can't teach it. You can't generate it. You have it, or you don't.
 
-[pagebreak]
+What you can do is protect it and eventually regenerate it back to its original level.
 
-#### Leadership and Management throughout your career
+Most people are motivated by default. Driven to explore, driven to experience, driven by curiosity. 
+There are obviously different levels, but generally, everyone is motivated by the pursuit of some kind of satisfaction.
 
-As you climb the ladder on the people management style, the importance of leadership and management changes.
-Even at the individual contributor level, management and leadership skills matter, but they are a 'nice to have', so I'm not going to dive too deep into it now.
+As a mental exercise, I keep in mind this "scale" to place one's motivation level, and I think you should recheck yourself on a regular basis to see where you are on it in your current circumstances.
 
-At first, as a manager, you'll need a quite high 'great management skills' to 'great leadership skills' ratio. This is because your job is first and foremost to organize the work of the people underneath you.
-As you progress, the balance progressively shifts because you have more and more people underneath you that are handling the management and the expectations shifts towards autonomy and the ability to take on higher and higher level requirements.
-At the top, you are becoming 'one of the few'. You must be inspiring, you must convey the energy that is making the top of the list of reasons as to why people join and stay.
+![Motivation Range](./images/motivation.jpg)
 
-In a nutshell, it kinda follows this graph:
-![Leadership & Management involvement over career](./images/leadership_management.jpg)
+Motivation is getting challenged throughout your life - personal and professional - by all sorts of events, and ultimately to the point of complete suffocation. That's what burn out will do to you.
 
-[pagebreak]
+As a team leader/manager, you have to pay attention to the things you may say or do that will demotivate your people such as:
 
-As you can see, the difference matter, because it's two sets of skills that needs to be worked on independently. 
-If you believe there are the same, you are likely not to work on both but simply the one that you think represents both in your mind.
+1. Exhibiting a "Do what I say, not what I do" attitude - It's the diametrical opposite of leading by example and is a nuclear bomb on motivation.
+2. Unfair treatment of employees - This can be more tricky as expectations and entitlement can create the sense of unfairness; You'd still need to address it by explaining your decision process and over-communicate expectations and due process.
+3. Credit misappropriation - no credit, shifting credit, stealing credit, letting credit being stolen by a third party or anything that will remove the deserved recognition and rewards one deserves for their work.
+4. Impossible satisfaction metrics - If you create an impossible situation; and this can be out of a large leap in scope - yet realistic.
+5. Little to no leadership with little to no inspiration - Extends the point before - which covered more the ante-situation - on the post-situation. Basically, if you don't provide guidance/inspiration on a seemingly impossible situation, you incentivize the "what's the point" feeling.
+6. Mass layoff and other drastic ridiculous decisions - For instance, stock buy backs at the same time of raises freeze under pretext of financial difficulties. 
+
+These may come from above you and around you as well. You have to do whatever you can to protect your team. 
+This can mean creating a sub-culture where your team feel disconnected enough from the demotivation source. 
+It's tricky to handle correctly as you walk the fine line between this healthy separation and going against the rest of the company - which you never want to do.
+
+Beyond these defensive moves, what you can do is hire better.
+
+Approach your recruitment from a profiling perspective first, skills second. Make sure your interview steps cover motivations. 
+Make sure your final decision process has a higher emphasis on the motivation rather than skills. 
+
+On the regeneration side - which is about bringing a previously motivated employee to their former level - you're looking at a typical inspiration moment.
+Demotivation is often tied to a sense of impossibility to overcome the demotivation factors. Inspiration can wipe this out.
+
+#### Inspiration
+Inspiration is the feeling you have when a previous notion of impossibility is successfully challenged, usually by either someone doing something or saying something.
+
+Inspiring is a core leadership skill. You have to be able to convey the feeling that impossibilities are just another day in the park for you.
+Anyone can be inspirational and should try to be at any moment. 
+
+You can be inspirational through sheer demonstration of skills. This is actually a common case with very experienced engineers who tend to be put on a pedestal by the rest of the team because of their ability to just close problems.
+By their side, more junior engineers are inspired by their ability to just get things accomplished even if they don't fully understand why or how.
+
+Another way is through attitude using positivity, wisdom, confidence and experience. Demonstrating these, is often an exercise of accurately assessing situations, handling them on the wire and landing on predicted results. 
+All of it with a confidence level known only to the "cool guys" who "don't look at explosions".
+
+Regardless, inspiration is an essential element in a healthy team dynamic. Companies that are continuously inspirational (understand a constant cycle of inspirational leaders conveying it correctly) find themselves closer to the tip of the spear of what's possible.
+This in returns helps them become unchallenged market leaders.
+
+Inspiration is no silver bullet though. Inspiration without action is entertainment and motivation is the force of action.
+All the inspiration of the world won't get a demotivated team to go anywhere, and you may run out of steam with a motivated team that isn't inspired ever.
+
+The first scenario may force you to hit the reset button with your team structure - which is on the top of the worst things that could happen to your teams - but unfortunately, quite common
+
 
 @#$timeiseverything$#@
 ### Time is everything
@@ -810,109 +918,6 @@ As in, it benefits them because that's an easy choice. Don't default to find con
 I was promoted in the past because it benefited my manager. I promoted people because it benefited me. In both cases, there was a lot more benefits to a lot more individuals direct and indirect.
 Understanding this empowers you to make better decisions. Just like Ray Liotta said in Revolver: "The more the man invest in that question, the more powerful the man becomes".
 
-@#$motivationandinspiration$#@
-### Motivation & Inspiration
-
-#### Motivation
-Motivation is the inner force that drive us to act on things.
-
-Motivation is not something you can give to anyone. You can't teach it. You can't generate it. You have it, or you don't.
-
-What you can do is protect it and eventually regenerate it back to its original level.
-
-Most people are motivated by default. Driven to explore, driven to experience, driven by curiosity. 
-There are obviously different levels, but generally, everyone is motivated by the pursuit of some kind of satisfaction.
-
-As a mental exercise, I keep in mind this "scale" to place one's motivation level, and I think you should recheck yourself on a regular basis to see where you are on it in your current circumstances.
-
-![Motivation Range](./images/motivation.jpg)
-
-Motivation is getting challenged throughout your life - personal and professional - by all sorts of events, and ultimately to the point of complete suffocation. That's what burn out will do to you.
-
-As a team leader/manager, you have to pay attention to the things you may say or do that will demotivate your people such as:
-
-1. Exhibiting a "Do what I say, not what I do" attitude - It's the diametrical opposite of leading by example and is a nuclear bomb on motivation.
-2. Unfair treatment of employees - This can be more tricky as expectations and entitlement can create the sense of unfairness; You'd still need to address it by explaining your decision process and over-communicate expectations and due process.
-3. Credit misappropriation - no credit, shifting credit, stealing credit, letting credit being stolen by a third party or anything that will remove the deserved recognition and rewards one deserves for their work.
-4. Impossible satisfaction metrics - If you create an impossible situation; and this can be out of a large leap in scope - yet realistic.
-5. Little to no leadership with little to no inspiration - Extends the point before - which covered more the ante-situation - on the post-situation. Basically, if you don't provide guidance/inspiration on a seemingly impossible situation, you incentivize the "what's the point" feeling.
-6. Mass layoff and other drastic ridiculous decisions - For instance, stock buy backs at the same time of raises freeze under pretext of financial difficulties. 
-
-These may come from above you and around you as well. You have to do whatever you can to protect your team. 
-This can mean creating a sub-culture where your team feel disconnected enough from the demotivation source. 
-It's tricky to handle correctly as you walk the fine line between this healthy separation and going against the rest of the company - which you never want to do.
-
-Beyond these defensive moves, what you can do is hire better.
-
-Approach your recruitment from a profiling perspective first, skills second. Make sure your interview steps cover motivations. 
-Make sure your final decision process has a higher emphasis on the motivation rather than skills. 
-
-On the regeneration side - which is about bringing a previously motivated employee to their former level - you're looking at a typical inspiration moment.
-Demotivation is often tied to a sense of impossibility to overcome the demotivation factors. Inspiration can wipe this out.
-
-#### Inspiration
-Inspiration is the feeling you have when a previous notion of impossibility is successfully challenged, usually by either someone doing something or saying something.
-
-Inspiring is a core leadership skill. You have to be able to convey the feeling that impossibilities are just another day in the park for you.
-Anyone can be inspirational and should try to be at any moment. 
-
-You can be inspirational through sheer demonstration of skills. This is actually a common case with very experienced engineers who tend to be put on a pedestal by the rest of the team because of their ability to just close problems.
-By their side, more junior engineers are inspired by their ability to just get things accomplished even if they don't fully understand why or how.
-
-Another way is through attitude using positivity, wisdom, confidence and experience. Demonstrating these, is often an exercise of accurately assessing situations, handling them on the wire and landing on predicted results. 
-All of it with a confidence level known only to the "cool guys" who "don't look at explosions".
-
-Regardless, inspiration is an essential element in a healthy team dynamic. Companies that are continuously inspirational (understand a constant cycle of inspirational leaders conveying it correctly) find themselves closer to the tip of the spear of what's possible.
-This in returns helps them become unchallenged market leaders.
-
-Inspiration is no silver bullet though. Inspiration without action is entertainment and motivation is the force of action.
-All the inspiration of the world won't get a demotivated team to go anywhere, and you may run out of steam with a motivated team that isn't inspired ever.
-
-The first scenario may force you to hit the reset button with your team structure - which is on the top of the worst things that could happen to your teams - but unfortunately, quite common
-
-@#$politics_culture$#@
-### Politics & Culture
-
-Company culture is a hyper-covered topic, so you would think that it is a solved problem and even a supporting solution to all companies out there.
-Yet if you ask employees honestly what their take of it is, most will tell you that it either has no impact on them or that it's one of these corporate propaganda that they've come to learn to live with.
-
-Culture was never about brainwashing employees into the next level of obedience or compliance. 
-It was about creating a sense of engagement so people would give a shit about the common goal of the team/company.
-
-A common mistake is that culture is expected to be built out of values that often end up on motivational posters around the company. 
-Values are good to have, but if they read like they came out of a marvel comic book or that they only apply when convenient, you will destroy the whole idea and everything you built on top of it.
-
-You can't create a culture out of simple words and a few pep talks, but the recipe of success isn't much harder though.
-
-**You build a culture by walking the talk.** 
-
-The values you preach need to be reinforced on a daily basis through actions. You can even verbally, or write down the connection between a decision/action and the value behind it.
-You would say things like "Best answers wins, so let's hear it from everyone here.".
-
-You act and apply to everyone (including yourself) the same scrutiny that you expect to others. 
-You admit the wrong, you protect the moral high ground from anyone - including the founders.
-When you admit the wrong, you do it with sincerity and a sense of accountability. It's so easy to brush off this part when there is no one above you in the organization.
-
-The culture belong to the company, not the founders, not the execs. You act as an agent of the company. You create this third person barrier, so that you belong with the same group that has to live by the same rules.
-
-
-Unfortunately, so many leaders forget that actions speak louder than words, and they commonly destroy their culture with their behaviour or the behaviour they allow to happen.
-
-A behaviour that is commonly (and easily) driven by politics.
-
-Politics isn't mysterious, it's this mediocre social engineering practice that you just can't shake off after high school. 
-
-Yet, it's very important to appreciate its impact and who are those who thrive in a political environment as they are the most dangerous characters there is.
-They use actively and aggressively, any and all social ways to advance their profile at any and all costs to others.
-
-They will build fake relationships with key people, spin and twist appearances, set traps to sabotage others and make themselves shine. The list goes on.
-
-In the end, these people use politics to manipulate the environment to their benefits.
-They also destroy companies from the inside out and are rarely - if ever - caught for it. 
-If anything, they are praised for it, or it's all part of the randomness of life.
-
-I do understand the dynamic at play - it's not a hard one to grasps - I don't follow leaders and organizations that tolerate politics at any levels. 
-There is literally nothing in it for anyone.
 
 @#$owningthezone$#@
 ### Owning the Zone
@@ -1270,6 +1275,113 @@ That's why your customer support team should be small.
 That's why you should listen to the patterns they identify when addressing customers.
 
 Give them the tools to be efficient, place them in the center of the product building process.
+
+@#$process_love_affair$#@
+### The Process Love Affair
+
+Countless companies are in a purgatory of endless problems. These range from optimization to fundamental.
+
+An optimization problem is when you are productive but not at the level you know you could be.
+A fundamental problem is when you aren't productive or barely are.
+
+It's very common for these companies to slip quickly into believing that these problems can be solved with more processes.
+This belief is particularly strong in western companies, as chinese companies approach processes with a lot more caution.
+
+The Chinese approach focuses on speed of execution and sees processes as something that slows you down. 
+So before you can adopt another process, you often have to demonstrate that the losses of the implementation are outperformed by other benefits, often by several multiples.
+
+On the other side, western companies tend to embrace process with little to no pitch, but any company can fall for this belief.
+
+That's what **I call the process love affair**.
+
+[pagebreak]
+
+#### The side effects
+
+The problem with this love affair is that processes don't fix broken teams. 
+If you drop a process on a bad dynamic, the bad results continue regardless.
+
+What processes solve are specific problems with a constrained impact surface by bringing structure and optimize flows.
+
+They structure by creating a sets of rules that are followed when the process is respected.
+They optimize when the structure is polished to limit duplication, friction and maximizes downstream value from pre-existing information.
+
+A team that lacks good processes often is still very capable of delivering world-class products. 
+It may come at a higher expense though. 
+
+The other problem is that the best processes aren't effective unless deployed correctly. 
+When you see them as a magic bullet to all your problems, you will be tempted to go heavy-handed with it.
+
+When this magic bullet won't deliver the result you are expecting, you will be defaulting to believe you didn't deploy enough of it.
+
+Even people who preach deploying the bare minimum can exhibit this heavy hand because they are unaware of their love affair.
+
+[pagebreak]
+
+#### The fix
+I'm not advocating for no processes. 
+I'm advocating for self awareness to your relationship with processes, acknowledging the limits of their impact and a carefully crafted plan to deploy them successfully.
+
+**1/ Analyze and understand the capacity of the team.**
+
+Forcing processes to be respected will likely end up in processes not being followed or a high cognitive cost from the teams to follow said process.
+In short, the output will suffer instead of improving.
+
+To solve this, you need to figure how much your team can adopt.
+
+This can be very difficult when your teams has had bad habits that overwhelmed them with work. That's because this will drastically limit their bandwidth (time and mental) to adopt anything new.
+Their reaction is likely to be exaggeratedly strong as they'll try to tell you they are drowning.
+
+So before anything else, you need to understand candidly what the team is capable of absorbing in the current state and in a state where you've carved out more bandwidth for them. (Scope cut, size expansion, etc)
+
+As you do this work to get a range in mind, you want to do this for each team that will directly collaborate with each other.
+That is because the **team with the lowest capacity will dictate what you do next**.
+
+
+**2/ Break down your ideal process into pieces**
+
+You can paint the perfect picture for your master process and optimize it to infinity as much as you want. It's not a bad idea to do so.
+
+The more important part is to break it down into the smallest pieces possible.
+
+The smaller, the better as you can roll out more of these bite size pieces in each new deployment phases. 
+If you deploy too big of a change, you'll be stuck for a much longer period in the next stage, or worse, you'll have to roll back, often with a trust impact.
+
+
+**3/ Deploys one step at a time**
+
+The definition of a step is directly linked to the absorption capacity you've identifies in #1. 
+This could be a single piece from #2 or multiple ones. 
+The key element here is that once you have deployed said step, no new deployment happens until the cycle is complete.
+
+If a team is ahead in their adoption and looking at the next step, you'll have to hold them until the adoption is confirmed.
+
+
+**4/ Check on the team's adoption of the process step**
+
+The way to confirm that a new process step has been successfully adopted is to observe the team use it.
+
+You do this by having the process owners (often project/program management) attending daily meetings (stand-ups, architecture sync, cross-functional syncs).
+If the team is no longer asking questions; if the team has adopted the new language; if the team is proactively leveraging the process step being deployed, you are at a level of adoption I call _reflex_.
+
+**5/ If the deployed step became a reflex, jump back to 3/ with the next step**
+
+Now that the team has demonstrated that the process step was fully adopted and is a second nature to them, you can move on to the next step to be deployed.
+
+In this stage, it's also a good moment to take a minute (understand at least a sprint cycle) to give the team a break, observe the results of the step deployed and think critically about the next one.
+
+That is because, even though you are going to deploy a new step soon, you may want to change the one you originally had lined up.
+
+[pagebreak]
+
+In case the step is being difficult to be adopted, you are looking at different scenarios that has to be evaluated with all the nuances of the team dynamic:
+
+- The step was too big -> Cut out part of it, move it back to your steps backlog
+- The team needs more time -> Be patient with them, repeat and reinforce why the step matters
+- The step didn't work out -> Remind people that this is always a potential outcome, revert the step and reinforce that this journey is still worthwhile. Revisit your process definition cycle as you're likely not incorporating enough of the teams dynamic in your design.
+
+What you don't do, is defend your process against all odds and data, because that means you're blinded by your love affair.
+
 
 @#$uxvsui$#@
 ### UX vs UI
