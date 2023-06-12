@@ -96,7 +96,7 @@ for index, page in enumerate(pages):
     else:
         page_partitions = page.partition('$#@')
         page_md = page_partitions[2]
-    page_html = markdown.markdown(page_md)
+    page_html = markdown.markdown(page_md, extensions=['tables'])
     # Additional replace
     page_html = page_html.replace('[pagebreak]', '<div id=\'pagebreak\'></div>')
 

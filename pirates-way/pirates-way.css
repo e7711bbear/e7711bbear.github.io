@@ -85,6 +85,20 @@ img {
     display: block;
 }
 
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+thead th{
+    text-transform: uppercase;
+    background: lightgray;
+}
+
+th, td {
+  padding: 15px;
+}
+
 #centralcol
 {
     /*margin: auto;*/
@@ -250,6 +264,9 @@ img {
     }
     a {
         color: #eeeeee;
+    }
+    thead th {
+        background: #151515;
     }
     #footer {
         color: #cccccc;

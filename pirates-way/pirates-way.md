@@ -27,6 +27,7 @@
 ### [The Process Love Affair](#process_love_affair)
 ### [UX vs UI](#uxvsui)
 ### [Recruitment & Team Structure](#recruitment_team_structure)
+### [Roles, Titles and Individuals](#roles_titles_individuals)
 ### [The Loneliness of the Winner](#loneliness_winner)
 
 ## [The Product](#theproduct)
@@ -1393,6 +1394,162 @@ Coming Soon...
 
 Coming Soon...
 
+@#$roles_titles_individuals$#@
+### Roles, Titles and Individuals
+
+If you work in a company that has weird/inconsistent titles and in a seemingly perpetual state of figuring out who's in charge of what, you're not alone. 
+Many companies - unknowingly - make the mistake of blending roles, titles and individuals and this all ends up in the same place.
+
+As a result, the company is built on a weird flow that blends opportunities based on the talent available (usually because of some established difficulty to hire and/or retail top talent), misunderstanding of the differences between roles and titles and skipping/rushing through defining the roles needed for the company.
+
+When you skip defining roles, you create confusion in the expectations a given role carries. You're falling into the summarizing trap that titles inherently create - as they should - without going over the substance they summarize.
+You'll find this everywhere, especially online. As I write this, there is an extensive debate over the role of a CTO there. I'll return to this in a minute.
+
+When you abuse titles without proper roles behind them, you promote a perverse identity problem. 
+At times, some startup will use this to their advantage by handing over fancy titles as a kind of compensation. The ego boost created by the freshly appointed identity goes a long way.
+But in the worst cases, this identity issue manifests itself into a chest beating display of expected authority (and all the flavors in between).
+
+The misuse of titles has also the negative side effect of devaluing or completely wiping out the meaning of said titles when moving to another company.
+You'll hear it from large companies when coming from a smaller companies. The large one - who tend to be more structured on that topic - will very casually dismiss your role because of the title you had in a smaller place.
+
+Finally, when the role definition is coming after an individual is placed under a title - usually because the role is crafted for the individual -, you create multiple risks.
+One of which is the right context to tangle the two together in all future conversations.
+
+When things go well, it's not a problem. Actually, it's a hyper performance environment.
+
+When things go wrong, fixing things quickly finds itself stuck in a quick-sand of personal judgement that has no place in the workplace. 
+So you better use this carefully and with the right individuals.
+
+The other risk you create is the lack of survivability of said role when the individual experiences life circumstances. That's because the role is this individual. When one is gone, so is the other.
+
+[pagebreak]
+
+The way I like to approach this is by following this principle. I design organization in complete abstraction of the current staff or available talent.
+
+I follow this hierarchy: **Role > Title > Individuals**
+
+#### Role
+First define the organization structure you need to deliver what you want.
+
+This organization should be a chain of roles. An Org Chart is not a bad way to look at it.
+
+These roles should be building blocks for your organization's structure. 
+You should aim for a standard set of roles for 80-90% of your organizations. 
+You don't want to be in a place where you rely on exceptional roles - even if it will happen. 
+That's because these roles are going to be extremely hard to staff.
+
+These roles should also follow some sense of a multidimensional structure principle.
+The first dimension is the vertical hierarchy, the second being the horizontal peer structure. 
+I think this is best illustrated with an example of my approach you'll find at the end of this chapter.
+
+All these blocks should have some level of overlap in their duties. This is the handover part. 
+A gap will result in moments where the individuals who assume the roles will look at each other trying to figure out who's responsible for that thing that sits in the gap.
+
+
+Roles should be defined as a list of duties or expectations. 
+You can see it as the "What will you do" part of job descriptions. 
+Ignore the required experience/skills part of a typical JD for this exercise.
+
+You can figure out each of these roles by identifying problems in need of handling starting from the organization structure you've defined before. 
+This structure will help you create a context of focus to dive into the details of each role, building eventually your whole list of building blocks.
+
+Eventually, you'll need a way to summarize these roles, their expectations, their interactions. 
+Titles can do that. Another way is using JDs as long as you don't forget the extra information there that may be misleading (skills, experience, etc).
+So if you live and breath this principle, you won't be exposed to the confusion, until then, it's better to stick to a list of expectations and a title.
+
+At any moment, if a role is unclear, simply run an expectation meeting. 
+Grab all individuals assuming roles with direct interactions with the unclear one, go around the table, state what each is expecting and why. 
+Debate and settle on the model that works best.
+
+#### Title
+Titles are communication tools. They are here to convey easily the entirety of the expectations of the role they represent.
+
+Because roles have a cross-industry component (~60%), a cross-companies of similar size/characteristic trend element (~30%) and a specific part to your specific context your company is in (~10%), your titles' complete meaning will be ultimately specific to your company profile.
+An Electrical Engineer working for a utility company isn't the same as an Electrical Engineer working for a robotics company.
+That's why it's useful to remind people what is it that you do (that's the adhoc expectations alignment that happens in intros usually).
+
+If you find yourself in a situation where you can't summarize what you do with two sentences or a title, and/or your title feel completely misaligned, you likely have a role definition problem, so go back and reset.
+
+Back to the CTO debate to illustrate the importance and differences between role and titles. The conversation mostly gravitates around how strategic a CTO has to be. 
+This debate circulated all around and stating that CTOs are only here to do strategic work. This is a role conversation that's being approached from a title angle first. 
+
+CTO is the title, but the role evolves depending on the company you're in (the last 40% I mentioned earlier). 
+There are obvious boundaries, but it's not out of place for the CTO of a startup to be 20% in strategy and 80% in execution while a CTO in a large company will be going through the opposite distribution.
+
+This isn't a redefinition of the title either, it's a role debate that's tainted because 'CTO' is brought to the table as an identity through the title and ignoring the role. 
+At which point, some CTOs in the debate don't want their identity to be challenged and aren't accepting the simple reality that different companies need different CTO roles for the same title.
+
+This whole paradigm of one title can represent multiple roles is illustrated in many other ways. Some companies use a model where they have multiple CTOs. 
+Others use a model where the title 'CTO' is assigned to a role that has very little to do with the day-to-day execution or strategy, and is merely a 'Chief Engineer' R&D role.
+
+Not only that, but the same company's expectations (role) for their CTO will likely evolve as it grows. 
+And that's where the individual may be great or unfit for the role as it is usually very difficult - if not unrealistic - to expect someone to be great at a role and grow with its mutation as the company's expectations evolve.
+
+#### Individuals
+
+Now that you have your role defined and a title for it, finding the right individual should be straight forward. 
+As long as you understand that you are now out of the cold world of processes and in the warm world of emotional beings.
+
+Everyone is on a learning journey. This journey is at a different pace, faces different hiccups, follows different tracks.
+This isn't an issue, because who would want to pick up a role they already know 100% of with no perspective of learning or progressing anyway?
+
+Everyone also has a different distribution of skills and experiences. This means that what each bring to the table widely varies. 
+This is great because, if enabled, it allows people to expand a role given to them to areas that can benefit everyone and that you most likely didn't anticipate.
+
+Select individuals for roles with this in mind. You want people who are showing potential but aren't necessarily fully in control yet. 
+90% of the time, individuals will have their own specific way to handle the role. Giving them room to take ownership and drive the expectations their way will pay off.
+
+All you need to do in the end is support them and monitor they ability to pick up the parts of the role that they aren't in control of yet. 
+
+In the end, when you have role clearly defines, a title to communicate it, there are many individuals who can successfully assume the role. This is a healthy place to be for everyone. 
+The company retains flexibility while protecting against single point of failures while the individual has a much wider potential of role fit in the industry.
+
+#### My Guidelines
+
+First, I prefer to build organizations top-down. This means, I identify leaders first, let them build their teams. This is not always possible though.
+
+Second, I define a clean org with clean roles and clear expectations. I rarely write it down because it is clear in my head, but I do cover all details, including overlap with common interacting roles with all parties involved. Dumping a book of expectations on people doesn't work. Repetition does.
+
+Third, I define clear titles. I don't use any titles that creates ambiguity like 'Product Owner', 'Team Lead' or 'Coordinator'. I use a simple naming convention: 'Role, Specialization': 'VP of Engineering, Applications', 'Product Manager, Mobile', 'Senior Software Engineer, Native Apps'.
+
+Finally, the multidimensional slicing, but first some definitions:
+
+Small teams is up to 3 Manager-level teams.
+
+Medium is 3-8 Manager level teams
+
+Large is 9+ Manager level teams
+
+The vertical principle I use is as follows:
+
+| Roles                   | Small Teams                      | Medium Teams           | Large Teams             |
+|-------------------------|----------------------------------|------------------------|-------------------------|
+| Strategy                | CTO                              | CTO                    | CTO                     |
+| High Level Execution    | CTO                              | VPE                    | VPE                     |
+| Cross Team Coordination | CTO                              | VPE                    | Director of Engineering |
+| IC Management           | Manager                          | Manager                | Manager                 |
+| Implementation          | Manager + Individual Contributor | Individual Contributor | Individual Contributor  |
+
+The horizontal principle I use:
+
+The ideal team size is 5-9 people depending on their independence, complexity of the work, depth of involvement, etc. 
+The numbers below are based on a team of 9 + manager.
+
+| Roles   | Small Teams | Medium Teams | Large Teams |
+|---------|-------------|--------------|-------------|
+| Junior  | 1           | 1            | 2           |
+| Mid     | 4           | 3            | 2           |
+| Senior  | 4           | 4            | 4           |
+| Lead    | 0           | 1            | 1           |
+| Manager | 1           | 1            | 1           |
+
+A couple of trends you might have picked up already:
+
+- Senior roles heavy: Senior individuals are always the best bang for buck.
+- Progressive growth in junior roles: That's because you need to be pragmatic with your ability to ramp them up and this does not include internship programs.
+- Lead role is held back until the org grows, that's because a key value of leads is their ability to represent the whole team technically with other teams. The Manager can hold this until then.
+
+
 @#$loneliness_winner$#@
 ### The Loneliness of the Winner
 
@@ -1671,17 +1828,9 @@ I am going to approach this chapter just like the Product one. Structuring it us
 
 Make sure to check out the trifecta chapter in the principles, as I want to dive into practical details you won't be able to understand without the context.
 
-The other important distinction is that I am going to use terms for roles that often are used as job titles, but may not match all the time.
+I'm going to use terminology and definitions I've covered in the 'Roles, Titles and Individuals' section of the principles, so have a look before continuing if you haven't already.
 
-Job titles are often given as a reward in smaller companies. In the lack of other kind of compensation, the ego boost does its trick.
-Unfortunately, this means that - for instance - a director in a startup is definitely not the same as in a more established company.
-
-As a side note, this has also led people into believing that working for a large company is more demanding that a small company, but that's just not true.
-Smaller companies are harder. Larger companies provide a ton of support because there is always resources to help you handle things.
-
-Regardless, It all boils down to what your day-to-day duties really are. You are what you do, not what you think you should do.
-
-So to describe the roles below, and make sure we are starting this on the same page, here are the duties that define each of these role names:
+To describe the roles below, and make sure we are starting this on the same page, here are the duties that define each of these role names:
 
 1. **Individual contributor** is the individual that actually does the building work. The coding, the planning, the scoping.
 In engineering, that's everyone with 'engineer' or 'developer' in their title regardless of their seniority. 
