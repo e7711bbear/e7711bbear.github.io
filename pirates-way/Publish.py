@@ -97,11 +97,25 @@ for index, page in enumerate(pages):
         page_partitions = page.partition('$#@')
         page_md = page_partitions[2]
     page_html = markdown.markdown(page_md, extensions=['tables'])
+
+    page_components = page_md.partition('\n')
+    page_title = None
+    if page_components[2][0] == '#':
+        title_piece = page_components[2].partition('\n')[0]
+        page_title = title_piece.replace('# ', '')
+        page_title = page_title.replace('#', '')
+    # Setting the page title if available
+    if page_title is not None:
+        page_template_html = template_html.replace('[pagetitle]', page_title)
+    else:
+        page_template_html = template_html.replace('[pagetitle]', 'How to build tech products and the teams behind them')
+
     # Additional replace
     page_html = page_html.replace('[pagebreak]', '<div id=\'pagebreak\'></div>')
 
+
     # Insert content in template
-    final_page_html = template_html.replace('[[INSERT_PLUG]]', page_html)
+    final_page_html = page_template_html.replace('[[INSERT_PLUG]]', page_html)
 
     # Insert previous and next links
     previous_link = ''

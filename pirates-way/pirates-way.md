@@ -29,6 +29,7 @@
 ### [Recruitment & Team Structure](#recruitment_team_structure)
 ### [Roles, Titles and Individuals](#roles_titles_individuals)
 ### [The Loneliness of the Winner](#loneliness_winner)
+### [Distributed and Remote Playbook](#distributed_and_remote_playbook)
 
 ## [The Product](#theproduct)
 ### [R&D](#randd)
@@ -1280,20 +1281,21 @@ Give them the tools to be efficient, place them in the center of the product bui
 @#$process_love_affair$#@
 ### The Process Love Affair
 
-Countless companies are in a purgatory of endless problems. These range from optimization to fundamental.
+Countless companies are in a purgatory of endless problems. The types of these problems range from optimization to fundamental.
 
 An optimization problem is when you are productive but not at the level you know you could be.
 A fundamental problem is when you aren't productive or barely are.
 
-It's very common for these companies to slip quickly into believing that these problems can be solved with more processes.
-This belief is particularly strong in western companies, as chinese companies approach processes with a lot more caution.
+It's very common for these companies to slip quickly into believing that any of these problems can be solved with more processes.
+This belief is particularly strong in western companies, as chinese companies approach processes with a lot more caution (for instance).
 
 The Chinese approach focuses on speed of execution and sees processes as something that slows you down. 
 So before you can adopt another process, you often have to demonstrate that the losses of the implementation are outperformed by other benefits, often by several multiples.
 
-On the other side, western companies tend to embrace process with little to no pitch, but any company can fall for this belief.
+On the other side, western companies tend to embrace process with little to no pitch. 
+That's because processes are put on a pedestal. They make people feel good. There is an almost dogmatic belief that without them, it's just impossible to deliver and if a little is good, more must be better.
 
-That's what **I call the process love affair**.
+This is what **I call the process love affair**.
 
 [pagebreak]
 
@@ -1307,15 +1309,17 @@ What processes solve are specific problems with a constrained impact surface by 
 They structure by creating a sets of rules that are followed when the process is respected.
 They optimize when the structure is polished to limit duplication, friction and maximizes downstream value from pre-existing information.
 
-A team that lacks good processes often is still very capable of delivering world-class products. 
-It may come at a higher expense though. 
+A team that lacks good processes often is still very capable of delivering world-class products if their dynamic is strong.
+It may come at a higher expense though. Higher quality of talent requirement. Higher efforts.
 
-The other problem is that the best processes aren't effective unless deployed correctly. 
-When you see them as a magic bullet to all your problems, you will be tempted to go heavy-handed with it.
+The other problem is that the best processes aren't effective unless designed and deployed correctly. 
+When you see them as a magic bullet to all your problems, you will be tempted to go heavy-handed with them.
 
-When this magic bullet won't deliver the result you are expecting, you will be defaulting to believe you didn't deploy enough of it.
+When this magic bullet won't deliver the result you are expecting, you will be defaulting to believe you didn't deploy enough of it - only to make it all worse.
 
 Even people who preach deploying the bare minimum can exhibit this heavy hand because they are unaware of their love affair.
+
+When they are designed poorly, they can turn into encrypted treasure maps where the cost of using the process is so ridiculously heavy - yet unchallenged - that it negates all possible benefits.
 
 [pagebreak]
 
@@ -1336,14 +1340,14 @@ Their reaction is likely to be exaggeratedly strong as they'll try to tell you t
 So before anything else, you need to understand candidly what the team is capable of absorbing in the current state and in a state where you've carved out more bandwidth for them. (Scope cut, size expansion, etc)
 
 As you do this work to get a range in mind, you want to do this for each team that will directly collaborate with each other.
-That is because the **team with the lowest capacity will dictate what you do next**.
+That is because the **team with the lowest capacity will dictate what you can do next**.
 
 
 **2/ Break down your ideal process into pieces**
 
 You can paint the perfect picture for your master process and optimize it to infinity as much as you want. It's not a bad idea to do so.
 
-The more important part is to break it down into the smallest pieces possible.
+But **the most important part is to break it down into the smallest pieces possible**.
 
 The smaller, the better as you can roll out more of these bite size pieces in each new deployment phases. 
 If you deploy too big of a change, you'll be stuck for a much longer period in the next stage, or worse, you'll have to roll back, often with a trust impact.
@@ -1375,13 +1379,13 @@ That is because, even though you are going to deploy a new step soon, you may wa
 
 [pagebreak]
 
-In case the step is being difficult to be adopted, you are looking at different scenarios that has to be evaluated with all the nuances of the team dynamic:
+In case the step is being difficult to be adopted, you are looking at different scenarios that has to be evaluated with all the nuances of the team's dynamic:
 
 - The step was too big -> Cut out part of it, move it back to your steps backlog
 - The team needs more time -> Be patient with them, repeat and reinforce why the step matters
 - The step didn't work out -> Remind people that this is always a potential outcome, revert the step and reinforce that this journey is still worthwhile. Revisit your process definition cycle as you're likely not incorporating enough of the teams dynamic in your design.
 
-What you don't do, is defend your process against all odds and data, because that means you're blinded by your love affair.
+What you don't do is, defend your process against all odds and data, because that means you're blinded by your love affair.
 
 
 @#$uxvsui$#@
@@ -1608,6 +1612,315 @@ If this is an unbearable environment for you, don't force yourself into it under
 
 Every case is different, so it's hard to give more precise advice without a more precise context, but keep in mind that this paradigm applies a lot further than you can see and also applies to entities.
 Companies can experience loneliness on the top of the pyramid.
+
+
+@#$distributed_and_remote_playbook$#@
+### Distributed and Remote Playbook
+
+There is a ton of debate about in-office, hybrid and remote work and one conversation that stuck with me was when I was told that in this debate, no one is actually providing a playbook for remote work to succeed.
+
+So here is mine to handle distributed office and remote workforce. Keep in mind that this is very dynamic and changes as needed.
+
+Before we dive into this, don't lose sight of the fact that whichever model you use, it won't guarantee any results. It's the management and leadership behind said models that make or break them.
+
+First a bit of definitions:
+
+##### - In Office
+
+Everybody comes to a dedicated location and does all or most of the work from there. Traditional model, works really well for productivity and is sometimes the only option. 
+It is now contentious because most of the world has been so poorly managed in the past few decades that this implies either gruesome commutes or really high cost of living.
+
+##### - Distributed Office
+
+Same as above but the teams are split across multiple locations. 
+I am a big proponent of this model as it allows to tap into regional talent pool vs forcing to bring everyone under one roof. 
+
+It's mildly more difficult to execute, a lot more accessible to smaller companies than you probably assume and pays greatly.
+For the sake of the In office vs remote debate, this one sits in the 'in office' camp. Overall same drawbacks but usually can be eased for at least some.
+
+##### - Partially Remote
+
+Fixed days in office and fixed days remote for everyone. This means everybody is in office and everybody is remote at the same time. It can be one day a month at the office or three days a week.
+The frequency is irrelevant to this definition, but it has a big impact on the talent access. 
+This model is most of the time put into hybrid, but it's actually quite different and unlike hybrid, it works quite well. 
+
+##### - Hybrid
+
+Part-time in the office and part-time remote on - mostly - the employees terms (they choose which days, rarely how many days). 
+This makes it the worst of all models because employees end up forced to stay in expensive living areas, commute in miserable conditions, fight to find a meeting room - most likely one of these design-sweat-box-phone-booth-thingy - or worse use an open space area that promotes holding your opinion to yourself - to mostly take online calls you could have had better from home.
+It's a land of compromise that's becoming more and more popular as so few companies actually look into what works and what doesn't and try to rush out the fix.
+Most places are using it as a trojan horse to bring people back to the office and every couple of month, we get an article about the state of the 'negotiation'.
+
+##### - Remote
+
+People work from anywhere all the time. Occasional face to face meeting in given locations that aren't challenging the nature of the dynamic.
+This model is the most flexible for employees but comes with its requirements to actually work. If you master these, it's basically a superpower for your team.
+
+Now that this is set, let's move to actual playbooks. I want to focus on Remote (and partially so) and Distributed Office because these two are the one that came up the most on to how to execute on these properly.
+
+#### Partially Remote
+For this model, I tend to prefer 2 days (or less) per week in office, these days being Tuesday and Thursdays. (I read once someone referring to the hybrid schedule in the UK as 'the TWaT schedule': Tuesday, Wednesday and Thursday).
+
+- Monday is usually packed with meetings to set the week in motion (alignment meetings) - Take these home.
+- Tuesday is where the first cross-collaboration happens and these are the meeting moments that require the most diligence when run remote (because of the issues video calls bring inherently by not having yet spacial audio).
+- Wednesdays you're acting on Tuesday's thinking.
+- Thursday is cross func review of Wednesdays.
+- Friday is post-mortem, wind down and most people are half switched on anyway.
+
+This is obviously a hyper simplification, but the key takeaways are:
+
+- 2 or fewer days a week otherwise it's Partially in Office.
+- Create 'Meeting Days'
+- Stagger them so action can follow
+- Reserve office time for cross collaboration
+
+#### Distributed Office
+
+I've been preaching for this model for years now (pre-pandemic). It has worked really well for some of the places I advised. 
+
+It's an incredibly viable model, but it's mostly accessible to those with an extended network as you will need trusted people to run operations in the other strategic locations.
+
+In essence, instead of forcing into a single location all talent, you split into multiple offices in multiple locations where you can leverage the geographical advantages of each location.
+This is particularly relevant in a time when some locations are incredibly expensive to operate in or if a specific type of talent you need is hard to come by where you are.
+
+To open other offices, you need to sort out operations and have a champion on site to represent the local team. 
+These days, this is increasingly easier with all the tools that exists to take over even international operations.
+
+The champion question remains. The role you are looking to fill is one of these exceptional one I mentioned in the roles, titles and individuals chapter.
+
+As you lay you plan, defined the role of said champion, the feasibility of the whole idea is tied to your ability to find said person - at least at first. 
+Many companies that go through this tend to also go through several individuals until they find the one that will assume the role correctly. 
+So knowing someone ahead of time (the extended network), dramatically increases the chances of success.
+
+Another way is to enable the relocation of someone in the current team.
+
+Once you have the champion, the operations challenges come in.
+
+First, you need proper communication infrastructure. It's a topic on its own, but simply put, communication is a bandwidth issue. 
+You need to use what you have available for what can't be expressed otherwise.
+This means, first you need great tooling that is accessible equally across all offices. That's the software, but also the network infrastructure. 
+You'll likely want to set up a proper VPN infra so that the hard infra of one office is seamlessly accessible in other offices.
+
+You'll want the software you use to be able to handle asynchronous information and establish good habits on how to use it effectively:
+- An issue tracker with good content, linked to other services so that most questions are answered in the course of a regular day
+- A good chat system (IRC clones like Slack/Discord) so people can have spontaneous conversation
+- An established and default conferencing system with good cameras, light and microphones (don't assume people will sort this out themselves or using amazon.com)
+- A way to do online white boarding in a collaborating manner (I like Figma's figjams, but Miro and hangout + iPads works great too).
+
+Second, establish a clear purpose for each office, reinforce it while reminding people you are all in one big team. Squash the sentiment of satellites offices (which persists from dated models).
+Bring people together once in a while in groups that makes sense. Send people to each office as a way to reinforce the importance of all offices. 
+Remind people that each office means different relationships (perks and constraints) with the company (especially if across country borders).
+
+Last, solve logistics if it applies to your company. This is an ongoing cost that can explode and reduce the benefit of the model, so you'll want to handle this correctly. 
+Identify a logistic partner, negotiate prices with volumes, get ahead of customs checks and requirements, train and establish office managers in each site.
+This also likely means clean budgets per office for operations and budgets per department across offices. Clear responsibilities and gateways to execute/approve logistical situations.
+
+In such context, you reap the benefit of the whole paradigm.
+
+Usually this means, better talent, happier staff, higher productivity all at a much lower operating cost.
+
+#### The Remote Playbook
+
+Working remote is incredibly powerful and a superpower most smaller companies should actively introduce or fully adopt because it's one of the most effective competitive angle they can leverage against their bigger competition.
+If you're reading this, it's probably because you already understand some of that but to formalize what remote can do for you:
+
+- Access to top tier talent at a lower cost point
+- Increased engagement from your staff through appreciation of your ability to deliver a flexibility that directly translate into a better life.
+- Low cost access to senior operation level like multi shift coverage, unique skill talent pools access, unique financial advantage through regional opportunities.
+
+That being said, it won't work for everyone or under any and all circumstances.
+
+Most companies or people who advocate against remote do it because they didn't figure it out (or have a vested interested in its failure). You'd hear/read things like "I don't have the data, but I know in office is better".
+It's hard to blame them because very few guidelines or playbook are actually published out there, so here is mine (so far).
+
+##### 1. The right people in the right structure. 
+
+You first need to understand the work you do, what it requires to be done in terms of facilities, equipment and attendance, and evaluate the state of maturity/independence of your staff/processes (your operation).
+
+Not all work is doable remotely, but with maturity in your remote work, you'll find surprising how easy it is to work on even hardware projects remotely. 
+This is because the tooling and overall infrastructure we enjoy these days makes the logistics of said operations incredibly easy and affordable.
+
+There are countless departments that I wouldn't recommend remote for though:
+
+- Large hardware products (aircraft, cars, large vehicles, space tech, etc)
+- Specialized tooling requirements
+- Manufacturing engineering
+- Field deployment offices
+- RMA/Maintenance/Repair
+
+On the other hands, some departments work really well remote, despite assumptions:
+
+- Office Management
+- IT/Workplace Tech
+- Small hardware
+
+So to make this work, you need to first understand the work you do and find remote-able divisions or departments in your operation and rank their 'remoteness'. 
+This is essential because 'remote' doesn't necessarily imply that everybody can be fully effective while being nomad.
+
+I use this grid of **_remoteness_**:
+
+| Level | Remoteness Name | Circumstances                                                                                                           |
+|-------|-----------------|-------------------------------------------------------------------------------------------------------------------------|
+| 0     | In Office       | Basically not remote                                                                                                    |
+| 1     | Close Remote    | Staff is remote, but close enough to a relevant office that they can do a day trip if needed. This is usually 1-2h away |
+| 2     | Wide Remote     | Staff is remote, can't make it a day trip to a relevant office but within +/- 1-3h timezone difference range            |
+| 3     | Distant Remote  | Staff is remote and likely internationally positioned in 3+hrs of time difference                                       |
+
+Make sure you don't make any division/department sit in between remote and in-office. It is fine to be in-between levels of remoteness though but when a team/department works remote, it needs to be everyone or no one. 
+Having mostly an in-office team and a few floaters remote (or reverse) will automatically create a divide in the team. 
+It may be a mild one, it may be a big one, but that's going to be a stressor you'll have to handle and if you can't, it may break your dynamic as a whole.
+
+Working with Distant Remote teams or members creates a unique dynamic that gives a unique sense of velocity (the work never stops).
+It also gives easily and positively cover for support/maintenance in odd-hours without risking burning up your staff.
+Timezone difference is another superpower that's way too often seen as a liability, but you do want to keep the distant aspect within a set boundaries of timezone control. 
+It's harder but very manageable to handle two major timezones, but if you do all three (Americas, Europe, Asia) you will have a hard time making it work on a regular basis. Mainly find an alignment time that works for all.
+
+With your division/departments breakdown sorted; your remote and non-remote workforce structured, it's now about assuring you have the right people.
+
+The requirements aren't as high as many think, but you do have some requirements that are different from a traditional in-office setup:
+
+- First, you need people who want to work remote. This isn't for everyone and some people prefer in-office. Just match expectations and desires.
+- Second, you need people with the right setup at home. People need a basic office setup with a semblance of privacy and protection against interruptions. This is as simple as a bedroom and definitely rules out some nomad setup with spotty network connections.
+- Last, you need people who need very little micromanagement/constant pressure to deliver. This is probably contentious because most people say that they don't need micromanagement, don't need to be pushed to deliver and are independent, but in practice it's not true and some occasions will call for an honest talk about this reality.
+
+All of these are very simply covered through transparent conversations. Again, this isn't about better or worse, it's about match making expectations and desires from both sides.
+
+##### 2. Master the remote office.
+
+With a right structure in place and the right people ready to work, you need now to operate accordingly.
+
+First, take a minute to understand and appreciate what a physical office brings passively (I wouldn't dare say 'for free'). In a nutshell, it's communication and organization.
+
+As you walk through the space, you bump into people. It creates opportunities for conversations. The space will also have whiteboard, peg board and other visually accessible information.
+
+Next, as you find people around you'll have the ease of creating impromptu meetings to discuss the issue of the day and come to find a resolution. These meetings won't be run with everybody's attention split into something else because this would be rude (and this is important).
+
+Last, our dear human ears are capable of dissociating multiple voice in a room (to a certain point) because of their space audio capabilities. This - and until spacial audio comes to video conferencing - is quite an enabler of fluid conversation that don't require a hands up to function.
+
+The office setting is doing a lot of the leg work for you, and when working remote you need to bring an active effort behind these things until they become passive effort through reflexes.
+
+The passive communication and organization the office brings also a lot of distractions, interruptions, casual rescheduling and fights for meeting space that's never enough - just to name a few.
+These are important to rightfully appreciate as we're trying to bring what works into the new realm of possibility remote offers.
+
+##### How do we create a virtual office?
+
+###### Step 1: Slack (or your chat-room based talking tool) _is_ your virtual office. 
+Its bookmarks and pinned messages are the wall content, its channels are the offices (open or not) and you should structure it as such instead of being topic based. 
+**Topic based structuring comes from approaching slack as email 2.0 instead of office 2.0 and that's a mistake that will make you hate it as it grows to infinite room numbers where everyone is anyway.**
+
+This doesn't mean you can't have notifications or topic channels. This means that you should not make it the main structure. The beauty of online is that it has no space constraints. You can have both your cake and eat it. 
+
+So, treat your channels as meeting rooms or team rooms. 
+Promote large public area (that's your open space) for high level, daily conversation - not just announcements -; promote mid-size channels at seniority levels and aggressively tackled private and small groups conversations.
+Advocate for out-loud-thinking but rewarding it rather than sanctioning it. 
+
+The number one enemy of remote is the isolated communication that doesn't permeate outside the given group, and this structure is the first element to succeed.
+
+With a good structure in place, the next thing is to establish good practice on how to write messages.
+
+First, you will want to make sure that everyone is trained on how the app works. Anyone that has more than 5-7 years of experience is likely to have never used Slack or any other IRC-style chat tools. 
+They are also very likely embarrassed and will pretend they know how to because of the never ending ambient ageism in tech.
+The best thing you can do is present a friendly environment for people to expose they lack of knowledge and train back. This is a general principle that helps everything.
+
+Once you have a high level of confidence, create a **small and lightweight** guideline on how to communicate on Slack. This is to address the never ending "should this meeting be an email" type of problems:
+
+- Make sure all profiles are filled and up to date:
+    - Full name
+    - Current geographical location
+    - Current timezone code (optional: HQ timezone +/- hours)
+    - Phone number if relevant.
+- Make short Slack messages and to the point,
+- Use bullet points and short sentences,
+- Use copiously pictures and videos; Use apps whose links create good previews in-message
+    - You wand to make sure 90% of the information is directly consumed from the Slack message content  
+- Don't ask to ask, don't talk to talk, 
+- Use threads as a way of creating a contained topic
+    - Any thread that's sprawls should be a huddle (quick voice call),
+    - Whenever you have a meeting/huddle/quick off-Slack conversation, write a TLDR summary (I don't want to say minutes because that would imply a verbosity that's counter-productive)
+- Make the channel alive: Update bookmarks regularly, use the topic frequently
+- Be aggressive when it comes to creating and trashing channels. This flexibility is one of the superpower of remote. You don't have to fight for a meeting room, you don't have to keep empty spaces you don't need.
+- Integrate your availability apps (calendar, meeting, etc). Live status update is a great way to know when to bother or not people.
+- Tolerate delay in responses. Slack is in between email and text messages when it comes to expectation of responsiveness.
+- Leverage the more advanced features:
+    - Remember you later about messages
+    - Statistics to see how Slack is used (canary in the coal mine)
+    - Activities to track side conversations
+
+###### Step 2: The right tools, their appropriate use and the correct rhythm.
+First, my (current) favorite toolbox:
+
+| Roles                    | Tool                       | Reason                                                                                                                                                                                                                   |
+|--------------------------|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Emails                   | GSuite                     | Cheap, simple and efficient. There is value in keeping things simple                                                                                                                                                     |
+| Calendars                | GSuite                     | Same as above                                                                                                                                                                                                            |
+| Video Conferencing       | Google Meet                | It used to be bad, but it got good. IMO the GSuite is at the sweet spot of simple and reliable at this point.                                                                                                            |
+| Day to day Chat          | Slack                      | Slack had ups and downs. It lost some of it reliability, but they added some interesting features that increased the productivity. The app ecosystem and dev program maintains it at the top.                            |
+| People Management        | Lattice, Gusto, Remote.com | Different purposes but I don't want to dive too deep here (just cover enough for founders). Gusto is great but US only. Remote.com is the solution for remote hires globally. Lattice is a perfect perf/culture manager. |
+| Project Management (Eng) | Jira                       | I've tried so many and I keep coming back to JIRA. It's powerful, incredibly efficient but 100% dependent on how you use it.                                                                                             |
+| Knowledge Base (Wiki)    | Confluence                 | It's not really great, but its integration with JIRA makes it the best. Most other tools tend to be overly fancy for very little value add.                                                                              |
+| Source Control           | GitHub                     | I really don't like to fuss around too much on these. Github is tried and true.                                                                                                                                          |
+| Customer Support         | Zendesk                    | Best UX, incredible integrations, the right features in the right places.                                                                                                                                                |
+| Product Management       | Product Board              | Best product management tool out there but with a steep price curve when you scale up. Very clean UI and consistent feel.                                                                                                |
+| QA/Testing - Manual      | Testrails                  | This is an expensive tool that I just can't find a replacement for. It's great, works great but pricey.                                                                                                                  |
+| CI                       | Jenkins                    | I've come to appreciate that the flexibility it give and the saving in conf files outside repos is the best workflow.                                                                                                    |
+| Whiteboarding            | FigJam                     | I like to say I love it for the 'high five' feature, but it's mostly because they got the details right. Super responsive, font with fixed size regardless of zoom, all these things make the content very consumable.   |
+| Product Design           | Figma                      | Figma has completely flipped the world upside down. The tools are excellent, the experience is excellent. It retired all the other ones I used before.                                                                   |
+| Cloud                    | AWS                        | None of the cloud providers offer something that's pleasant to use. It's all poor product structure, so you stick with what has the biggest talent base.                                                                 |
+| IT Asset Tracking        | SnipeIT                    | Great, simple, OSS. You'll love to know what gear is where for all sorts of reasons.                                                                                                                                     |
+| Monitoring               | Grafana                    | Sentry and Datadog are good as well, but Grafana is hyper powerful and OSS.                                                                                                                                              |
+| MDM                      | Pending                    | Most MDM are garbage. I'm actively looking at this and will update here when I have something.                                                                                                                           |
+| In-Office Network        | Ubiquiti                   | The gear is incredibly reliable, the tools to setup extremely comfortable and the remote control is impeccable.                                                                                                          | 
+
+Pick and choose as you wish, but ask yourself what is the tool doing for your productivity vs what it may make you feel.
+Make sure that you don't allow sprawl of countless apps with overlaps. Tools are only as useful as how often they are used. The confusion of which is the right tool will have a more significant impact in a remote setting.
+
+Once you have it, it's time to use them properly. I won't cover each of them because that would make this a dedicated book, but instead leave you with some principles to follow:
+
+1/ Don't use all the features if you don't need them.
+
+You most likely don't need them as the need for them evolves as your team grows, but actively fight the feeling that you aren't getting full value if you don't use it all.
+
+2/ For video conferencing specifically:
+- Don't be distracted while in a call
+- Don't obsess about showing your face or seeing people's faces; if you feel you need to see them as a 2.0 version of seat in chair, your insecurity is in the way of a remote success.
+- Do turn on your camera when it's your turn to speak (unless impossible)
+- Provide your team with a minimum streaming setup: a good light and a good headset. (I use the Elgato Key Lights and the Focus headset from Plantronics because of the mute button on the stem and voice isolation)
+- Be quick to jump into collaborative work. Through screen sharing if the app doesn't have a dedicated collab feature.
+- I also like people to have iPads + pens to do live whiteboard sessions. Cheapest models work great.
+
+3/ Get control over logistics
+
+You need a logistics partner to ship and receive; a dedicated person with the right tools (label maker, proximity to dispatch, etc); and basic supplies.
+You're going to ship/receive more, you need to be ready for it.
+
+Some companies offer this as a service, and it could work well.
+
+Keep track of who has what, and define 'kits' per functions in the company, so you always have a +1 of each handy (if possible)
+
+If you work with more complex gear and international shipping, get ahead of these by looking into customs requirements and other restrictions. 
+
+###### Step 3: Preserve the human element
+
+Now that your operations are defined and setup, it's time to be productive. Usual check and balances, usual review and repeat will strengthen this part, but something will inevitably creep out.
+
+As you work away from people, the benefits of remote can be a tree that hides the forrest of the socialization need we all have. This will start to impact productivity, mood, tolerance with each other, etc.
+
+The remedy is incredibly easy: **meet face to face on a regular basis to focus on human connection and alignment**.
+
+This is important to cover because, at times, people think that remote companies don't ever need to meet face to face.
+
+Set up a schedule that is appropriate to the team, level, etc. The beauty of remote is that the details of these meet ups are all open.
+The group, the location, the duration and the frequency can all be tailored to the goal at hand, and the need to define these, brings a passive focus on defining a goal.
+
+##### 3. Enjoy the benefits
+You're now all set, just need to steer the ship and enjoy the benefits:
+
+- Wider talent pool
+- Lower cost of operation
+- Better work/life balance and flexibility
+- Unique competitive angle.
+
+Enjoy and be excellent.
 
 @#$theproduct$#@
 ## The Product
