@@ -29,7 +29,8 @@
 ### [Recruitment & Team Structure](#recruitment_team_structure)
 ### [Roles, Titles and Individuals](#roles_titles_individuals)
 ### [The Loneliness of the Winner](#loneliness_winner)
-### [Distributed and Remote Playbook](#distributed_and_remote_playbook)
+### [The Remote Playbook](#remote_playbook)
+### [Making Hybrid Work](#making_hybrid_work)
 
 ## [The Product](#theproduct)
 ### [R&D](#randd)
@@ -1614,112 +1615,8 @@ Every case is different, so it's hard to give more precise advice without a more
 Companies can experience loneliness on the top of the pyramid.
 
 
-@#$distributed_and_remote_playbook$#@
-### Distributed and Remote Playbook
-
-There is a ton of debate about in-office, hybrid and remote work and one conversation that stuck with me was when I was told that in this debate, no one is actually providing a playbook for remote work to succeed.
-
-So here is mine to handle distributed office and remote workforce. Keep in mind that this is very dynamic and changes as needed.
-
-Before we dive into this, don't lose sight of the fact that whichever model you use, it won't guarantee any results. It's the management and leadership behind said models that make or break them.
-
-First a bit of definitions:
-
-##### - In Office
-
-Everybody comes to a dedicated location and does all or most of the work from there. Traditional model, works really well for productivity and is sometimes the only option. 
-It is now contentious because most of the world has been so poorly managed in the past few decades that this implies either gruesome commutes or really high cost of living.
-
-##### - Distributed Office
-
-Same as above but the teams are split across multiple locations. 
-I am a big proponent of this model as it allows to tap into regional talent pool vs forcing to bring everyone under one roof. 
-
-It's mildly more difficult to execute, a lot more accessible to smaller companies than you probably assume and pays greatly.
-For the sake of the In office vs remote debate, this one sits in the 'in office' camp. Overall same drawbacks but usually can be eased for at least some.
-
-##### - Partially Remote
-
-Fixed days in office and fixed days remote for everyone. This means everybody is in office and everybody is remote at the same time. It can be one day a month at the office or three days a week.
-The frequency is irrelevant to this definition, but it has a big impact on the talent access. 
-This model is most of the time put into hybrid, but it's actually quite different and unlike hybrid, it works quite well. 
-
-##### - Hybrid
-
-Part-time in the office and part-time remote on - mostly - the employees terms (they choose which days, rarely how many days). 
-This makes it the worst of all models because employees end up forced to stay in expensive living areas, commute in miserable conditions, fight to find a meeting room - most likely one of these design-sweat-box-phone-booth-thingy - or worse use an open space area that promotes holding your opinion to yourself - to mostly take online calls you could have had better from home.
-It's a land of compromise that's becoming more and more popular as so few companies actually look into what works and what doesn't and try to rush out the fix.
-Most places are using it as a trojan horse to bring people back to the office and every couple of month, we get an article about the state of the 'negotiation'.
-
-##### - Remote
-
-People work from anywhere all the time. Occasional face to face meeting in given locations that aren't challenging the nature of the dynamic.
-This model is the most flexible for employees but comes with its requirements to actually work. If you master these, it's basically a superpower for your team.
-
-Now that this is set, let's move to actual playbooks. I want to focus on Remote (and partially so) and Distributed Office because these two are the one that came up the most on to how to execute on these properly.
-
-#### Partially Remote
-For this model, I tend to prefer 2 days (or less) per week in office, these days being Tuesday and Thursdays. (I read once someone referring to the hybrid schedule in the UK as 'the TWaT schedule': Tuesday, Wednesday and Thursday).
-
-- Monday is usually packed with meetings to set the week in motion (alignment meetings) - Take these home.
-- Tuesday is where the first cross-collaboration happens and these are the meeting moments that require the most diligence when run remote (because of the issues video calls bring inherently by not having yet spacial audio).
-- Wednesdays you're acting on Tuesday's thinking.
-- Thursday is cross func review of Wednesdays.
-- Friday is post-mortem, wind down and most people are half switched on anyway.
-
-This is obviously a hyper simplification, but the key takeaways are:
-
-- 2 or fewer days a week otherwise it's Partially in Office.
-- Create 'Meeting Days'
-- Stagger them so action can follow
-- Reserve office time for cross collaboration
-
-#### Distributed Office
-
-I've been preaching for this model for years now (pre-pandemic). It has worked really well for some of the places I advised. 
-
-It's an incredibly viable model, but it's mostly accessible to those with an extended network as you will need trusted people to run operations in the other strategic locations.
-
-In essence, instead of forcing into a single location all talent, you split into multiple offices in multiple locations where you can leverage the geographical advantages of each location.
-This is particularly relevant in a time when some locations are incredibly expensive to operate in or if a specific type of talent you need is hard to come by where you are.
-
-To open other offices, you need to sort out operations and have a champion on site to represent the local team. 
-These days, this is increasingly easier with all the tools that exists to take over even international operations.
-
-The champion question remains. The role you are looking to fill is one of these exceptional one I mentioned in the roles, titles and individuals chapter.
-
-As you lay you plan, defined the role of said champion, the feasibility of the whole idea is tied to your ability to find said person - at least at first. 
-Many companies that go through this tend to also go through several individuals until they find the one that will assume the role correctly. 
-So knowing someone ahead of time (the extended network), dramatically increases the chances of success.
-
-Another way is to enable the relocation of someone in the current team.
-
-Once you have the champion, the operations challenges come in.
-
-First, you need proper communication infrastructure. It's a topic on its own, but simply put, communication is a bandwidth issue. 
-You need to use what you have available for what can't be expressed otherwise.
-This means, first you need great tooling that is accessible equally across all offices. That's the software, but also the network infrastructure. 
-You'll likely want to set up a proper VPN infra so that the hard infra of one office is seamlessly accessible in other offices.
-
-You'll want the software you use to be able to handle asynchronous information and establish good habits on how to use it effectively:
-- An issue tracker with good content, linked to other services so that most questions are answered in the course of a regular day
-- A good chat system (IRC clones like Slack/Discord) so people can have spontaneous conversation
-- An established and default conferencing system with good cameras, light and microphones (don't assume people will sort this out themselves or using amazon.com)
-- A way to do online white boarding in a collaborating manner (I like Figma's figjams, but Miro and hangout + iPads works great too).
-
-Second, establish a clear purpose for each office, reinforce it while reminding people you are all in one big team. Squash the sentiment of satellites offices (which persists from dated models).
-Bring people together once in a while in groups that makes sense. Send people to each office as a way to reinforce the importance of all offices. 
-Remind people that each office means different relationships (perks and constraints) with the company (especially if across country borders).
-
-Last, solve logistics if it applies to your company. This is an ongoing cost that can explode and reduce the benefit of the model, so you'll want to handle this correctly. 
-Identify a logistic partner, negotiate prices with volumes, get ahead of customs checks and requirements, train and establish office managers in each site.
-This also likely means clean budgets per office for operations and budgets per department across offices. Clear responsibilities and gateways to execute/approve logistical situations.
-
-In such context, you reap the benefit of the whole paradigm.
-
-Usually this means, better talent, happier staff, higher productivity all at a much lower operating cost.
-
-#### The Remote Playbook
+@#$remote_playbook$#@
+### The Remote Playbook
 
 Working remote is incredibly powerful and a superpower most smaller companies should actively introduce or fully adopt because it's one of the most effective competitive angle they can leverage against their bigger competition.
 If you're reading this, it's probably because you already understand some of that but to formalize what remote can do for you:
@@ -1730,10 +1627,11 @@ If you're reading this, it's probably because you already understand some of tha
 
 That being said, it won't work for everyone or under any and all circumstances.
 
-Most companies or people who advocate against remote do it because they didn't figure it out (or have a vested interested in its failure). You'd hear/read things like "I don't have the data, but I know in office is better".
-It's hard to blame them because very few guidelines or playbook are actually published out there, so here is mine (so far).
+Most companies or people who advocate against remote do it because they didn't figure it out (or have a vested interested in its failure). 
+You would hear/read things like "I don't have the data, but I know in office is better".
+It's hard to blame them because very few guidelines or playbooks are actually published out there, so here is mine (so far).
 
-##### 1. The right people in the right structure. 
+#### The Right People in the Right Structure. 
 
 You first need to understand the work you do, what it requires to be done in terms of facilities, equipment and attendance, and evaluate the state of maturity/independence of your staff/processes (your operation).
 
@@ -1785,7 +1683,7 @@ The requirements aren't as high as many think, but you do have some requirements
 
 All of these are very simply covered through transparent conversations. Again, this isn't about better or worse, it's about match making expectations and desires from both sides.
 
-##### 2. Master the remote office.
+#### Master the Virtual Office.
 
 With a right structure in place and the right people ready to work, you need now to operate accordingly.
 
@@ -1802,7 +1700,7 @@ The office setting is doing a lot of the leg work for you, and when working remo
 The passive communication and organization the office brings also a lot of distractions, interruptions, casual rescheduling and fights for meeting space that's never enough - just to name a few.
 These are important to rightfully appreciate as we're trying to bring what works into the new realm of possibility remote offers.
 
-##### How do we create a virtual office?
+##### How to Create a Virtual Office
 
 ###### Step 1: Slack (or your chat-room based talking tool) _is_ your virtual office. 
 Its bookmarks and pinned messages are the wall content, its channels are the offices (open or not) and you should structure it as such instead of being topic based. 
@@ -1912,15 +1810,60 @@ This is important to cover because, at times, people think that remote companies
 Set up a schedule that is appropriate to the team, level, etc. The beauty of remote is that the details of these meet ups are all open.
 The group, the location, the duration and the frequency can all be tailored to the goal at hand, and the need to define these, brings a passive focus on defining a goal.
 
-##### 3. Enjoy the benefits
-You're now all set, just need to steer the ship and enjoy the benefits:
+#### Establish the Right Culture/Mindset
+
+A remote culture isn't that different from the one you would have in-office. That is, if you understand and accept that Taco Tuesdays aren't company culture.
+
+Many of the steps I've given above are already hinting at the culture you should pursue. 
+One that is compounding on the means a remote environment is giving you to achieve initiative, speed, efficiency and excellence through empowerment, asynchronicity and autonomy.
+
+A remote environment won't work if you don't foster a culture of trust first, understanding, compassion but also high expectations for each other, strong discipline and high level of communication in its frequency, quality and quantity.
+
+You have to reward and reinforce those who are proactive and dynamic while sanctioning those who wait to be carried by the group.
+
+Remote is a wonderful perk to have, but it has to matched with equal commitment and reciprocity.
+
+This balance of values will create a culture where people will be able to support each other in the full flexibility remote offers while continuously deliver in the highest expectations and difficulties.
+
+Many of the real obstacles you will face will come from previously established behavioral expectations from the in-office culture. It's up to you to actively counter these as they will actively hold you back.
+
+If you want to have trivia, donuts or any other fun activities, all the better. I don't really count these as culture.
+
+#### Enjoy the benefits
+You're now all set. You just need to steer the ship, rinse, repeat and enjoy the benefits:
 
 - Wider talent pool
 - Lower cost of operation
 - Better work/life balance and flexibility
 - Unique competitive angle.
 
-Enjoy and be excellent.
+
+@#$making_hybrid_work$#@
+## Making Hybrid Work
+
+If you're not familiar with Hybrid work, it's a part-time in the office and part-time remote work model on - mostly - the employees terms (they choose which days, rarely how many days). 
+This can easily become the worst of all models because employees end up forced to stay in expensive living areas, commute in miserable conditions, fight to find a meeting room - most likely one of these design-sweat-box-phone-booth-thingy - or worse use an open space area that promotes holding your opinion to yourself - to mostly take online calls you could have had better from home.
+
+It's a land of compromise that's becoming more and more popular as so few companies actually look into what works and what doesn't and try to rush out the fix.
+Many places are using it as a trojan horse to bring people back to the office and every couple of month, we get an article about the state of the 'negotiation'.
+
+Making this model work is actually quite simple: 
+1/ Don't give the choice to the employees on which days they can take
+2/ stick to **2 days (or less)** per week in office and
+3/ make these days being **Tuesday** and **Thursdays**.
+
+- Monday is usually packed with meetings to set the week in motion (alignment meetings) - Take these home.
+- Tuesday is where the first cross-collaboration happens and these are the meeting moments that are the most challenging to run remote.
+- Wednesdays you're acting on Tuesday's thinking.
+- Thursday is cross func review of Wednesdays.
+- Friday is post-mortem, wind down and most people are half switched on anyway.
+
+This is obviously a hyper simplification, but the key takeaways are:
+
+- 2 or fewer days a week,
+- Create 'Meeting Days',
+- Stagger them so action can follow,
+- Reserve office time for cross collaboration.
 
 @#$theproduct$#@
 ## The Product
