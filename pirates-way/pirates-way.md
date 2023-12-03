@@ -1774,11 +1774,12 @@ Make sure that you don't allow sprawl of countless apps with overlaps. Tools are
 
 Once you have it, it's time to use them properly. I won't cover each of them because that would make this a dedicated book, but instead leave you with some principles to follow:
 
-1/ Don't use all the features if you don't need them.
+**1/ Don't use all the features if you don't need them.**
 
 You most likely don't need them as the need for them evolves as your team grows, but actively fight the feeling that you aren't getting full value if you don't use it all.
 
-2/ For video conferencing specifically:
+**2/ For video conferencing specifically:**
+
 - Don't be distracted while in a call
 - Don't obsess about showing your face or seeing people's faces; if you feel you need to see them as a 2.0 version of seat in chair, your insecurity is in the way of a remote success.
 - Do turn on your camera when it's your turn to speak (unless impossible)
@@ -1786,7 +1787,7 @@ You most likely don't need them as the need for them evolves as your team grows,
 - Be quick to jump into collaborative work. Through screen sharing if the app doesn't have a dedicated collab feature.
 - I also like people to have iPads + pens to do live whiteboard sessions. Cheapest models work great.
 
-3/ Get control over logistics
+**3/ Get control over logistics**
 
 You need a logistics partner to ship and receive; a dedicated person with the right tools (label maker, proximity to dispatch, etc); and basic supplies.
 You're going to ship/receive more, you need to be ready for it.
