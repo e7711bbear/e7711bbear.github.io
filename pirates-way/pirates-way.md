@@ -1866,9 +1866,12 @@ It's been laid as a compromise between remote and office, but this can easily be
 The reality that isn't eluding any employees is that this land of compromises is becoming more and more popular for companies because they could not figure out how to make remote work (or likely didn't really look into it) and try to rush out the fix to a dwindling productivity (or sentiment of it).
 It's also understood that many places are simply using it as a trojan horse to bring people back to the office full time as all get to witness - at times - the weak arguments that are presented to defend the return to office.
 
-There are lots of good reasons to return to the office and making this model work is actually quite simple - beyond transparency: 
+There are lots of good reasons to return to the office and making this model work is actually quite simple - beyond transparency:
+
 1/ Don't give the choice to the employees on which days they can take,
+
 2/ Stick to **2 days (or less)** per week in office and
+
 3/ Make these days being **Tuesday** and **Thursdays**.
 
 Here is why:
