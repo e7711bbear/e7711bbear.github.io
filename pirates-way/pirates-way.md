@@ -1631,6 +1631,8 @@ Most companies or people who advocate against remote do it because they didn't f
 You would hear/read things like "I don't have the data, but I know in office is better".
 It's hard to blame them because very few guidelines or playbooks are actually published out there, so here is mine (so far).
 
+[pagebreak]
+
 #### The Right People in the Right Structure. 
 
 You first need to understand the work you do, what it requires to be done in terms of facilities, equipment and attendance, and evaluate the state of maturity/independence of your staff/processes (your operation).
@@ -1683,6 +1685,8 @@ The requirements aren't as high as many think, but you do have some requirements
 
 All of these are very simply covered through transparent conversations. Again, this isn't about better or worse, it's about match making expectations and desires from both sides.
 
+[pagebreak]
+
 #### Master the Virtual Office.
 
 With a right structure in place and the right people ready to work, you need now to operate accordingly.
@@ -1699,6 +1703,8 @@ The office setting is doing a lot of the leg work for you, and when working remo
 
 The passive communication and organization the office brings also a lot of distractions, interruptions, casual rescheduling and fights for meeting space that's never enough - just to name a few.
 These are important to rightfully appreciate as we're trying to bring what works into the new realm of possibility remote offers.
+
+[pagebreak]
 
 ##### How to Create a Virtual Office
 
@@ -1719,6 +1725,8 @@ With a good structure in place, the next thing is to establish good practice on 
 First, you will want to make sure that everyone is trained on how the app works. Anyone that has more than 5-7 years of experience is likely to have never used Slack or any other IRC-style chat tools. 
 They are also very likely embarrassed and will pretend they know how to because of the never ending ambient ageism in tech.
 The best thing you can do is present a friendly environment for people to expose they lack of knowledge and train back. This is a general principle that helps everything.
+
+[pagebreak]
 
 Once you have a high level of confidence, create a **small and lightweight** guideline on how to communicate on Slack. This is to address the never ending "should this meeting be an email" type of problems:
 
@@ -1743,6 +1751,8 @@ Once you have a high level of confidence, create a **small and lightweight** gui
     - Remember you later about messages
     - Statistics to see how Slack is used (canary in the coal mine)
     - Activities to track side conversations
+
+[pagebreak]
 
 ###### Step 2: The right tools, their appropriate use and the correct rhythm.
 First, my (current) favorite toolbox:
@@ -1772,6 +1782,8 @@ First, my (current) favorite toolbox:
 Pick and choose as you wish, but ask yourself what is the tool doing for your productivity vs what it may make you feel.
 Make sure that you don't allow sprawl of countless apps with overlaps. Tools are only as useful as how often they are used. The confusion of which is the right tool will have a more significant impact in a remote setting.
 
+[pagebreak]
+
 Once you have it, it's time to use them properly. I won't cover each of them because that would make this a dedicated book, but instead leave you with some principles to follow:
 
 **1/ Don't use all the features if you don't need them.**
@@ -1798,6 +1810,8 @@ Keep track of who has what, and define 'kits' per functions in the company, so y
 
 If you work with more complex gear and international shipping, get ahead of these by looking into customs requirements and other restrictions. 
 
+[pagebreak]
+
 ###### Step 3: Preserve the human element
 
 Now that your operations are defined and setup, it's time to be productive. Usual check and balances, usual review and repeat will strengthen this part, but something will inevitably creep out.
@@ -1810,6 +1824,8 @@ This is important to cover because, at times, people think that remote companies
 
 Set up a schedule that is appropriate to the team, level, etc. The beauty of remote is that the details of these meet ups are all open.
 The group, the location, the duration and the frequency can all be tailored to the goal at hand, and the need to define these, brings a passive focus on defining a goal.
+
+[pagebreak]
 
 #### Establish the Right Culture/Mindset
 
@@ -1829,6 +1845,8 @@ This balance of values will create a culture where people will be able to suppor
 Many of the real obstacles you will face will come from previously established behavioral expectations from the in-office culture. It's up to you to actively counter these as they will actively hold you back.
 
 If you want to have trivia, donuts or any other fun activities, all the better. I don't really count these as culture.
+
+[pagebreak]
 
 #### Enjoy the benefits
 You're now all set. You just need to steer the ship, rinse, repeat and enjoy the benefits:
