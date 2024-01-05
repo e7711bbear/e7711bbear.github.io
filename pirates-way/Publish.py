@@ -5,9 +5,30 @@
 import markdown
 import os
 import re
+import sys
+import getopt
 
 # Params
 template_file_name = "template.html"
+allow_book_content = False
+book_format = False
+
+## Parsing the command line params
+opts, args = getopt.getopt(sys.argv[1:],"h",["allow_book_content","book_format"])
+for opt, arg in opts:
+  if opt == '-h':
+     print ('publish.py --allow_book_content --book_format')
+     sys.exit()
+  elif opt in "--allow_book_content":
+     allow_book_content = True
+  elif opt in "--book_format":
+     book_format = True
+
+print("Starting Publishing job with params:")
+print("Template File: %s" % template_file_name)
+print("Book Content: %s" % allow_book_content)
+print("Book Format: %s" % book_format)
+print("---")
 
 # Clean up old HTML files except template
 dir_name = "./"
@@ -33,7 +54,10 @@ for key in matches:
         keys.append(key)
     else:
         key = key.replace('|book_only|', '')
-        book_keys.append(key)
+        if allow_book_content is False: # if book content is not allowed, we quarantine it
+            book_keys.append(key)
+        else:
+            keys.append(key)
 
 print('Keys Count: %s' % len(keys))
 print('Book Exclusive Keys Count: %s' % len(book_keys))
@@ -70,8 +94,7 @@ for match in matches:
 
 # Building the pages
 pages = text.split('@#$')
-
-print('Pages to be created: %s' % len(pages))
+page_count = 0
 
 # Open the template file
 template_html = ''
@@ -132,6 +155,7 @@ for index, page in enumerate(pages):
     page_html = page_html.replace('[pagebreak]', '<div id=\'pagebreak\'></div>')
 
     ## -- Emoji replace
+    page_html = page_html.replace('📖', '&#x1F4D6;')
     page_html = page_html.replace('🛋', '&#x1F6CB;')
     page_html = page_html.replace('✅', '&#9989;')
     page_html = page_html.replace('⭐', '&#11088;')
@@ -159,5 +183,8 @@ for index, page in enumerate(pages):
     with open(filename, 'w') as f:
         print("Writing %s" % filename)
         f.write(final_page_html)
+        page_count += 1
+
+print('Pages created: %s' % page_count)
 
 
