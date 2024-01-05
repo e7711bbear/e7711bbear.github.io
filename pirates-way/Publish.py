@@ -113,6 +113,12 @@ for index, page in enumerate(pages):
     # Additional replace
     page_html = page_html.replace('[pagebreak]', '<div id=\'pagebreak\'></div>')
 
+    ## -- Emoji replace
+    page_html = page_html.replace('🛋', '&#x1F6CB;')
+    page_html = page_html.replace('✅', '&#9989;')
+    page_html = page_html.replace('⭐', '&#11088;')
+    page_html = page_html.replace('⬜', '&#9634;')
+
 
     # Insert content in template
     final_page_html = page_template_html.replace('[[INSERT_PLUG]]', page_html)

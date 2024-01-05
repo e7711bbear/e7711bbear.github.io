@@ -31,6 +31,8 @@
 ### [The Loneliness of the Winner](#loneliness_winner)
 ### [The Remote Playbook](#remote_playbook)
 ### [Making Hybrid Work](#making_hybrid_work)
+### [Feature/Application Matrix](#feature_application_matrix)
+
 
 ## [The Product](#theproduct)
 ### [R&D](#randd)
@@ -1894,6 +1896,178 @@ Instead, employers compromise on more remote days than office days while employe
 
 Flexibility is achieved, performance is achieved and the strain of the office is made to count as it yields the effects everybody wants.
 
+
+@#$feature_application_matrix$#@
+## Feature/Application Matrix
+ 
+Many teams freeze when trying to crack their 'product market fit'. I think it's because they are internally bargaining with a simple - yet difficult reality.
+
+You need to understand your market's problems before you develop products that provide solutions.
+
+It's the boring, yet necessary part of the work that has to be done. It's not difficult and here are your options:
+
+1/ Conduct interviews with the end-users.
+
+2/ Hire market experts to tell you how things are done
+
+3/ Observe the competition and characterize their solution to reverse engineer the problem they are trying to solve.
+
+Ideally, you do all of the above.
+
+Normally, out of this market research, your product team will extract countless user stories. 
+They will likely feel good about it because it's the kind of output that you're being told you need.
+
+The problem you still face is converting these user stories into features. Ideally, you'll want these features to be as lightweight and as impactful as possible.
+Many features that read foreign to a user story can actually be capable of addressing many of them at once. 
+
+Being able to do this work lies in the hand of the product manager and **this is why, the imaginative and technical skills of the product team quickly become the biggest defining forces of your success.**
+
+These skills are usually developed through experience, drive and often a technical background.
+
+To help developing these skills and structure the user stories to features conversion, I use a simple tool I call the **feature/application matrix**.
+
+The point is to help with the bridging effort between what the product feature could be and their enabling impact on project end-user usage.
+
+You list the features of your product in categories, and then characterize the level of importance for a given end-user application.
+
+The ranking can be in as many levels as needed, 1-10, [A, B, C] or any other system. The important part, is to have a **multi level ranking**.
+
+Once the matrix is filled, you can use it again to define the readiness of your product with a level of detail that can drastically help educating next steps.
+
+Which market is the closest to our current product state? Which effort do we need to focus on to unlock the next opportunity? Which features are pointless and wasting our resources?
+
+All these and more can find their answers with the matrix.
+
+
+Here is an example with Enterprise Drones for which we will use this ranking scale:
+
+🛋 - Optional; Has a positive impact, but not having it has no negative impact.
+
+✅ - Required; Has a positive impact and not having it has a negative impact.
+
+⭐ - Better; Has a significant positive impact - usually for features that extend other features.
+
+Blank - Irrelevant; No positive or negative impacts.
+
+
+|            Category | Features                                  | Search and Rescue | Industrial Inspection | Perimeter Security | Delivery | Mapping/Construction |
+|--------------------:|-------------------------------------------|:-----------------:|:---------------------:|:------------------:|:--------:|:--------------------:|
+|             Vehicle | RTK                                       |                   |           ✅           |                    |          |          ✅           |
+|             Vehicle | Dual GPS Antenna                          |                   |           ✅           |                    |          |          🛋          |
+|             Vehicle | Smart Batteries                           |         ✅         |           ✅           |         ✅          |    ✅     |          ✅           |
+|             Vehicle | Hot swap                                  |         ✅         |          🛋           |         🛋         |    ✅     |          🛋          |
+|             Vehicle | Precision Landing                         |         ✅         |           ✅           |         ✅          |    ✅     |          ✅           |
+|             Vehicle | Optical Flow at 10m and below             |                   |                       |                    |    ✅     |          ✅           |
+|             Vehicle | Flight Time > 30 min                      |         ✅         |           ✅           |         ✅          |    ✅     |          ✅           |
+|             Vehicle | Payload Capacity > 1KG                    |                   |                       |                    |    ✅     |          ✅           |
+|             Vehicle | Obstacle Avoidance Forward                |         ✅         |           ✅           |         ✅          |    ✅     |          ✅           |
+|             Vehicle | Obstacle Avoidance 360                    |        🛋         |           ⭐           |         ⭐          |    ✅     |          ⭐           |
+|             Vehicle | Offline Operation                         |         ✅         |                       |                    |          |                      |
+|             Payload | Sensor Size > 1/1.7"                      |        🛋         |           ✅           |                    |          |          ✅           |
+|             Payload | Modular Lenses                            |                   |           ✅           |                    |          |          ✅           |
+|             Payload | EO Sensor > 20 Mpix                       |        🛋         |           ✅           |                    |          |          ✅           |
+|             Payload | Write time < 1s                           |        🛋         |          🛋           |                    |          |                      |
+|             Payload | Mechanical Shutter                        |                   |           ⭐           |                    |          |                      |
+|             Payload | Fast Rolling Shutter                      |                   |           ✅           |                    |          |          ✅           |
+|             Payload | IR Sensor > 640                           |         ✅         |           ✅           |         ✅          |          |                      |
+|             Payload | IR Sensor Radiometric                     |                   |           ✅           |                    |          |                      |
+|              Gimbal | 2 Axis (Roll, Pitch)                      |         ✅         |           ✅           |         ✅          |          |          ✅           |
+|              Gimbal | 3 Axis (Roll, Pitch, Yaw)                 |        🛋         |           ✅           |         🛋         |          |          ✅           |
+|              Gimbal | 180° Pitch Motion                         |        🛋         |          🛋           |                    |          |                      |
+|   Remote Controller | Hall Effect Sticks                        |         ✅         |           ✅           |         ✅          |    ✅     |          ✅           |
+|   Remote Controller | HDMI Out                                  |         ✅         |           ✅           |         🛋         |          |                      |
+|   Remote Controller | Continuous Operation/Battery Swap         |         ✅         |           ✅           |                    |    ✅     |          ✅           |
+|   Remote Controller | Tripod Mount                              |         ⭐         |           ⭐           |                    |    ✅     |          ✅           |
+|   Remote Controller | Lanyard + Hooking point                   |         ✅         |           ✅           |         ✅          |    ✅     |          ✅           |
+|   Remote Controller | Take Picture Button                       |         ✅         |           ✅           |                    |          |          ✅           |
+|   Remote Controller | Record Button                             |         ✅         |           ✅           |                    |          |                      |
+|   Remote Controller | Flight Mode Switch                        |         ✅         |           ✅           |         ✅          |    ✅     |          ✅           |
+|   Remote Controller | Mission Start/Stop Switch                 |                   |           ⭐           |         ✅          |    ✅     |          ✅           |
+|   Remote Controller | Integrated Screen                         |         ✅         |           ✅           |         ✅          |          |          ✅           |
+|   Remote Controller | MFI                                       |         ✅         |           ✅           |         ✅          |    ✅     |          ✅           |
+|   Remote Controller | AoA                                       |         ✅         |           ✅           |         ✅          |    ✅     |          ✅           |
+|               Radio | Stable C2 & Video up to 3 miles (VLOS)    |         ✅         |           ✅           |         ✅          |    ✅     |          ✅           |
+|               Radio | 720p real time video with < 100ms latency |         ✅         |           ✅           |         ✅          |    ✅     |          ✅           |
+| Developer/Extension | SDK to build ground apps                  |        🛋         |           ✅           |         ✅          |    ✅     |          ✅           |
+| Developer/Extension | SDK to build onboard apps/behaviors       |        🛋         |           ✅           |         ✅          |    ✅     |          ✅           |
+| Developer/Extension | Raw sensor data streams                   |        🛋         |           ✅           |         ✅          |    ✅     |          ✅           |
+|           Logistics | Multi Battery Charging System             |         ✅         |           ✅           |         ✅          |    ✅     |          ✅           |
+|           Logistics | Battery Safe Storage Cabinets             |         ⭐         |           ⭐           |         ⭐          |    ⭐     |          ⭐           |
+|           Logistics | Battery Transport Case                    |         ⭐         |           ⭐           |         ⭐          |    ⭐     |          ⭐           |
+|           Logistics | Vehicle Case                              |         ✅         |           ✅           |         ✅          |    ✅     |          ✅           |
+|           Logistics | Payload Case in Vehicle Case              |         ⭐         |           ⭐           |         ⭐          |    ⭐     |          ⭐           |
+|            Services | Battery Replacement/Recycling             |         ✅         |           ✅           |         ✅          |    ✅     |          ✅           |
+|            Services | Swap and replace SLA                      |         ⭐         |           ⭐           |         ⭐          |    ⭐     |          ⭐           |
+
+
+And now used as a product rating scale for Inspection:
+
+🛋 - Optional - 1 point
+
+✅ - Required - 2 points
+
+⭐ - Better - 3 points
+
+Blank - Irrelevant - 0 points
+
+I'm only picking two off the shelves drones that are notorious for these jobs as an example. Neither the list of features, nor the list of vehicles is comprehensive enough to be more than an example.
+
+|            Category | Features                                  | Industrial Inspections | DJI M350 | FF Astro | 
+|--------------------:|-------------------------------------------|:----------------------:|:--------:|:--------:|
+|             Vehicle | RTK                                       |           ✅            |    2     |    2     |  
+|             Vehicle | Dual GPS Antenna                          |           ✅            |    2     |    2     |  
+|             Vehicle | Smart Batteries                           |           ✅            |    2     |    2     |  
+|             Vehicle | Hot swap                                  |           🛋           |    1     |    1     |   
+|             Vehicle | Precision Landing                         |           ✅            |    2     |    2     |  
+|             Vehicle | Optical Flow at 10m and below             |                        |    0     |    0     |  
+|             Vehicle | Flight Time > 30 min                      |           ✅            |    2     |    2     |  
+|             Vehicle | Payload Capacity > 1KG                    |                        |    0     |    0     |  
+|             Vehicle | Obstacle Avoidance Forward                |           ✅            |    2     |    0     |  
+|             Vehicle | Obstacle Avoidance 360                    |           ⭐            |    3     |    0     |  
+|             Vehicle | Offline Operation                         |                        |    0     |    0     |  
+|             Payload | Sensor Size > 1/1.7"                      |           ✅            |    2     |    2     |  
+|             Payload | Modular Lenses                            |           ✅            |    0     |    2     |  
+|             Payload | EO Sensor > 20 Mpix                       |           ✅            |    2     |    2     |  
+|             Payload | Write time < 1s                           |                        |    0     |    0     |  
+|             Payload | Mechanical Shutter                        |           ⭐            |    0     |    3     |  
+|             Payload | Fast Rolling Shutter                      |           ✅            |    3     |    2     |  
+|             Payload | IR Sensor > 640                           |           ✅            |    2     |    2     |  
+|             Payload | IR Sensor Radiometric                     |           ✅            |    2     |    2     |  
+|              Gimbal | 2 Axis (Roll, Pitch)                      |           ✅            |    2     |    2     |  
+|              Gimbal | 3 Axis (Roll, Pitch, Yaw)                 |           ✅            |    2     |    2     |  
+|              Gimbal | 180° Pitch Motion                         |                        |    0     |    0     |  
+|   Remote Controller | Hall Effect Sticks                        |           ✅            |    2     |    2     |  
+|   Remote Controller | HDMI Out                                  |           ✅            |    2     |    0     |  
+|   Remote Controller | Continuous Operation/Battery Swap         |           ✅            |    2     |    0     |  
+|   Remote Controller | Tripod Mount                              |           ⭐            |    3     |    3     |  
+|   Remote Controller | Lanyard + Hooking point                   |           ✅            |    2     |    2     |  
+|   Remote Controller | Take Picture Button                       |           ✅            |    2     |    2     |  
+|   Remote Controller | Record Button                             |           ✅            |    2     |    2     |  
+|   Remote Controller | Flight Mode Switch                        |           ✅            |    2     |    0     |  
+|   Remote Controller | Mission Start/Stop Switch                 |           ⭐            |    0     |    0     |  
+|   Remote Controller | Integrated Screen                         |           ✅            |    2     |    2     |  
+|   Remote Controller | MFI                                       |           ✅            |    2     |    0     |  
+|   Remote Controller | AoA                                       |           ✅            |    2     |    0     |  
+|               Radio | Stable C2 & Video up to 3 miles (VLOS)    |           ✅            |    2     |    2     |  
+|               Radio | 720p real time video with < 100ms latency |           ✅            |    2     |    0     |  
+| Developer/Extension | SDK to build ground apps                  |           ✅            |    2     |    1     |  
+| Developer/Extension | SDK to build onboard apps/behaviors       |           ✅            |    2     |    1     |  
+| Developer/Extension | Raw sensor data streams                   |           ✅            |    0     |    2     |  
+|           Logistics | Multi Battery Charging System             |           ✅            |    2     |    0     |  
+|           Logistics | Battery Safe Storage Cabinets             |           ⭐            |    0     |    0     |  
+|           Logistics | Battery Transport Case                    |           ⭐            |    3     |    0     |  
+|           Logistics | Vehicle Case                              |           ✅            |    2     |    2     |  
+|           Logistics | Payload Case in Vehicle Case              |           ⭐            |    3     |    3     |  
+|            Services | Battery Replacement/Recycling             |           ✅            |    0     |    0     |  
+|            Services | Swap and replace SLA                      |           ⭐            |    0     |    0     |  
+|                     | **Grand Total**                           |                        |  **62**  |  **42**  |
+
+The more time spent here, the better the data will be - quantitatively and qualitatively - the better the next steps will be for you. 
+
+Similarly, you can use this matrix to measure the negative engineering impact of features that were build and have no impact on the end-user application, but I'll skip this example for now, that's a lot of table for one page.
+
+As any tool I share, they are only as good as the hand that uses it. Hopefully this yields the results to you, it did to me and my teams.
+
 @#$theproduct$#@
 ## The Product
 
@@ -1901,10 +2075,10 @@ We've gone through the 'theory', it's time to dive into the practice.
 
 #### Definition
 
-Often, a question I faced was to define if something was 'productable'. In an established engineering environment, this comes up after a solution was built internally to address a problem that is believed to be shared by other people/companies.
+Often, a question I faced is to define if something was 'product-able'. In an established engineering environment, this comes up after a solution was built internally to address a problem that is believed to be shared by other people/companies.
 In a pre-inception setup, this question starts with a pet project or personal project that could become a solution to a common problem.
 
-The market - as in, placing your project out there for people to buy - is always the final judge of whether said project is a product, but you don't have to just throw spaghetti at the wall.
+The market - as in, placing your project out there for people to buy - is always the final judge of whether said project is a viable product, but you don't have to just throw spaghetti at the wall.
 
 A product - at least in a tech company - is a value generating element (physical object, software or solution) one customer will want to buy for its (relative) low cost, its unique edge and high quality finish. 
 
