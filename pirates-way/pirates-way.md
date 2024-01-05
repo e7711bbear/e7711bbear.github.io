@@ -1897,7 +1897,8 @@ Instead, employers compromise on more remote days than office days while employe
 Flexibility is achieved, performance is achieved and the strain of the office is made to count as it yields the effects everybody wants.
 
 
-@#$feature_application_matrix$#@
+@#$feature_application_matrix|book_only|$#@
+
 ## Feature/Application Matrix
  
 Many teams freeze when trying to crack their 'product market fit'. I think it's because they are internally bargaining with a simple - yet difficult reality.

@@ -25,12 +25,18 @@ with open('pirates-way.md', 'r') as f:
 regex = r'@#\$..*\$#@'
 matches = re.findall(regex, text)
 keys = []
+book_keys = []
 for key in matches:
     key = key.replace('@#$', '')
     key = key.replace('$#@', '')
-    keys.append(key)
+    if "|book_only|" not in key: # Exclude the content that is book only
+        keys.append(key)
+    else:
+        key = key.replace('|book_only|', '')
+        book_keys.append(key)
 
 print('Keys Count: %s' % len(keys))
+print('Book Exclusive Keys Count: %s' % len(book_keys))
 
 # Counting the number of links to each tag. Should be 1 now - Subject to change.
 found_error = False
@@ -51,9 +57,16 @@ if found_error:
 key_reg = r']\(#..*\)'
 matches = re.findall(key_reg, text)
 for match in matches:
-    new_link = match.replace('](#', '](./')
-    new_link = new_link.replace(')', '.html)')
-    text = text.replace(match, new_link)
+    key_in_link = match.replace('](#', '')
+    key_in_link = key_in_link.replace(')', '')
+
+    # If book only, we do no links
+    if key_in_link in book_keys:
+        text = text.replace(match, ']()')
+    else:
+        new_link = match.replace('](#', '](./')
+        new_link = new_link.replace(')', '.html)')
+        text = text.replace(match, new_link)
 
 # Building the pages
 pages = text.split('@#$')
@@ -75,6 +88,11 @@ for index, page in enumerate(pages):
         regex = r'^..*\$#@'
         match = re.findall(regex, page)
         page_key = match[0].replace('$#@', '') # removing the end of the key
+    # We don't gen the pages that are book only here
+    page_key = page_key.replace('|book_only|', '') # in case it has the modifier
+    if page_key in book_keys:
+        continue
+
     # Look up previous and next keys
     previous_key = None
     next_key = None
