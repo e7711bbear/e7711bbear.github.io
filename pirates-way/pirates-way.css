@@ -12,12 +12,13 @@ body
     margin: 0;
     padding: 0;
     padding-right: 20px;
-    /*font-family: "HelveticaNeue-Light",sans-serif;*/
-    font-family: 'Courier New', Courier;
+    font-family: "HelveticaNeue-Light",sans-serif;
+    /*font-family: 'Courier New', Courier;*/
     font-size: 14px;
     -webkit-font-stretch: expanded;
     background-color: #eeeeee;
     color: #222222;
+    letter-spacing: 1px;
 
 }
 
@@ -64,7 +65,7 @@ h2
     margin-top:40px;
     font-size:28px;
     font-weight: bolder;
-    text-transform: capitalize;
+    text-transform: uppercase;
     margin-bottom: 6px;
 }
 
@@ -72,7 +73,7 @@ h3
 {
     font-size:26px;
     font-weight: bold;
-    text-transform: capitalize;
+    /*text-transform: capitalize;*/
     padding-left: 0px;
 }
 

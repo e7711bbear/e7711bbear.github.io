@@ -57,13 +57,13 @@
 
 Let's address the title. 
 
-The attitude I like to promote is the one of people who are fearlessly navigating the metaphorical sea of high-tech believing in their ability to handle new challenges on a regular basis.
+When it comes to build tech teams, the attitude I like to promote is the one of people who are fearlessly navigating the metaphorical sea of high/deep-tech believing in their ability to handle new challenges on a regular basis.
 To do so, they develop the skills and the mindset to set their own rules, challenge the status quo and in the process accomplish things that were out of their reach before.
 I call people who work this way, pirates. It's a mark of respect anchored in the old definition of hackers that started this entire industry ~50 years ago.
 
 Now, what you're getting into. 
 
-I've developed my methodology over the past ~20 years (and counting) working on very diverse environment building tech products. 
+I've developed my methodology over the past ~20 years (and counting) working on very diverse environments building tech products. 
 I've made countless mistakes, picked countless ridiculous battles and died on the dumbest hills you can imagine.
 But along the way, I've also learned from my mistakes, met incredible people, learned from them and came up with a set of skills that allows me to tackle any tech product problem with confidence.
 
@@ -72,23 +72,18 @@ This is because for me, most of this methodology is mostly build off pieces wide
 At times, I thought it'd be good for me to have a reference somewhere, but still, I never pulled the trigger.
 
 In the past few years, the demand for me to put something together has only increased in frequency.
-I used to respond that it's all online. Gave a few names and left it to that, but I got convinced that like my composition is like a recipe: having access to the ingredients doesn't take away the value of the steps to bake the cake.
+I used to respond that it's all online. Gave a few names and left it to that, but I got convinced that my specific composition is like a recipe: having access to the ingredients doesn't take away the value of the steps to bake the cake.
 
-So here we are, this is the most detailed material I have written on my methodology to build tech products and the teams behind them.
+So here we are, this is the most detailed material I have ever written on my methodology to **build tech products and the teams behind them**.
 
 @#$disclaimer$#@
 ### Disclaimer
-I'm not a writer and not trying to be one. The style here isn't going to be mind-blowing as english isn't my native language.
+I'm not a writer and not trying to be one. The style here isn't going to be mind-blowing and english isn't my native language.
 My objective is to convey the knowledge I've acquired in the most succinct way.
 I'm not a fan of long read with little meat to it, so I'm going to cut to the point as often as necessary. 
 There is a lot of depth at times I will cover and the most important nuances lie in them, so bear with me when I take a tangent.
 Ultimately, for the sake of efficiency, convenience and brevity, I will be making definitive statements throughout this content.
 Remember, that everything here is implicitly wrapped with "in my opinion" and "in my experience". Don't take things too personally.
-
-This is a live document I intend to modify as often and as extensively as necessary.
-Follow me or come back often if you want to keep up with changes. I plan on posting updates on LinkedIn only because I don't want to manage too many social media accounts.
-As you most likely are, I'm on my own learning journey.
-As I pick up new things, I will be editing this document accordingly.
 
 @#$pathtosuccess$#@
 ### Path to Success
@@ -97,23 +92,24 @@ Success isn't as straight forward as it's commonly portrayed. I'm sure you've se
 ![Success isn't a straight line](./images/progress-is-not-linear-straight-line-consistency.jpg)
 
 This isn't the place to cover success as a whole, but it's important that you take a look in the mirror and find what it means to you.
-Regardless, this document isn't about making you successful. It's about sharing the tools that allowed me and my teams to be successful under our own criteria. 
+Regardless, this book isn't about making you successful. It's about sharing the tools that allowed me and my teams to be successful under our own criteria. 
 
 What drives me is building things. As big as possible, as fast as possible. I'm very curious and easily interested.
 The more out of my comfort zone I am, the better, as it will present the best opportunity to overcome difficult problems and learn from the journey.
 The collaboration between people, the personal growth of the individuals under me/next to me and overcoming things we didn't know were possible is my definition of success.
 It's the high I chase, the satisfaction I take home. 
 
+Find your own, this book won't do it for you.
+
 @#$takeaway$#@
 ### Take-Away
-I think I've covered this well already, but I want to hammer this down.
-What you should take away from this methodology is:
+Entering any material, I think it's important you have a success criteria. This applies to many other situations but in this one, what you should take away from this methodology is:
 
 1. A renewed **interpretation of concepts** you may already be familiar with.
 
-2. A sets of **principles** that structures your operations all the way to the day to day.
+2. A set of **principles** that structures your operations all the way to the day to day.
 
-3. A sets of **processes** that will help reinforce the principles in a practical tangible way.
+3. A set of **processes** that will help reinforce the principles in a practical tangible way.
 
 All these will shape your mindset. It won't be the end of the journey, but the beginning.
 Keep in mind that knowing the path and walking the path are two very different things.
@@ -122,16 +118,20 @@ Keep in mind that knowing the path and walking the path are two very different t
 ## Concepts & Principles
 
 Let's start by covering concepts and principles. It will feel like a bit of a dumping ground, but you can come back to it in depth when I go over the product and team parts later.
-Remember, principles are high level rules you force yourself to follow. This isn't a binary hard line either. 
-It's more a 90% of the time hard, 10% soft on exception cases. 
+Also, I wanted for this section to be closer to an encyclopedia. A place you can come back to on a regular basis without having to start from the beginning to be anchored in a story or a flow.
+
+**Principles** are high level rules you force yourself to follow. Guidelines in your life that keeps you on the right tracks. They aren't binary hard lines. 
+It's more a 90% of the time hard, 10% soft; on exception cases. 
 This hard-ish stance is not to dumb your brain into following them like your new religion, but to force you to think if you're facing an exception when they get challenged.
 
-Concepts are more relatable. Here they mean topics reviewed from a different angle. Often an unpopular one.
-You may not like what you will read because you don't know me, don't know where I come from (intellectually and emotionally) and I completely flip some of these on their head relative to what you've probably been told for years and likely have come to deeply believe.
+**Concepts** are more relatable. Here, they mean topics reviewed from a different angle. Often an unpopular one (mostly on the statistical sense).
+You may not like what you will read because you don't know me, don't know where I come from (intellectually and emotionally) and - at times - I completely flip some of these on their head relative to what you've probably been told for years and likely have come to deeply believe.
 
 In the end, you're likely to end up taking either one of two paths. You'll either think I'm an idiot or you'll love what you read. It's never been in the middle somehow.
 This is rule #1 in leadership (we'll get back to it), whatever you do, you will never be compatible with everyone. 
 If you can't stand being hated, you won't be able to accomplish anything of significance.
+
+Let's dive into it.
 
 @#$companydna$#@
 ### Company's DNA
@@ -141,8 +141,8 @@ Regardless, it will shape everything from the smallest detailed decision to the 
 
 I've seen this principle apply time and time again. I've been fighting company's DNA to some extent in pretty much every company I worked for.
 It gets particularly difficult when the executive team is saying they are committed to a direction but their DNA is acting against it. 
-Now this is super common in time of hardship. The team want to shake things up, but won't let go of their old ways, not realizing why. 
-It's hard as well to cover because at the highest level, most people believe their success is due to their impeccable professionalism, their ice code rational and whatever makes them feel that everything they have is earned and luck had no play in it.
+Now this is super common in time of hardship. The team wants to shake things up, but won't let go of their old ways, not realizing why. 
+It's hard as well to cover because at the highest level, most people believe their success is due to their impeccable professionalism, their ice-cold rational and whatever makes them feel that everything they have is earned and luck had no play in it.
 
 This DNA won't stop at this level though. It will express itself from every level of the company because many, if not most of the staff, is here because of that DNA - even if implicitly.
 It usually translates in symptomatic expression of the DNA. For instance, people will want to work at the company because it has "a strong office culture" which in fact is only the expression of the micromanaging DNA the exec team is pushing.
@@ -157,11 +157,12 @@ It's not always written in black and white. It's not always aligned with the adv
 Most of the time, the values are an aspiration. A direction the team would want the DNA to be at.
 
 It comes first and foremost from the founders.
-If the founding team is non-technical, it can create a DNA of business first. This can translate into a DNA that diminishes the fine print difficulties of product and engineering - most typically the schedule slipping - and ultimately add frictions to everything while it becomes very difficult to explain the situation up.
-On the other side, a technical founder can bring to the table a "I know it all" attitude and a strong preference for a given product line or market shaping the DNA of the company towards consumer electronics for instance and preventing a differentiation effort towards enterprise (or vice versa).
+If the founding team is non-technical, it can create a DNA of business first. 
+This can translate into a DNA that diminishes the fine print difficulties of product and engineering - most typically the schedule slipping - and ultimately adds frictions to everything while it becomes very difficult to explain the situation up.
+On the other side, a technical founder can bring to the table a "Engineering can do it all and I know it all" attitude and a strong preference for a given product line or market shaping the DNA of the company towards consumer electronics for instance and preventing a differentiation effort towards enterprise (or vice versa).
 
 The next echo chamber is the executive team. They will most likely carefully mold themselves to please the founders through meticulous upward management.
-Very, very often, the executives will aggressively, yet subtly nudge the DNA towards where the company can be the most fruitful. It may work (Steve Jobs convinced to do iPod on Windows) or it may fail. 
+Very, very often, the executives will aggressively, yet subtly nudge the DNA towards where the company can be the most fruitful. It may work (Steve Jobs being convinced by his team to do iPod on Windows) or it may fail. 
 It's not uncommon to see exec move on to their next venture when they fail at this task. I've been there and I know many who have been there as well.
 
 Then it is quickly followed as an echo chamber by what the company does, where it became successful. You'll hear conversation saying "We are X because product Y is our most successful one".
@@ -176,21 +177,24 @@ Take a second and think about what's the DNA of each of these companies? Are the
 
 [pagebreak]
 
-Unfortunately for the idealist, a company is extremely unlikely to be able to develop multiple DNAs. 
-This a broader topic I don't want to cover here, but conglomerates and acquisitions with retained autonomy (think of YouTube inside Alphabet) are valid paths towards it. 
+Unfortunately for the idealist, a company is extremely unlikely to be able to develop multiple DNAs (Definitely possible). 
+This a broader topic I don't want to cover here, but conglomerates and acquisitions with retained autonomy (think of YouTube inside Alphabet) are valid paths towards it maintaining multiple DNAs. 
 On the other side, when you try to force two DNAs to merge, because it's unlikely to work, you can find strong clashes - like the recently reported issues between Slack and Salesforce.
 
 Understanding the DNA and embracing its strength and limitation is critical as you will see that an important principle here is to constantly navigate just outside the boundaries of the possible. 
 You want to be able to push everything forward in a realistic way, never delusional.
 
+The alternative is a long series of arguments, deceptions and burnout. 
+
 @#$trifecta$#@
 ### Trifecta
 
 The trifecta is a work model - a core principle - that sets expectations, responsibilities and dynamics to build products effectively.
-As it's name implies, it's structured around the **three roles** that are defining the **product, build it and deliver** it on time.
+As it's name implies, it's structured around the **three roles** that are defining the **product, build it and deliver it** on time.
 
 ![trifecta diagram](./images/trifecta.jpg)
 
+HERERERE
 
 #### 1. Product - What?
 
