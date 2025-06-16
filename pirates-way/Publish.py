@@ -9,7 +9,6 @@ import sys
 import getopt
 
 # Params
-template_file_name = "template.html"
 allow_book_content = False
 book_format = False
 
@@ -23,6 +22,11 @@ for opt, arg in opts:
      allow_book_content = True
   elif opt in "--book_format":
      book_format = True
+
+if book_format:
+    template_file_name = "book_template.html"
+else:
+    template_file_name = "web_template.html"
 
 print("Starting Publishing job with params:")
 print("Template File: %s" % template_file_name)
@@ -95,6 +99,8 @@ for match in matches:
 # Building the pages
 pages = text.split('@#$')
 page_count = 0
+if book_format:
+    book_html = ""
 
 # Open the template file
 template_html = ''
@@ -137,6 +143,10 @@ for index, page in enumerate(pages):
     else:
         page_partitions = page.partition('$#@')
         page_md = page_partitions[2]
+
+    # Replaces that should happen before html conversion
+    page_md = page_md.replace('[<->]', '&harr;')
+
     page_html = markdown.markdown(page_md, extensions=['tables'])
 
     page_components = page_md.partition('\n')
@@ -165,24 +175,36 @@ for index, page in enumerate(pages):
     # Insert content in template
     final_page_html = page_template_html.replace('[[INSERT_PLUG]]', page_html)
 
-    # Insert previous and next links
-    previous_link = ''
-    if previous_key is not None:
-        previous_link = '<a href="./%s.html">Previous</a>' % previous_key
-    elif index != 0:
-        previous_link = '<a href="./index.html">Previous</a>'
-    final_page_html = final_page_html.replace('[[PREVIOUS]]', previous_link)
+    if book_format is False: # Web version
+        # Insert previous and next links
+        previous_link = ''
+        if previous_key is not None:
+            previous_link = '<a href="./%s.html">Previous</a>' % previous_key
+        elif index != 0:
+            previous_link = '<a href="./index.html">Previous</a>'
+        final_page_html = final_page_html.replace('[[PREVIOUS]]', previous_link)
 
-    next_link = ''
-    if next_key is not None:
-        next_link = '<a href="./%s.html">Next</a>' % next_key
-    final_page_html = final_page_html.replace('[[NEXT]]', next_link)
+        next_link = ''
+        if next_key is not None:
+            next_link = '<a href="./%s.html">Next</a>' % next_key
+        final_page_html = final_page_html.replace('[[NEXT]]', next_link)
 
+        # write end-result to final file
+        filename = '%s.html' % page_key
+        with open(filename, 'w') as f:
+            print("Writing %s" % filename)
+            f.write(final_page_html)
+            page_count += 1
+
+    else:
+        book_html += final_page_html
+
+if book_format:
     # write end-result to final file
-    filename = '%s.html' % page_key
+    filename = '__book.html'
     with open(filename, 'w') as f:
         print("Writing %s" % filename)
-        f.write(final_page_html)
+        f.write(book_html)
         page_count += 1
 
 print('Pages created: %s' % page_count)

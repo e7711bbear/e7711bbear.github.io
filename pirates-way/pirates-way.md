@@ -31,8 +31,8 @@
 ### [The Loneliness of the Winner](#loneliness_winner)
 ### [The Remote Playbook](#remote_playbook)
 ### [Making Hybrid Work](#making_hybrid_work)
-### 📖 [Feature/Application Matrix](#feature_application_matrix)
-
+### [Feature/Application Matrix](#feature_application_matrix)
+### [The Impossibility Equation](#impossibility_equation)
 
 ## [The Product](#theproduct)
 ### [R&D](#randd)
@@ -190,11 +190,9 @@ The alternative is a long series of arguments, deceptions and burnout.
 ### Trifecta
 
 The trifecta is a work model - a core principle - that sets expectations, responsibilities and dynamics to build products effectively.
-As it's name implies, it's structured around the **three roles** that are defining the **product, build it and deliver it** on time.
+As it's name implies, it's structured around **three roles** that are defining the **product, build it and deliver it** on time.
 
 ![trifecta diagram](./images/trifecta.jpg)
-
-HERERERE
 
 #### 1. Product - What?
 
@@ -212,14 +210,14 @@ Here are some of the ways the Product role can find the answers to 'What?':
 - **Vision** - Now this is usually the part that everyone prefers. You YOLO ideas that make you feel great on reshaping the world as we know it. The less cynical way to look at it is, that this is the area where you define what the customer will want as they don't _trully_ know what they want. It is easily 80% of the work when working on bleeding edge technology (deep tech). Very often, this comes from the founders, expanding by product leadership and through a back and forth with the different product leaders in the org.
 
 There are more ways of course. They will depend on the structure of influences in the company and which departments have a support or control function.
-Regardless, successful outcome is a product line up, release structure, feature list with impact rankings.
+Regardless, successful outcome is a product line up, release structure, feature list with impact rankings and a lot of story telling.
 
 #### 2. Engineering - How?
 
 Now that we know what we want, it's time to work on building it. The engineers will do that by answering the question **'How?'**. 
 
 Engineering will do just that while retaining the most important elements from Product.
-This also means that the requirements from Product have to be sensible. To enforce this, the **Trifecta works _with_ each other not _for_ each other**.
+This also means that the requirements from Product have to be sensible. To enforce this, the **Trifecta works _with_ each other, not _for_ each other**.
 This is a critical differentiation of the trifecta vs what you've probably heard before from structure that resembles it.
 
 To figure out 'How?' Engineering will go and look at:
@@ -249,9 +247,9 @@ Project isn't deciding how long something takes. Project allows Product and Engi
 That's also why in mono-products like a single iOS app, you rarely need a project manager. Engineers will easily assume the role and do it well.
 
 In bigger settings, Project coordinates all work from the individual teams to the cross-functional collaboration - sometimes with external stakeholder - it gets to see the entire dynamic at play.
-Every meeting is an opportunity to identify conflicts in promises ("you said that..."), expectations ("I though ...") and responsibility ("I didn't know I was supposed to ..."); to make sure the progress is capture appropriately; to lay the work on roadmaps and timeframes.
+Every meeting is an opportunity to identify conflicts in promises ("you said that..."), expectations ("I thought ...") and responsibility ("I didn't know I was supposed to ..."); to make sure the progress is capture appropriately; to lay the work on roadmaps and timeframes.
 
-Project is often the most powerful when the full owner the of project management tooling (Jira and alike). 
+Project is often the most powerful when it is the full owner of the project management tooling (Jira and alike). 
 They work to continuously polish the process in place as to make sure every team speaks the same language.
 
 Project will often either drive a meeting when there is a peer-to-peer coordination using soft skills. Project isn't the boss in the room, Project just wants information to be accurate.
@@ -283,7 +281,7 @@ As a rough schedule you can use is:
 - Engineering <-> Project should meet daily or multiple times a week. Ideally, Project has people to be at daily stand-ups.
 
 Last, remember that these roles don't report to each other. They are peers working together towards a common goal. 
-They all need to carry their own weight so they all can do their individual work. They all depend on each other.
+They all need to carry their own weight, so they all can do their individual work. They all depend on each other.
 
 @#$peoplefirstandlast$#@
 ### People First and Last
@@ -297,7 +295,7 @@ So you're forced to bring more and more people as you grow, so you can continue 
 Not only the surface is large, but the problems are very complex. Even if your product is simple, as it grows you'll inevitably need to segment it just to be able to maintain it.
 This requires creating an architecture that rely on smaller pieces that interact with each other. Just so you can focus on the individual context of each piece.
 
-You may be thinking that you can jsut keep your business small, but you take the chance of being swallowed by the competition.
+You may be thinking that you can just keep your business small, but you take the chance of being swallowed by the competition.
 Either nicely through an acquisition or nastily through irrelevance. This reality makes the push to grow an omnipresent force.
 
 It's not the end of the world, but it's a dynamic you better get comfortable with. 
@@ -313,7 +311,7 @@ Regardless, your people dynamic is now a **qualitative**, **quantitative** and *
 
 [pagebreak]
 
-So by now, you probably get that my point is that people in your teams are incredibly important. 
+By now, you probably get that my point is that people in your teams are incredibly important. 
 This doesn't mean that you have to accept everything and anything, but it does mean that you **have to go above and beyond** to find resolutions, to stimulate the environment they work in. 
 You have to leave behind your ego, feelings and assumptions behind. You have to put yourself in their shoes.
 
@@ -333,6 +331,12 @@ The large majority of them don't want to job hop every few months. They want to 
 
 Just don't give them a reason to leave. Give them a reason to stay or join.
 
+Eventually, you will have fostered and cultivated a group of exceptional individuals that will take care of the complexity, size and evolution of your tech products, because if you take care of your people, they will take care of your products. 
+
+
+At this point in my career, I have worked for many companies with broken products. This was the mission. This was the focus of the CEO/Founder.
+
+I told them then what I want you to retain: **Fix the team, they will fix the product.**
 
 @#$leadershipvsmanagement$#@
 ### Leadership vs Management
@@ -343,7 +347,7 @@ Still, there are _very_ big differences that have to be understood to **build wo
 
 [pagebreak]
 
-#### Management, the art of creating predictable results
+#### Management is the Art of Creating Predictable Results
 
 To achieve predictable results, the manager (at any level) leverages **different processes and tools** that have demonstrated - in their context - their ability to do so. 
 This includes scheduling, workflows or pipelines with checkpoints at given key frames. 
@@ -356,12 +360,12 @@ Anyone can basically be a good manager providing that they can structure their w
 
 After that last step, based on the observed results, you go back to step 1, moving to the residual problems. Rinse and repeat.
 
-Great managers get good and predictable results, but the tech industry being such a talent-driven one, if you are looking for excellence, a pure management approach tends to fall short. 
+Great managers get good at predictable results, but the tech industry being such a talent-driven one, if you are looking for excellence, a pure management approach tends to fall short. 
 This is where leadership comes in.
 
 [pagebreak]
 
-#### Leadership, the art to guide others to their excellence
+#### Leadership is the Art of Guiding Others to their Excellence
 
 Everything else that is usually attributed to leadership is consequential to this. People follow their leaders when they convey their ability to guide followers to a better situation.
 
@@ -385,7 +389,7 @@ Great leadership requires:
 
 1. Strong **soft skill** - Social awareness, communication, listening -, 
 2. The ability to **connect with people**, 
-3. A sense of **confidence** but also the ability to **question yourself** constantly.
+3. A sense of **confidence** without losing the ability to **question yourself** constantly.
 
 Leading by example is an obvious step you have to follow. If you live by "do what I say, not what I do", you will lose respect of everyone faster than you can blink. This doesn't mean you need to do everything yourself first either.
 
@@ -398,7 +402,7 @@ I'd choose a poorly managed company with great leadership against the opposite a
 
 [pagebreak]
 
-#### Leadership and Management throughout your career
+#### Leadership and Management Throughout your Career
 
 As you climb the ladder on the people management style, the importance of leadership and management changes.
 Even at the individual contributor level, management and leadership skills matter, but they are a 'nice to have', so I'm not going to dive too deep into it now.
@@ -412,7 +416,7 @@ In a nutshell, it kinda follows this graph:
 
 [pagebreak]
 
-As you can see, the difference matter, because it's two sets of skills that needs to be worked on independently. 
+As you can see, the difference matters, because it's two sets of skills that needs to be worked on independently. 
 If you believe there are the same, you are likely not to work on both but simply the one that you think represents both in your mind.
 
 @#$bozoandgoldengoose$#@
@@ -461,6 +465,7 @@ You will catch them talk ill of their boss while at the same time spending every
 
 My point is they are smart and active rather than dumb and passive.
 
+
 Incompetence itself is only a temporary state of a given individual. As a matter of facts, most of the people that delivered incredible things were completely incompetent at the beginning of the journey.
 Their attitude though, even if adopting some sense of 'fake it until you make it' is to figure it out and progress to push the common goal.
 
@@ -487,16 +492,16 @@ I'm talking about the manager who unlocked the program that's been dead in the w
 
 (These are all true stories)
 
-I've met and worked with a lot of Golden Geese. Many of my closest friends are Golden Geese. I married one. 
-I'd be really hard for me to convince you there is no biases when I say this, but my wife is in a league of her own in the Golden Geese olympics.
+I have met and worked with a lot of Golden Geese. Many of my closest friends are Golden Geese. I married one. 
+It would be really hard for me to convince you there is no biases when I say this, but my wife is in a league of her own in the Golden Geese olympics.
 
-So you can take it to the bank when I say **these people aren't replaceable**. 
+You can take it to the bank when I say **these people aren't replaceable**. 
 When they are gone, you will definitely either accept a much lower output, a much bigger team or more likely both. 
-If that's your definition of replaceable though, then I guess a horse is a replacement for an aircraft too.
+If that's your definition of replaceable though, then I guess a horse is a replacement for a truck too.
 
 Protecting and enabling them is obviously incredibly important.
 
-Most Golden Goose has no realisation of their performance. They have a deformed sense of what's acceptable and live by a strong sense of principles that is tightly connected to their identity.
+Most Golden Goose has no realisation of their performance level. They have a deformed sense of what's acceptable and live by a strong sense of principles that is tightly connected to their identity.
 For them, it's just inconceivable not to do it right, to let the team down, not to deliver what's expected, etc.
 
 This is where the Bozos tend to come in. They sniff this out extremely fast, put the Golden Goose in a world of their own making, and make sure they are the one defining the rules of this world.
@@ -518,7 +523,7 @@ I was called all sorts of things, threatened, along with a collection of joyful 
 In private settings, I put my role in jeopardy for Golden Geese to have a chance to show their skills. 
 Ultimately, they delivered and my judgement was acknowledged, but I always remind everyone that I did nothing, they did the work.
 
-I've coached Golden Geese directly to provide them perspective and data behind their capabilities (acknowledgement & sense of normality), while at the same time helped them develop self awareness about their effort to protect against burn out (self preservation).
+I've coached Golden Geese directly to provide them perspective and data behind their capabilities (acknowledgement & sense of normality), while at the same time helped them develop self awareness about their effort to protect against burn out (self-preservation).
 I've crafted step by step plans and stayed in the shadow for them to reclaim the recognition of their effort. I've pick up the battles behind closed doors to defend their reputations, skills and positions.
 
 I think you can see where I am going. I'm not about to promote something I don't do.
@@ -554,7 +559,7 @@ Instead, try to look at it this way:
 - Call them out on what they are doing, not who they are. Tell them "Your job is to do X". Don't say "You're a Bozo". 
   If they open up to vulnerability, you may not be facing a Bozo but a copy cat. 
   A person that saw Bozos working and believe they need to do the same while not being a Bozo themselves. 
-  Otherwise, as I mentioned before most Bozos will promptly find a new host when called out, else get rid of them promptly. Bozos are like bar of soap, they will find all sorts of nonsense to evade. 
+  Otherwise, as I mentioned before most Bozos will promptly find a new host when called out, else get rid of them promptly. Bozos are like bar of soap, they will find all sorts of nonsense to slip off your hands. 
   The whole effort is pointless. When you get rid of them, to the measure of what you can say, explain where the line is to your organization.
 
 2/ It they don't report to you (peer or superior):
@@ -562,7 +567,7 @@ Instead, try to look at it this way:
 This is really, really hard. First of all, you have to ask yourself if the role you're in is worth it, because nothing that follows is going to be easy.
 
 - **Find a champion**. Someone higher that will share the perspective, will be open to hear the perspective. They can take the fight you can't.
-- If you can't find a champion or If the Bozo has the ear of your superior, find another job. If you find yourself in a conflict with your superior Bozo, there is no limit to how far they will go. 
+- If you can't find a champion or if the Bozo has the ear of your superior, find another job. If you find yourself in a conflict with your superior Bozo, there is no limit to how far they will go. 
   I've seen a lot, slender in back channel throughout your industry, lies in performance reviews, isolations, forcing shit work on your forever, etc. 
 - If you have superior support, a champion and/or neutrality towards the Bozo, continue doing excellent work, call out Bozo in key moments. 
   Beware, Bozos will always fight back behind the scene. You need to be proper and have a track record to support the rattling of the cages you do.
@@ -581,36 +586,47 @@ It's not a matter of policy to decide what to do, it's a matter of sanity.
 @#$politics_culture$#@
 ### Politics & Culture
 
-Company culture is a hyper-covered topic, so you would think that it is a solved problem and even a supporting solution to all companies out there.
+Company culture is such a hyper-covered topic, you would think that it is a solved problem with a plethora of supporting solutions to all companies out there.
 Yet if you ask employees honestly what their take of it is, most will tell you that it either has no impact on them or that it's one of these corporate propaganda that they've come to learn to live with.
 
 Culture was never about brainwashing employees into the next level of obedience or compliance. 
-It was about creating a sense of engagement so people would give a shit about the common goal of the team/company.
+It is about creating a sense of engagement so people would give a shit about the common goal of the team/company.
+
+It is about defining, cultivating and protecting a winning mindset. A mindset that is a reference frame on what's normal/abnormal, acceptable/unacceptable.
+It creates an incredible fluidity when dealing with all sorts of questions and problems, that get resolved instantaneously because it's so inconceivable that it could be any other way, removing the need for lengthy debates over everything.
 
 A common mistake is that culture is expected to be built out of values that often end up on motivational posters around the company. 
-Values are good to have, but if they read like they came out of a marvel comic book or that they only apply when convenient, you will destroy the whole idea and everything you built on top of it.
+Values are good to have - they help clarify the definition of the culture -, but if they read like they came out of a marvel comic book or that they only apply when convenient, you will destroy the whole idea and everything you built on top of it.
 
-You can't create a culture out of simple words and a few pep talks, but the recipe of success isn't much harder though.
+You can't create a culture out of simple words and a few pep talks, but the recipe of success here isn't much harder though.
 
 **You build a culture by walking the talk.** 
 
-The values you preach need to be reinforced on a daily basis through actions. You can even verbally, or write down the connection between a decision/action and the value behind it.
-You would say things like "Best answers wins, so let's hear it from everyone here.".
+It's less about catchy phrasing, a lot more about walking the talk and filtering in those who do rather than trying to convert everyone to it.
+
+You have to embody the culture you want to develop, select the people who follow it on the principle level and push out those who don't.
+
+The values you preach need to be reinforced on a daily basis through actions. You can express verbally, or write down the connection between a decision/action and the value behind it - this will help people understand it:
+You would say things like "Best answers wins, so let's hear it from everyone here." - But it's in no way necessary if the team lives the culture naturally.
 
 You act and apply to everyone (including yourself) the same scrutiny that you expect to others. 
-You admit the wrong, you protect the moral high ground from anyone - including the founders.
-When you admit the wrong, you do it with sincerity and a sense of accountability. It's so easy to brush off this part when there is no one above you in the organization.
+You admit the wrong, you protect the moral high ground from anyone - including the founders. This is what I call intellectual honesty.
+When you admit the wrong, you do it with sincerity and true accountability. It's so easy to brush off this part when there is no one above you in the organization.
+
+It's also very easy to admit a wrong, change nothing and leave with a feeling that you did the right thing. So be aware.
 
 The culture belong to the company, not the founders, not the execs. You act as an agent of the company. You create this third person barrier, so that you belong with the same group that has to live by the same rules.
+But it is true, that the higher the individual in the ladder, the more important it is for them to embody the culture. That is simply because those with the highest influence, must be the best examples of the culture.
 
 
 Unfortunately, so many leaders forget that actions speak louder than words, and they commonly destroy their culture with their behaviour or the behaviour they allow to happen.
+In the best of cases, they will do the opposite of what they say.
 
-A behaviour that is commonly (and easily) driven by politics.
+A behaviour that is commonly (and easily) driven by politics backed by personal insecurities, anxieties or fears.
 
-Politics isn't mysterious, it's this mediocre social engineering practice that you just can't shake off after high school. 
+Politics isn't mysterious, it's a mediocre social engineering practice that you just can't shake off after high school. 
 
-Yet, it's very important to appreciate its impact and who are those who thrive in a political environment as they are the most dangerous characters there is.
+Yet, it's very important to appreciate its impact and those who thrive in a political environment as they are the most dangerous characters there is.
 They use actively and aggressively, any and all social ways to advance their profile at any and all costs to others.
 
 They will build fake relationships with key people, spin and twist appearances, set traps to sabotage others and make themselves shine. The list goes on.
@@ -619,13 +635,23 @@ In the end, these people use politics to manipulate the environment to their ben
 They also destroy companies from the inside out and are rarely - if ever - caught for it. 
 If anything, they are praised for it, or it's all part of the randomness of life.
 
-I do understand the dynamic at play - it's not a hard one to grasps - I don't follow leaders and organizations that tolerate politics at any levels. 
+I do understand the dynamic at play - it's not a hard one to grasp - I don't follow leaders and organizations that tolerate politics at any levels. 
 There is literally nothing in it for anyone.
 
+That's because most of the time, politics are a symptom of a bigger problem, one that is borderline impossible to fix.
+
+Politics emerges in a context where manipulation is possible. Manipulation is hyper possible in an environment of insecurities, doubts and fear. 
+When politics sets in, it is usually built on top of a layer of denial of these problems.
+
+Which means that you are now layers above the root cause of the problem, desperately hoping you'll be able to make a significant change from up there.
+
+It's an environment where you will be putting in a lot of energy for very little return. So it's time to cut your loses.
+
+If you are there as a founder though, first cut the layer of opacity politics created, cut loose those who reinforce the opacity. Then and only then you can rebuild your culture.
 
 @#$motivationandinspiration$#@
 ### Motivation & Inspiration
-
+HERERERE
 #### Motivation
 Motivation is the inner force that drive us to act on things.
 
@@ -1901,7 +1927,7 @@ Instead, employers compromise on more remote days than office days while employe
 Flexibility is achieved, performance is achieved and the strain of the office is made to count as it yields the effects everybody wants.
 
 
-@#$feature_application_matrix|book_only|$#@
+@#$feature_application_matrix$#@
 
 ## Feature/Application Matrix
  
@@ -2072,6 +2098,71 @@ The more time spent here, the better the data will be - quantitatively and quali
 Similarly, you can use this matrix to measure the negative engineering impact of features that were build and have no impact on the end-user application, but I'll skip this example for now, that's a lot of table for one page.
 
 As any tool I share, they are only as good as the hand that uses it. Hopefully this yields the results to you, it did to me and my teams.
+
+
+@#$impossibility_equation$#@
+## The Impossibility Equation
+
+Impossible is a relative notion. In practice, it often refers to something that's conceivable but has no path to reality in sight.
+
+When it comes to build impossible products, there is an equation to it. One that is as simple as 1 + 1 + 1 = impossible.
+
+But a better way to look at it, is this Venn diagram:
+
+![Impossible Venn Diagram](./images/impossibility-equation.jpeg)
+
+If you can bring yourself into a situation where you can have freedom + courage + funds, you can achieve the impossible.
+
+### Freedom
+
+Freedom can mean a partner that supports you, a personal baggage you no longer carry, a pursuit of validation you have let go.
+
+Freedom is ultimately the ability to act on your own volition. Free of burden, free of constraints of life, free of engagements, free of mental blockers.
+The reason freedom is so important, is because these blockers are usually the first thing that sets a limit to how far you can go.
+
+I'm not implying it's easy to get this freedom, but it is mandatory to have it.
+
+At times, the difficult aspect of this freedom is, that the freedom is taken from you after making a decision that wasn't clearly explicit about coming at the cost of freedom.
+
+Marrying someone with different life goals, taking a job in FAANG, many of these types of decisions will ultimately remove your freedom to act.
+You may even be happy about surrendering it for the other benefits you are getting.
+
+### Courage
+
+Courage can mean the internal fire that comfort can't quench, the ability to handle failure, the mental strength to go against the current.
+
+Courage is the force that pushes you to act beyond the set tracks of the road laid by others. The force that pushes you to go forward, the force that motivates you to challenges boundaries.
+
+As a general rule, courage is the exception. Most people create invisible obstacles in their lives out of the slightest one time inconveniences. 
+
+The courageous constantly push through, and the impossible requires this force to be sustained.
+
+### Funds
+
+Funds can mean the disposable time at hand, the decision power to spend resources as desired.
+
+Funds is the overall resources you need to execute on the vision. It's always financial, but not exclusively so.
+
+It can be: access to a supply chain, talent pool, time to spend or even a network of people.
+
+The need for it depends on your skills, your creativity and your resilience, but regardless, you'll need funds.
+
+
+
+My address book is packed with people who have two of these - which is already exceptional - but it's hardly enough.
+
+Each of these are generally complementary, but they ultimately diverge in the specifics, so everybody is still working to find their missing piece.
+
+
+Everything you have admired as exceptional, as impossible; Everything that is layered in made up complexity boils down to this, and you would be surprised to see how common it is for "powerful" people/institution not to have all three.
+I'm talking about governments, investors, large companies. 
+
+It's really hard to line up all three.
+
+If you have all three, you're golden.
+
+If you have all three, you'll make the impossible real.
+
 
 @#$theproduct$#@
 ## The Product
@@ -2323,10 +2414,313 @@ For instance, if you are a CTO in 10-ish people company, you're probably closer 
 @#$individualcontributor$#@
 ### Individual contributor
 
-Coming Soon...
+For convenience in the following, I'm going to copiously use "IC" to refer to individual contributors.
+
+#### Product
+
+For product IC, I like to use these titles with these meanings: 
+
+Product Manager: The person who's in charge of figuring out what one or more product are supposed to be. They will communicate the state of the product and tell the story about why the end-user will love it.
+Their job is to make the product excellent.
+
+Product Owner: An elevated role for a Product Manager, the Product Owner has a much broader discretion to drive the product to success. Product Owners act as mini-CEOs and hustle to get the product to the state it needs to be. 
+They will take on more responsibility wherever the need goes.
+
+Both can handle one or more products, but won't be in charge of a line-up. It is in management that the line-up supervision comes in.
+
+A Senior Product Manager/Owner manages several people on top of the line-up these people handle.
+
+For Product ICs to go up in management, they have to demonstrate:
+
+1. Exceptional communication skills - This is not just the form, but also the ability to create diverse level of content against strict story flows that captivate the given audience. Because they have to engage with different type of stakeholder, the wider the range, the better.
+2. Innate ability to understand the implicit language of the product category. If the PM/PO works on mobile apps, they must be attuned to all the subtleties the end-user will implicitly expect _and_ be able to position the product in the overall landscape.
+3. Incredible organizational skills - This is a combo between being able to organize the work, the static information _and_, structure information in a way that creates cohesion and clarity. Documents must be easy to consume and enter the path of day to day work for stakeholders.
+
+The path up is only wider and a loose handling on these skills will have negative compounding effect on the future.
+
+Industry knowledge is very important - and at times a superpower that can help with deficiencies - but doesn't replace the requirement for skills demonstration to go up in responsibilities.
+
+As for pay structure, I prefer the use of levels to allow people to stay in the role that suits them the best and not implicitly push people up the ladder for compensation benefits.
+Don't cap compensation to please the ego of a superior. People should be compensated for their contribution to the company. If you have a leader who struggles with pay differences, change that leader.
+
+#### Engineering
+
+Engineering IC roles, expectations and career paths is probably a topic that could yield its own book (again).
+I'll have to trim and focus to produce something that would be punchy and helpful.
+
+Also, this is the Pirate Way; this likely won't apply to you if you parked your career in one of the trillion dollars resorts of Silicon Valley.
+If you're reading this from there, I will assume that this is fan fiction for you as you reminisce of a time your contribution meant something while toying with the golden handcuff we both know aren't coming off any time soon.
+
+##### 1. Education
+
+Years ago, I came to the realization that post-high school education for high-tech engineering was irrelevant to become a great engineer.
+
+It's still a good environment for some to learn, but the speed at which the information evolves, the amount of content that exists online and the disconnect between academia and the real world is putting the value of this formal education in a tight box.
+
+It actually can have a negative effect when students start believing that the label of their school will carry them their whole life. A label always does some heavy lifting - up until the point someone who's hungry for validation kicks your ass through sheer performance.
+
+Regardless, as you enter your career as an IC, the biggest misconception is that you have been prepared to be ready to join a team. Unfortunately, you are not and were not told that the bulk of your engineering job isn't about producing, it's about thinking.
+
+As an IC, I used to say to my peers that I am not paid to code, I'm paid to think. A weird concept before the world of gen AI and a middle management that overwhelmingly measures performances on commit count, but nevertheless true.
+
+There is always someone (or something), somewhere that can produce cheaper. The job is to figure out how to build things correctly. How do you balance short term goals while securing long term ones. 
+At first, - and for most - it reads like a paradox, and that's because all the years you've been taught how to code and/or cad, you weren't taught about this.
+
+I'm sure there is exceptions to this, but I'm yet to see a curriculum which measures deliverables on their adaptability to future problems.
+
+Now that gen AI is ubiquitous, you can easily identify those who don't get that producing isn't the core expectation of the job by listening to those who worry about being replaced, or by non-technical rejoicing at the idea of replacing engineers with AI.
+AI in the end, is the greatest asset to ever come, taking over the implementation and pushing you where you were always needed: thinking.
+
+But because you weren't taught this, this is where your career should start.
+
+##### 2. Levels
+
+Most companies end up using some level of a career ladder for two reasons:
+
+1. Employees want a map for their professional lives
+2. It makes it easier to prove you weren't biased (discriminatory)
+
+It's not really the topic, but I'll use the format to be relatable - sliced with Technical and Management tracks - focusing on the IC part aka technical. 
+
+| Technical          | Management                        | 
+|--------------------|-----------------------------------|
+| (Intern)           |                                   |
+| Junior Engineer    |                                   |
+| Engineer           |                                   |
+| Senior Engineer    |                                   |
+| * Lead Engineer    |                                   |
+| Staff Engineer     | Engineering Manager               |
+| Principal Engineer | Director of Engineering and Above |
+
+As you start your career, you begin as a Junior Engineer. We don't call it like that because #feelings, but that's how everybody will see you and that's the qualifier that will be used in almost every conversation you're not part of.
+
+We all started here, we all moved on - except of those who couldn't let that go. If you can't let go, if you're not comfortable with this reality, everything else is going to be a struggle.
+
+Note: I'm skipping Intern on purpose because some people never do it and internships are basically paid interviews. You are being paid to work on a shits and giggle project to be evaluated thoroughly. 
+Many interns don't understand how important this is and don't leverage the opportunity to make an impression and how lasting this impression will be.
+To this day I tell the story of good and bad interns I worked with; I am asked about how internships went for people I worked with. 
+
+As you progress in your skills, hitting the checklist of expectations the ladder laid out, you'll reach the level of **lead engineer** or whichever equivalent is where you are.
+
+At this point, you will face a fork: Technical or Management route.
+
+If you continue in Technical, you have more options that are going to be more or less interesting depending on the culture of your company. In my approach, the people who go deeper are hard core pirates and I like to continue work closely with them - even establish direct report lines to me as a C level exec to go after the craziest projects.
+
+If you want to remember one thing, this is the TLDR expectations for the levels:
+
+| Role               | Debug           | New Feature     | Architect          | Other                                                                       |
+|--------------------|-----------------|-----------------|--------------------|-----------------------------------------------------------------------------|
+| Junior Engineer    | 80% Autonomous  | 20% Autonomous  | NA                 | NA                                                                          |
+| Engineer           | 100% Autonomous | 60% Autonomous  | Suggestion Capable | NA                                                                          |
+| Senior Engineer    | 100% Autonomous | 100% Autonomous | 40% Autonomous     | Release Engineering                                                         |
+| Lead Engineer      | 100% Autonomous | 100% Autonomous | 80% Autonomous     | Above plus: Capable to lead a group to a resolution of a technical problem  |
+| Staff Engineer     | Silver Bullet   | Silver Bullet   | 100% Autonomous    | Above plus: Represent team; Prototyping; Proficient in multiple tech stacks |
+| Principal Engineer | Silver Bullet   | Silver Bullet   | Silver Bullet      | Above plus: Evangelism; Deep R&D; Tech Strategy                             |
+
+Another way to paint the picture is this:
+
+![Developer vs Engineer](./images/developer-vs-engineer.png)
+
+A developer is an engineer who can only handle solving a well framed problem.
+An engineer is someone who can handle the unknown chain of problems, their solutions and collective structure into a product feature or whole product at once.
+
+Junior engineers and engineers are mostly developers.
+
+##### 3. Path Up
+
+- Junior Engineer
+
+As you come in, we're giving you work to evaluate you. Debugging is a great place to do this. You can show what you're made off in a controlled environment while learning the things your education didn't cover. You're deep in team work land, have a lot to grasp - which has a significant cognitive load - and you work in hyper focused environments so you aren't yet swimming in context switching waters.
+
+What a good manager will pay attention to is:
+1. Discipline - how meticulous are you with what you do? Are you implementing tests, documentations? Are your side work thorough or bare minimum?
+2. Range - how far out of your comfort zone are you going to solve the problem? 
+3. Limits - where did you stop and why? How much are you affected by obstacles? Do you stay very clear of them or are you plowing through them?
+4. Independence - how much assistance do you need for anything? Are you searching on your own? How much have you tried before asking for help? Did you need anyone to help you get help?
+
+As you can probably tell a lot of these are metrics around autonomy. That's because no one is hiring an engineer to spoon-feed them the next steps. Everybody wants to through high level problems and see them being sorted.
+
+As you demonstrate you can handle yourself with small things, bigger things will come your way. Usually outside of bug fixing. Bugs like features have their own scale of difficulty, it's not the "dish washing" of the engineering world. 
+It will come back when you can demonstrate you can do more complex things on your own.
+
+And when bigger things will be comfortable for you, the promotion will come.
+
+- Engineer
+
+As a mid level engineer, your responsibility increase towards handling new development on your own. 
+As you start entering this realm, the question of integrating it into existing structure is creating a force function that pushes you into architecture considerations.
+In this vice, your options - to figure it out - comes down to balancing:
+1. Knowledge you'll find online
+2. Your more senior peers insight
+3. Your own exploration and understanding of the current situation, its technologies and how they work.
+
+Regardless, this is the time when you should invest a lot of your time research, trying and validating assumptions.
+
+Bad engineers here tend to read some blog post and implement as-is without any questioning, testing or validation. 
+This is almost always caught by more senior engineers and management, but the lack of counter makes these bad engineers think that they either got away with it or that they were right all along; when in reality, it's just another instance of picking your battles.
+
+If you do the work, it will show. Your answers will be sharper, your implementation will show their strength in future development, you will find yourself engaging at eye level with more senior peers.
+
+When this comes, you will be ready for your next promotion.
+
+- Senior Engineer
+
+If the selfish interests of the employer were to be fulfilled, teams would be packed with senior engineers. 
+
+This is because this is the level that usually gives the best bang for buck.
+
+At this level, you're now autonomous in 90% of the cases, you can take on architecture designs, you can debug complex problems; you are basically effective with a high level direction.
+
+You know when to do the work, when to ask questions - and they are good questions -, when to kick off a whiteboard session, how to break down a problem, etc.
+
+Senior engineers get all the best tasks because they can handle it.
+
+Eventually -  whether you realize it or not - someone will start noticing your contributions. Either directly or by proxy, your name is mentioned as the team is being evaluated.
+
+This is why it's important that you communicate what you want to your manager, and that you appreciate that there is more than one happy path for you.
+
+As you develop your skills, you can easily find yourself in a position where you wonder what's next. There is the obvious path up towards Lead engineer, but you can just as well stay as Senior and continue increase your compensation beyond the minium 'cost of living' raise.
+This does require a company that understand the value a good employees at this level, and it's far from ubiquitous, but it's nonetheless a good outcome that can be created by simply stating you like this level and just wants to be rewarded for ongoing contributions.
+
+It's not the topic of this chapter, so I won't dive deeper into this and move on to the other path: Lead engineer.
+
+As you become the domain expert through skills and demonstration of said skills, you can be called upon to increase the autonomy you have by taking higher level problems and solve them. When you do that, you'll be called to coordinate with bigger groups and your ability to demonstrate leadership is what's between you and your next promotion.
+
+- Lead Engineer
+
+As a Lead Engineer, the expectation is for you to drive fundamentally two things:
+
+**1/ The technical aspect**
+
+You are the domain expert in at very least one tech stack. You are the go-to person to answer predictive questions: "Should we use X or Y to do Z?". 
+In this position, you not only have experience (prior first-hand knowledge) but you also keep yourself sharp on what could be a paradigm shift.
+As such, you not only drive technical decisions in your team, you represent your team's responsibility in cross-functional work (crossfunc for short later).
+
+This means that when an external stakeholder wants to build something else that will interact with your piece, you can answer almost all the time, on the spot, what will be the best course of action.
+
+This experience also makes you the person to drive R&D work.
+
+This needs clarification because I've seen too many teams throwing stuff at the wall and calling it R&D.
+
+The difficulty of R&D - that you will handle - is to know what to start and what to stop. 
+R&D can very easily be a slippery slope that fuel the emotional biases that create a feedback loop that yields nothing productizable (and therefore commercializable) and bankrupts the company.  
+
+To be able to do this, you leverage a mix between your experience, your gut feeling, soft skills and own involvement to validate carefully selected assumptions that you have laid out - at least in your mind - into a plausible chain of milestones that would ultimately yield something.
+You are also able to adjust the entire picture in the light of new elements in quasi real time.
+
+**2/ The people aspect in a precise context**
+
+Since you are the technical expert, you are defacto placed in a group effort most of the time. This means you need to be able to drive this group to a resolution.
+You are capable of being tactical not necessarily strategic with this team, focusing on bringing impact to the goal set.
+
+You are capable of understanding people's technical strengths and shortcomings. You don't necessarily know how to address them, but this is a problem you can take with your manager.
+
+[pagebreak]
+
+Because you can handle these two domains, you are facing the biggest fork of your career: You can continue developing your skills in either areas.
+
+If you decide to go deeper in the people aspect, move to the manager part of this role. Just know that you're going into a different track for a different expectation.
+Going into management is about broadening the picture of the work you do. If you want to increase the horizontal cover of what you will work on, this is the right track.
+This track is 100% about team work. Your main job will not be to deliver features, it will be about building the team and further down the organization that delivers.
+The wins will be your teams, and you'll have to satisfy yourself with the realization that you just coordinated this group of people to get to the finishing line.
+
+If you'd rather go deeper vertically, then the tech track is probably better suited.
+
+If you decide to go deeper in the tech, what comes after is what's relevant to you, but to trigger it, you need to demonstrate the next level. 
+Pass this point, you are entering the legend territory. Engineers that plow through insane problems like it's nothing. To most other engineers, what they do is voodoo.
+
+You have to become the silver bullet, the ace in the deck that is to be leveraged to the most complicated, unexplored, impactful issues the team and the company faces.
+
+- Staff Engineer
+
+Going deeper into the tech track, your role evolves into unpacking garbage requirements. 
+Not garbage because of the incompetence of the people who send it your way. Garbage because it's a pile of deconstructed thoughts with almost no structure to it.
+
+This can be a hyper irreproduceable bug, a magic box system on a pcb, or a vehicle that's supposed to fly, swim and run.
+
+Regardless, you are at such a level of width of domain and depth in each that you can compose on the spot a solution that will work 99% of the time.
+
+When you design something, it is sophisticated out of the box, contains contingencies for executions surprises, clear milestones to push beta/validation points, has considered mid to long term expansions without having to commit to a long term effort to support speculative use cases.
+When you implement it, you are fast, tactical. Your work comes out clean on the first draft, works out of the box and covers all the side pieces (test, jigs, etc)
+
+People like you are hard to come by, so you're trusted with the most impactful work and good managers will protect you and your time like the golden goose you are.
+
+Because of the above, the mention of your name means shit is about to get real. 
+
+All of this is a double edge sword that is earned through an incredible amount of work, focus and dedication.
+
+You may very likely report directly to a Director/VP of Engineering.
+
+- Principal Engineer
+
+Staff Engineers on steroid, you are not only doing all of the above, you are the poster child of the revolution. You are sent to drive and influence industry level changes. You are an evangelist. 
+If you were in another field of science, you'd be the nobel laureate.
+
+You are likely to report to VPE/CTOs.
+
+[pagebreak]
+
+You may have noticed that I didn't use time as a reference for readiness to move up. That's because it's irrelevant. Companies vary dramatically from one to another. 
+The specific project, the opportunity and the culture are all factors of how fast the pace will be. Your own commitment will dictate the pace even further.
+
+You may achieve the goal in 6 months and your peer in 5 years. The levels aren't supposed to be reward for serving your time in a box. It's supposed to represent and simplify a level of performance and its expectations.
+
+Prove that you can deliver, and you will have earned to move up.
+
+
+#### Project
+
+Project as a function encompasses two roles: Project Managers (I put delivery inside Project) and Program Managers.
+
+Seniority here is usually awarded as a thank you, but that's not how I like to use it. I prefer seniority as a mark of walking the managerial track.
+
+Project managers are here to support the execution of one or more projects. Each projects isn't to be interdependent for execution because this would make it a program.
+
+Project and Program are complementary and cover the two dimensional aspects of the coordination work. Program is horizontal (wide surface, shallow depth) while Project is vertical (deep in one domain).
+
+Both require similar skill set to be executed correctly.
+
+First, discipline and organization. Project IC have to be meticulous and organized. This is so essential that it's something you'd want to be almost a personality trait. 
+In the past, I have made an interview room messy on purpose to see if it would bother project manager candidates. 
+That's because you can't have a well organized project without at very least someone constantly pointing out what seems out of place.
+
+Ideally, this person will be able to present fixes or execute them directly. This can be in the form of improving the process or working the process themselves directly. 
+The more, the better, but you never want this to impact their oversight of the project.
+
+Second, communication. Communication skills is a broad topic that lives in a venn diagram to be able to cover which part of communication needs to be mastered for the purpose and audience you're targeting. 
+For this role, we need someone who's capable of being concise, structured while recurrently recapping what was said before. Repetition is very important here - while it can be bad communication in other areas.
+
+The communication here has also a significant social/soft skill purpose. Most peers won't admit not knowing something, so it's important to communicate in a way that keeps a positive face for everyone by dressing the communication as an alignment rather than a blunt finger pointing.
+
+Last, human skills. Being able to support a project means being able to establish the relationships that fluidify all execution. As a project manager, you're not here to force people to do the work. You're the canary in the mine. 
+Everybody loves the canary as they should. Be lovable without losing the power of being respected when you identify a problem. 
+As a Delivery manager, you must be able to exert a soft yet firm assertive push to get the team to move forward. You need mature leadership skills.
+As a Program manager, you must be adaptable, so you can work with different profiles of different departments in order to get the results out.
+
+In all, you need to be confident, assertive and a soft leader. This is by far the most difficult part of a project role.
+
+[pagebreak]
+
+In the end, if you master all these skills, the secondary domain knowledge will rub against you and will be part of you just as much, but the rest of the team will look at you to coordinate the solution to unprocessed problems.
+This is where moving up comes. Either as higher level IC or onto management. 
+
+As a higher level IC, you'll be put in charge of more sensitive/complex projects/programs. As management, you'll be expected to replicate yourself - your way of working and its results.
 
 @#$manager$#@
 ### Manager
+
+When I refer to manager, I refer to the role which includes people management. I consider Product, Project, Delivery and Program Managers as ICs. The title isn't always reflective of the role you carry.
+In a similar way, many people in the tech industry wear fancy titles but are just managers. This is a very simply distinction. If you manage a group of people who are mostly ICs, you are a manager.
+
+As the first role after an ICs, the manager is one of the most important and difficult role to have. This is because you're morphing out of the IC role unto something that's different, while at the same time being called to the IC side on a regular basis with the need to hold back from getting sucked into it again.
+
+If you promote too soon or as a reward for good behaviour (way worse) you are going to not only impair your team's ability to perform, you're also sabotaging this person's career as they will now have the sticky expectation to evolve at a level they aren't equiped to handle. 
+Not only this, but this level they hold on to will no longer provide the platform to learn how to perform. Once you wear the title, you wear the responsibility. This is the implicit contract that goes with every promotion and it never fails to bite back.
+
+here, define too soon. Cover people who are entering the zone of skills but not validated yet as a valid early approach.
+
+HERERERE
+
 
 Coming Soon...
 
@@ -2338,7 +2732,189 @@ Coming Soon...
 @#$vp$#@
 ### VP
 
-Coming Soon...
+At the VP level, your responsibility evolves to a new height with a blanket responsibility for comprehensive need to handle problems and opportunities.
+
+This is why we first need to dive into the three components of senior management: Strategy, Tactic and Execution.
+
+#### Strategy, Tactic and Execution
+Strategy is the work of defining a north star and the rough milestones to get to it. 
+This is rarely if ever a straight line. Usually a complicated journey composed of parallel tracks with moderate to high risk of failure that joins back to create a compounded value unlocking the next step or leapfrog a few.
+
+Tactic is the work of the balance of the impact of the next few steps. 
+What can be done in the direction of the strategy that can have the biggest impact for lowest cost. 
+You're making decision for immediate action that positively impacts the outcome.
+
+Execution is the work of producing, supporting and monitoring the infrastructure, team, processes and workflows that delivers the tactical and strategic direction.
+At the VP level, this is a lot of planning when most of it is delegated to other people. Usually, if you aren't delegating it's a sign of a problem, but it can be just a sign of the company you are in (size, culture, stage, etc).
+
+At the VP level, you are expected to own a department and master the tactical and execution aspect of a given strategy. 
+Your input on the strategy is necessary and expected, but your time has to be spent on the other two.
+
+#### VP of Product
+
+A VP of Product owns the product department. This department is at the junction of multiple role between 'business' and 'engineering'. 
+Tying it back to the [Trifecta](trifecta.html), it looks like this:
+
+![Trifecta Extended](./images/trifecta-extended-product.jpeg) 
+
+Functionally speaking, the Product function incorporates:
+
+1. Product Management
+2. QA
+3. Program Management
+  
+**Product Management** defines the work to be done.
+Product Managers of different level are the one doing most of this work.
+
+**QA** validates the work was done to the definitions.
+QA testers & managers write the test cases with Product Managers, organize the test runs, maintain consistency in the execution, report on the results.
+
+**Program Management** coordinates product-wide, cross-team - usually with external parties.
+Program Managers with different prefixes are the coordinating force, keeping people informed, driving the conversation to resolution, keeping all in check. They are the metronome of the dynamic in place.
+Note that Program Managers aren't exclusive of Product. You will find Program Managers in Engineering and other Business roles.
+
+All these functions represent the infrastructure that guides what the product should be, but also maintains the flow of information circulating around, as once the what is figured out, you need to sustain it for it to become real and communicate it so it can reach the end user.
+
+To that effect, the product function run by the VP of Product must drive and maintain the relationship between roles.
+These relationships require some structure, expected materials and often a routine schedule.
+
+Here is the breakdown I tend to follow. It's not to be used verbatim, the unique situation you are in will require a different balance of importance for each of these. A healthy room for interpretation is necessary and a good VP will know how to adjust. 
+
+##### Product [<->] Engineering
+
+**Purpose:** Get the engineering team on the same page, clarify any dark area and answer all open questions. Some of which will come as the product is being built.
+
+**Key Materials:**
+
+- Product Description
+- Temple Feature Descriptions
+- Version Themes
+- Feature Descriptions, Workflow, Diagrams  (User Stories)
+- Product Designs (UI & UX)
+- Test Cases and Steps (User Validation Testing)
+
+**Meet Schedules:**
+
+- Before new release is scheduled
+- During sprint planning
+- During sprint kick off
+- Optional during Stand Up
+- Every day during QA
+- Any off cycle feature review (feasibility, complexity understanding, etc)
+
+##### Product [<->] Project
+
+**Purpose:** Maintain a clear sense of the progress, the hurdles and the observed timeframe for execution.
+
+**Key Materials:**
+
+- Same as Engineering
+
+**Meet Schedules:**
+
+- 2-3x a week during development phase
+- Every day during QA phase until deployment
+- Before new release/work kickoff
+
+##### Product [<->] Marketing
+
+**Purpose:** The point of the interaction with Marketing is to collect market feedback and to provide product details for the public message that will generate interest to be crafted.
+
+**Key materials:**
+
+- Product Descriptions
+  - Problem Statements
+  - Solutions Provided
+  - Competition Offering
+  - Product Position
+- Temple Feature Sheets
+- Roadmaps
+- Story Telling
+
+**Meet Schedules:**
+
+- 1 to 2 times a month
+- Any exceptional cycles to wrap up projects.
+- Before any release
+
+##### Product [<->] Sales
+
+**Purpose:** Collect feedback, educate sales on key arguments of the product, identify boundaries for sales pitches (what can Sales promise that is within realistic reach).
+
+**Key Materials:**
+
+- Product Descriptions
+  - Problem Statements
+  - Solutions Provided
+  - Competition Offering
+    - Emphasis on differentiating arguments
+  - Product Position
+- Temple Feature Sheets
+- Roadmaps
+
+**Meet Schedules:**
+
+- 1 to 2 times a month
+- Before any release
+
+##### Product [<->] Customer Support
+
+**Purpose:** Collect feedback, identify gaps in support material (manual, tutorial, trouble shooting), continuous improvement of customer experience. 
+
+**Key Materials:**
+
+- Product Descriptions
+- Temple Feature Sheets
+- User Manuals
+- Troubleshooting Guide
+- Tutorials
+- Internal Training
+
+**Meet Schedules:**
+
+- 1 to 2 times a month
+- Upon issues being raised
+
+
+##### Company Wide Communication
+
+The product function as owned and run by the VP of Product has a responsibility to communicate constantly to the wider company. The larger the engagement, the better as this is a common pitfall.
+
+Focusing on the execution part of the Product is usually where too many Product team get lost into, this is why the VP of Product must be keeping track on communication - if not directly communicate to the wider company to get everybody a regular sense of where things are.
+
+The frequency of this depends on the iteration velocity of the company. For instance, if you deploy every week, this communication will be multiple times a week.
+
+The key pieces of information that must be communicated are:
+
+1/ Scope decision for upcoming releases
+
+- Always address why
+- Always anchor it to the north star
+- Always anchor it to the theme of the release
+
+2/ QA/Pre-release progress update
+
+- Daily or multiple times a week
+- Creates dynamism and engagement close to the finishing line
+- Refreshes everyone on what's to come
+- Triggers gap-filling meetings requests from all parts.
+
+3/ Launch celebration
+
+- Wraps up efforts
+- Rewards the wider team for collective effort
+- Rewards key player for exceptional contribution (role model building)
+
+4/ Market results post launch
+
+- Keep the team engaged on the product past launch
+- Engages the team on thinking on next steps
+
+The how matter a lot less than the what and when, but the VP of Product **has to** organize all this work from a department standpoint, fill voids that no one else can in the org and be the face of the collective effort when necessary. 
+
+#### VP of Engineering
+
+HERERERER
 
 @#$csuite$#@
 ### C suite
