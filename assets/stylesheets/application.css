@@ -21,7 +21,7 @@ body
 	background-size:cover;
 	background-repeat:no-repeat;
 	background-attachment:fixed;
-	color: #ddd;
+	color: #fefefe;
 
 }
 
@@ -31,7 +31,7 @@ a
 {
 	text-decoration: none;
     /*color: #8e8e8e;*/
-    color: #ddd;
+    color: #fefefe;
 }
 
 a:hover
@@ -110,7 +110,7 @@ h3.baseline
 	line-height: 35px;
 	font-weight: lighter;
 	letter-spacing: 2px;
-    color: #eee;
+    color: #fefefe;
     /*background-color: orange;*/
 	/*background-color:  rgba(180, 180, 180, 1);*/
 }
@@ -119,11 +119,11 @@ h3.baseline
 	padding-left: 30px;
 	margin-top: -12px;
 	padding-bottom: 30px;
-	
+	width: 100%;
 	font-size: 16px;
-	color: #777;
+	color: #e7711b;
 	
-	border-bottom: 1px solid #777777;
+	border-bottom: 1px solid #afafaf;
 }
 
 #centralcol .rowheader
@@ -160,7 +160,38 @@ h3.baseline
 	padding-top: 8px;
 	font-size: 14px;
 	line-height: 18px;
-	color: #aaaaaa;
+	color: #d3d3d3;
+}
+
+#centralcol .projectdetails img {
+	max-width: 100%;
+	height: auto;
+	width: 200px;
+	border-radius: 8px;
+}
+
+#centralcol .projectsidebyside {
+	padding-top: 12px;
+	display: flex;
+    gap: 30px;
+    align-items: flex-start;
+    margin-bottom: 15px;
+    flex-wrap: wrap;
+}
+
+#centralcol .projectsidetext {
+    flex: 1;
+    font-size: 1em;
+}
+
+#centralcol .projectbuttonlink {
+	/*background: #111111;*/
+	border: 1px #ffffff solid;
+	border-radius: 5px;
+	padding: 12px;
+	display: inline-block;
+	/*font-family: 'Roboto', sans-serif;*/
+    font-weight: 300;
 }
 
 

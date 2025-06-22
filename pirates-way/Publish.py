@@ -189,6 +189,19 @@ for index, page in enumerate(pages):
             next_link = '<a href="./%s.html">Next</a>' % next_key
         final_page_html = final_page_html.replace('[[NEXT]]', next_link)
 
+        redirect_html = """<!DOCTYPE html>
+        <html>
+        <head>
+          <meta http-equiv="refresh" content="0; url=https://arnaud.works/" />
+          <title>Redirecting...</title>
+        </head>
+        <body>
+          <p>The Pirate Way is now a book with updated content making this page obseleted.!<br/>If you are not redirected in 5 seconds, <a href="https://arnaud.works/">click here</a>.</p>
+        </body>
+        </html>
+        """
+
+        final_page_html = redirect_html
         # write end-result to final file
         filename = '%s.html' % page_key
         with open(filename, 'w') as f:
